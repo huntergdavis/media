@@ -9,7 +9,16 @@
 | Elton John Live in Australia with the melbourne symphony       | VHS       |
 | Eminem AKA                                                     | DVD       |
 | Incubus: Alive at Red Rocks                                    | DVD       |
+| Laser Karaoke  60's Hits vol 18                                | Laserdisc |
+| Laser Karaoke  70's Hits vol 8                                 | Laserdisc |
+| Laser Karaoke  70's Hits vol 33                                | Laserdisc |
+| Laser Karaoke  Country Hits vol 7                              | Laserdisc |
+| Laser Karaoke  Standards vol 3                                 | Laserdisc |
+| Laser Karaoke  Standards vol 8                                 | Laserdisc |
+| Laser Karaoke  Standards vol 11                                | Laserdisc |
+| Laser Karaoke  Standards vol 13                                | Laserdisc |
 | Look at All the Love We Found: Live A Tribute to Sublime       | DVD       |
+| Loony Tunes Curtain Calls                                      | Laserdisc |
 | Ludacris: The Red Light District                               | DVD       |
 | Motorhead Stage Fright                                         | HD-DVD    |
 | Motown 25                                                      | DVD       |
@@ -21,6 +30,7 @@
 | Ramones: It's Alive 1974-1996                                  | DVD       |
 | Rock and Roll High School                                      | DVD       |
 | Shania Twain The Platinum Collection                           | DVD       |
+| South Pacific                                                  | Laserdisc |
 | Stone Temple Pilots: Live in the Windy City                    | DVD       |
 | Super Mario History Soundtrack                                 | CD        |
 | Sweatin to the oldies 4                                        | VHS       |
@@ -29,18 +39,8 @@
 | The Best of Mandy Moore                                        | DVD       |
 | The Best of the Johnny Cash TV Show                            | DVD       |
 | The Darkness Permission To Land ... Again                      | Blu-Ray   |
+| The Doors The Soft Parade A Retrospective                      | Laserdisc |
 | The Grateful Dead Movie                                        | DVD       |
 | The Smashing Pumpkins 1991-2000 Greatest Hits Video Collection | DVD       |
 | Weezer Video Capture Device Treasures from the Vault 1992-2002 | DVD       |
 | Welcome to The Darkness                                        | Blu-Ray   |
-| Laser Karaoke  60's Hits vol 18                                | Laserdisc |
-| Laser Karaoke  70's Hits vol 8                                 | Laserdisc |
-| Laser Karaoke  70's Hits vol 33                                | Laserdisc |
-| Laser Karaoke  Country Hits vol 7                              | Laserdisc |
-| Laser Karaoke  Standards vol 3                                 | Laserdisc |
-| Laser Karaoke  Standards vol 8                                 | Laserdisc |
-| Laser Karaoke  Standards vol 11                                | Laserdisc |
-| Laser Karaoke  Standards vol 13                                | Laserdisc |
-| Loony Tunes Curtain Calls                                      | Laserdisc |
-| South Pacific                                                  | Laserdisc |
-| The Doors The Soft Parade A Retrospective                      | Laserdisc |

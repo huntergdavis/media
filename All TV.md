@@ -54,11 +54,13 @@
 | Spawn Season 3 (HBO)                                                                    | DVD       |
 | Spawn: The Ultimate Collection                                                          | DVD       |
 | Stan Lee's Mighty 7 Beginnings                                                          | DVD       |
+| Star Trek Deep Space Nine Episodes 27 and 28                                            | Laserdisc |
 | Stephen King's The Stand                                                                | VHS       |
 | That 70s Show Season 3                                                                  | DVD       |
 | That 70s Show Season 4                                                                  | DVD       |
 | That 70s Show Season 5                                                                  | DVD       |
 | The babysitter's club video #1                                                          | VHS       |
+| The Best of Ray Bradbury Theatre Volume Two                                             | Laserdisc |
 | The Legend of Neil The Complete Series                                                  | DVD       |
 | The Muppet Show with Emotion John                                                       | VHS       |
 | The Muppet show with Mark Hamil                                                         | VHS       |
@@ -69,12 +71,10 @@
 | The Trailer Park Boys Season 3                                                          | DVD       |
 | The Trailer Park Boys Season 4                                                          | DVD       |
 | The Witches of Eastwick Season 1                                                        | DVD       |
+| The X-Files 2x20 and 2x25                                                               | Laserdisc |
+| The X-Files 3x01 and 3x02                                                               | Laserdisc |
 | Tom and Jerry Spotlight Collection                                                      | DVD       |
 | Veronica Mars Season 1                                                                  | DVD       |
 | Whitest Kids You Know Season 1 and 2                                                    | DVD       |
 | Will Ferrell SNL Collection                                                             | DVD       |
 | Workaholics Season 1 and 2                                                              | Blu Ray   |
-| The X-Files 2x20 and 2x25                                                               | Laserdisc |
-| The Best of Ray Bradbury Theatre Volume Two                                             | Laserdisc |
-| Star Trek Deep Space Nine Episodes 27 and 28                                            | Laserdisc |
-| The X-Files 3x01 and 3x02                                                               | Laserdisc |
