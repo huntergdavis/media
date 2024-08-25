@@ -1,0 +1,8 @@
+# Ignore all files in the directory
+/*
+
+# Except for specific file
+!All Concerts and Music Movies.md
+!All Movies.md
+!All TV.md
+!.gitignore
