@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Table Renderer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #url-input {
+            width: 80%;
+            padding: 8px;
+        }
+        #render-button {
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+        #output-table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        #output-table th, #output-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        #output-table th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Markdown Table Renderer</h2>
+
+    <input type="text" id="url-input" placeholder="Enter the URL of the Markdown file" />
+    <button id="render-button">Render</button>
+
+    <div id="table-container"></div>
+
+    <script>
+        document.getElementById('render-button').addEventListener('click', function() {
+            const url = document.getElementById('url-input').value;
+            if (!url) {
+                alert('Please enter a URL');
+                return;
+            }
+
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.text();
+                })
+                .then(markdownText => {
+                    const tableHtml = markdownToHtmlTable(markdownText);
+                    document.getElementById('table-container').innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    alert('Failed to load the markdown file: ' + error.message);
+                });
+        });
+
+        function markdownToHtmlTable(markdownText) {
+            // Regex to match the markdown table
+            const tableRegex = /\|(.+)\|\n\|([-:|\s]+)\|\n((\|.+\|\n)+)/;
+            const match = markdownText.match(tableRegex);
+
+            if (!match) {
+                return '<p>No table found in the markdown file.</p>';
+            }
+
+            const headerRow = match[1].trim().split('|').map(cell => cell.trim());
+            const rows = match[3].trim().split('\n').map(row => 
+                row.trim().split('|').map(cell => cell.trim())
+            );
+
+            let tableHtml = '<table id="output-table">';
+            tableHtml += '<thead><tr>';
+            headerRow.forEach(cell => {
+                tableHtml += `<th>${cell}</th>`;
+            });
+            tableHtml += '</tr></thead><tbody>';
+
+            rows.forEach(row => {
+                tableHtml += '<tr>';
+                row.forEach(cell => {
+                    tableHtml += `<td>${cell}</td>`;
+                });
+                tableHtml += '</tr>';
+            });
+
+            tableHtml += '</tbody></table>';
+
+            return tableHtml;
+        }
+    </script>
+
+</body>
+</html>
