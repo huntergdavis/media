@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Markdown Table Renderer</title>
+    <title>Media Collections (and Markdown Renderer)</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -13,9 +13,10 @@
             width: 80%;
             padding: 8px;
         }
-        #render-button {
+        .action-button {
             padding: 8px 12px;
             cursor: pointer;
+            margin-right: 10px;
         }
         #output-table {
             margin-top: 20px;
@@ -30,44 +31,75 @@
         #output-table th {
             background-color: #f2f2f2;
         }
+        #url-section {
+            display: none; /* Initially hidden */
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
 
-    <h2>Markdown Table Renderer</h2>
+    <h2>Media Collections</h2>
+    <h3>(And Markdown Table Renderer)</h3>
 
-    <input type="text" id="url-input" placeholder="Enter the URL of the Markdown file" />
-    <button id="render-button">Render</button>
+    <button id="toggle-url-button" class="action-button">URL</button>
+    <button id="tv-button" class="action-button">TV</button>
+    <button id="concerts-button" class="action-button">Concerts and Music Movies</button>
+    <button id="movies-button" class="action-button">Movies</button>
+
+    <div id="url-section">
+        <input type="text" id="url-input" placeholder="Enter the URL of the Markdown file" />
+        <button id="render-button" class="action-button">Render</button>
+    </div>
 
     <div id="table-container"></div>
 
     <script>
-        document.getElementById('render-button').addEventListener('click', function() {
-            const url = document.getElementById('url-input').value;
-            if (!url) {
-                alert('Please enter a URL');
-                return;
-            }
+        // Toggle the visibility of the URL section
+        document.getElementById('toggle-url-button').addEventListener('click', function() {
+            const urlSection = document.getElementById('url-section');
+            urlSection.style.display = urlSection.style.display === 'none' || urlSection.style.display === '' ? 'block' : 'none';
+        });
 
+        // Function to fetch and render Markdown table
+        function fetchAndRenderMarkdown(url) {
             fetch(url)
                 .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Network response was not ok');
-                    }
+                    if (!response.ok) throw new Error('Network response was not ok');
                     return response.text();
                 })
                 .then(markdownText => {
                     const tableHtml = markdownToHtmlTable(markdownText);
                     document.getElementById('table-container').innerHTML = tableHtml;
                 })
-                .catch(error => {
-                    alert('Failed to load the markdown file: ' + error.message);
-                });
+                .catch(error => alert('Failed to load the markdown file: ' + error.message));
+        }
+
+        // Attach event listeners to buttons with corresponding URLs
+        document.getElementById('tv-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/main/All%20TV.md');
         });
 
+        document.getElementById('concerts-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/main/All%20Concerts%20and%20Music%20Movies.md');
+        });
+
+        document.getElementById('movies-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/main/All%20Movies.md');
+        });
+
+        document.getElementById('render-button').addEventListener('click', function() {
+            const url = document.getElementById('url-input').value;
+            if (!url) {
+                alert('Please enter a URL');
+                return;
+            }
+            fetchAndRenderMarkdown(url);
+        });
+
+        // Function to convert Markdown table to HTML table
         function markdownToHtmlTable(markdownText) {
-            // Regex to match the markdown table
-            const tableRegex = /\|(.+)\|\n\|([-:|\s]+)\|\n((\|.+\|\n)+)/;
+            const tableRegex = /\|(.+?)\|\n\|([-:|\s]+)\|\n((\|.+?\|\n)+)/;
             const match = markdownText.match(tableRegex);
 
             if (!match) {
@@ -75,18 +107,21 @@
             }
 
             const headerRow = match[1].trim().split('|').map(cell => cell.trim());
-            const rows = match[3].trim().split('\n').map(row => 
+            const rows = match[3].trim().split('\n').map(row =>
                 row.trim().split('|').map(cell => cell.trim())
             );
 
+            const cleanedRows = rows.map(row => row.filter(cell => cell.length > 0));
+            const cleanedHeader = headerRow.filter(cell => cell.length > 0);
+
             let tableHtml = '<table id="output-table">';
             tableHtml += '<thead><tr>';
-            headerRow.forEach(cell => {
+            cleanedHeader.forEach(cell => {
                 tableHtml += `<th>${cell}</th>`;
             });
             tableHtml += '</tr></thead><tbody>';
 
-            rows.forEach(row => {
+            cleanedRows.forEach(row => {
                 tableHtml += '<tr>';
                 row.forEach(cell => {
                     tableHtml += `<td>${cell}</td>`;
