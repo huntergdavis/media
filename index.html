@@ -35,6 +35,12 @@
             display: none; /* Initially hidden */
             margin-bottom: 20px;
         }
+        #search-box {
+            margin-bottom: 20px;
+            padding: 8px;
+            width: 100%;
+            display: none; /* Initially hidden */
+        }
     </style>
 </head>
 <body>
@@ -51,6 +57,9 @@
         <input type="text" id="url-input" placeholder="Enter the URL of the Markdown file" />
         <button id="render-button" class="action-button">Render</button>
     </div>
+
+    <!-- Search box for filtering the table -->
+    <input type="text" id="search-box" placeholder="Search..." />
 
     <div id="table-container"></div>
 
@@ -71,8 +80,19 @@
                 .then(markdownText => {
                     const tableHtml = markdownToHtmlTable(markdownText);
                     document.getElementById('table-container').innerHTML = tableHtml;
+
+                    const tableExists = document.getElementById('output-table');
+                    if (tableExists) {
+                        document.getElementById('search-box').style.display = 'block'; // Show search box if table exists
+                        addSearchFunctionality(); // Add search functionality after rendering table
+                    } else {
+                        document.getElementById('search-box').style.display = 'none'; // Hide search box if no table
+                    }
                 })
-                .catch(error => alert('Failed to load the markdown file: ' + error.message));
+                .catch(error => {
+                    alert('Failed to load the markdown file: ' + error.message);
+                    document.getElementById('search-box').style.display = 'none'; // Hide search box if error occurs
+                });
         }
 
         // Attach event listeners to buttons with corresponding URLs
@@ -132,6 +152,38 @@
             tableHtml += '</tbody></table>';
 
             return tableHtml;
+        }
+
+        // Function to filter table based on search query
+        function addSearchFunctionality() {
+            const searchBox = document.getElementById('search-box');
+
+            // Reapply search filter if there's already text in the search box
+            if (searchBox.value) {
+                applySearchFilter(searchBox.value.toLowerCase());
+            }
+
+            searchBox.addEventListener('input', function() {
+                applySearchFilter(searchBox.value.toLowerCase());
+            });
+        }
+
+        // Function to apply search filter
+        function applySearchFilter(filter) {
+            const table = document.getElementById('output-table');
+            const rows = table.getElementsByTagName('tr');
+
+            // Loop through all table rows, and hide those that don't match the search query
+            for (let i = 1; i < rows.length; i++) { // Start from 1 to skip the header row
+                let row = rows[i];
+                let cells = row.getElementsByTagName('td');
+                let rowText = Array.from(cells).map(cell => cell.textContent.toLowerCase()).join(' ');
+                if (rowText.indexOf(filter) > -1) {
+                    row.style.display = '';
+                } else {
+                    row.style.display = 'none';
+                }
+            }
         }
     </script>
 
