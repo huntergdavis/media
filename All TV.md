@@ -61,9 +61,11 @@
 | That 70s Show Season 5                                                                  | DVD       |
 | The babysitter's club video #1                                                          | VHS       |
 | The Best of Ray Bradbury Theatre Volume Two                                             | Laserdisc |
+| The Jeff Foxworthy Show Season 1                                                        | DVD       |
 | The Legend of Neil The Complete Series                                                  | DVD       |
 | The Muppet Show with Emotion John                                                       | VHS       |
 | The Muppet show with Mark Hamil                                                         | VHS       |
+| The Real World Season 1 New York                                                        | DVD       |
 | The Three Stooges & WC Fields                                                           | DVD       |
 | The Three Stooges 1934-1948 Collection                                                  | DVD       |
 | The Three Stooges Complete                                                              | DVD       |

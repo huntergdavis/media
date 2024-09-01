@@ -15,6 +15,7 @@
 | A Bug's Life                                                                                                                                                   | DVD        |
 | A Charlie Brown Christmas                                                                                                                                      | DVD        |
 | A Few Good Men                                                                                                                                                 | Laserdisc  |
+| A Guy Thing                                                                                                                                                    | DVD        |
 | A Knight's Tale                                                                                                                                                | DVD        |
 | A League of Their Own                                                                                                                                          | Laserdisc  |
 | A Simple Twist of Fate                                                                                                                                         | Laserdisc  |
@@ -159,6 +160,7 @@
 | DC Universe 3-Pack (Green Lantern First Flight, Superman Doomsday, Justice League the New Frontier)                                                            | DVD        |
 | Deadpol 2                                                                                                                                                      | Blu-Ray    |
 | Deadpool                                                                                                                                                       | 4k         |
+| Dear Frankie                                                                                                                                                   | DVD        |
 | Dear Mr Watterson                                                                                                                                              | DVD        |
 | Death Race                                                                                                                                                     | DVD        |
 | Deep Blue Sea                                                                                                                                                  | DVD        |
@@ -339,6 +341,7 @@
 | Katt Williams It's Pimpin Pimpin                                                                                                                               | DVD        |
 | Kick-ass                                                                                                                                                       | Blu-Ray    |
 | Kickin It Old School                                                                                                                                           | DVD        |
+| Kicking and Screaming                                                                                                                                          | DVD        |
 | Kill Bill Vol 2                                                                                                                                                | Blu-Ray    |
 | Kingpin                                                                                                                                                        | DVD        |
 | Kiss the Girls                                                                                                                                                 | Laserdisc  |
@@ -357,6 +360,7 @@
 | Les Miserables                                                                                                                                                 | VHS        |
 | Let's Be Cops                                                                                                                                                  | Blu-Ray    |
 | Lethal Weapon 3                                                                                                                                                | Laserdisc  |
+| Life of the Party                                                                                                                                              | DVD        |
 | Lifestyles of the Ramones                                                                                                                                      | VHS        |
 | Limelight                                                                                                                                                      | Laserdisc  |
 | Limitless                                                                                                                                                      | DVD        |
@@ -466,6 +470,7 @@
 | Police academo                                                                                                                                                 | dvd        |
 | Pollyanna                                                                                                                                                      | DVD        |
 | Predator and Predator 2                                                                                                                                        | Blu-Ray    |
+| Premonition                                                                                                                                                    | DVD        |
 | Priest                                                                                                                                                         | Blu-ray    |
 | Prince Caspian and the Voyage of the Dawn Treader (BBC)                                                                                                        | DVD        |
 | Private Parts (Howard Stern)                                                                                                                                   | DVD        |
@@ -516,6 +521,7 @@
 | Rush Hour 1 and 2 and 3                                                                                                                                        | DVD        |
 | Rusty                                                                                                                                                          | VHS        |
 | S Club 7 in Miami                                                                                                                                              | VHS        |
+| S1M0NE                                                                                                                                                         | DVD        |
 | Sabrina                                                                                                                                                        | Laserdisc  |
 | Sabrina (Harrison Ford)                                                                                                                                        | DVD        |
 | Satisfaction                                                                                                                                                   | DVD        |
@@ -691,6 +697,7 @@
 | The long kiss goodnight                                                                                                                                        | DVD        |
 | the longest yard                                                                                                                                               | DVD        |
 | The longest Yard and Varsity Blues                                                                                                                             | DVD        |
+| The Longshots                                                                                                                                                  | DVD        |
 | The Lord of the rings                                                                                                                                          | VHS        |
 | The Lord of the Rings: The Two Towers (FullScreen Edition)                                                                                                     | DVD        |
 | The Lord of the RingsTrilogy                                                                                                                                   | 4k Blu-Ray |
@@ -714,6 +721,7 @@
 | The Muppet Christmas Carol                                                                                                                                     | DVD        |
 | The Muppet Movie                                                                                                                                               | DVD        |
 | The Musketeer                                                                                                                                                  | DVD        |
+| The Night Before                                                                                                                                               | DVD        |
 | The Number 23                                                                                                                                                  | DVD        |
 | The Nutcracker Prince                                                                                                                                          | Laserdisc  |
 | The One (Jet Li)                                                                                                                                               | DVD        |
@@ -775,6 +783,7 @@
 | The World of Henry Orient                                                                                                                                      | Laserdisc  |
 | The X-File Fight the Future                                                                                                                                    | DVD        |
 | Three Kings                                                                                                                                                    | DVD        |
+| Three Men and a Little Lady                                                                                                                                    | DVD        |
 | thumbelina                                                                                                                                                     | blu-ray    |
 | Titan A.E.                                                                                                                                                     | DVD        |
 | Titanic                                                                                                                                                        | DVD        |
