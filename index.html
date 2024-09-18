@@ -87,6 +87,7 @@
                     return response.text();
                 })
                 .then(markdownText => {
+                    clearSearchAndResults();
                     const tableHtml = markdownToHtmlTable(markdownText);
                     document.getElementById('table-container').innerHTML = tableHtml;
 
@@ -203,6 +204,12 @@
             searchBox.addEventListener('input', function() {
                 applySearchFilter(searchBox.value.toLowerCase());
             });
+        }
+
+        // Function to clear search filter 
+        function clearSearchAndResults(){
+            const searchBox = document.getElementById('search-box');
+            searchBox.value = "";
         }
 
         // Function to apply search filter
