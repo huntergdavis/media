@@ -41,6 +41,12 @@
             width: 100%;
             display: none; /* Initially hidden */
         }
+        #random-button {
+            display: none; /* Initially hidden */
+            padding: 8px 12px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
     </style>
 </head>
 <body>
@@ -52,6 +58,7 @@
     <button id="tv-button" class="action-button">TV</button>
     <button id="concerts-button" class="action-button">Concerts and Music Movies</button>
     <button id="movies-button" class="action-button">Movies</button>
+    <button id="random-button" class="action-button">Random</button>
 
     <div id="url-section">
         <input type="text" id="url-input" placeholder="Enter the URL of the Markdown file" />
@@ -64,6 +71,8 @@
     <div id="table-container"></div>
 
     <script>
+        let currentEntries = [];
+
         // Toggle the visibility of the URL section
         document.getElementById('toggle-url-button').addEventListener('click', function() {
             const urlSection = document.getElementById('url-section');
@@ -84,14 +93,18 @@
                     const tableExists = document.getElementById('output-table');
                     if (tableExists) {
                         document.getElementById('search-box').style.display = 'block'; // Show search box if table exists
+                        document.getElementById('random-button').style.display = 'inline-block'; // Show random button if table exists
+                        currentEntries = extractTableEntries(); // Extract entries for random selection
                         addSearchFunctionality(); // Add search functionality after rendering table
                     } else {
                         document.getElementById('search-box').style.display = 'none'; // Hide search box if no table
+                        document.getElementById('random-button').style.display = 'none'; // Hide random button if no table
                     }
                 })
                 .catch(error => {
                     alert('Failed to load the markdown file: ' + error.message);
                     document.getElementById('search-box').style.display = 'none'; // Hide search box if error occurs
+                    document.getElementById('random-button').style.display = 'none'; // Hide random button if error occurs
                 });
         }
 
@@ -153,6 +166,30 @@
 
             return tableHtml;
         }
+
+        // Function to extract entries from the table for random selection
+        function extractTableEntries() {
+            const rows = document.querySelectorAll('#output-table tbody tr');
+            const entries = [];
+            rows.forEach(row => {
+                const cells = row.querySelectorAll('td');
+                const entry = Array.from(cells).map(cell => cell.innerText).join(' | ');
+                entries.push(entry);
+            });
+            return entries;
+        }
+
+        // Function to show a random entry from the table
+        document.getElementById('random-button').addEventListener('click', function() {
+            if (currentEntries.length > 0) {
+                const randomIndex = Math.floor(Math.random() * currentEntries.length);
+                const searchBox = document.getElementById('search-box');
+                searchBox.value = currentEntries[randomIndex].split('|')[0];
+                applySearchFilter(searchBox.value.toLowerCase());
+            } else {
+                alert('No entries to select from.');
+            }
+        });
 
         // Function to filter table based on search query
         function addSearchFunctionality() {
