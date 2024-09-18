@@ -44,3 +44,5 @@
 | The Smashing Pumpkins 1991-2000 Greatest Hits Video Collection | DVD       |
 | Weezer Video Capture Device Treasures from the Vault 1992-2002 | DVD       |
 | Welcome to The Darkness                                        | Blu-Ray   |
+| Adele Live at the Royal Albert Hall.                           | DVD       |
+| Michael Jackson Number Ones                                    | DVD       |
