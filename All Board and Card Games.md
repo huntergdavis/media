@@ -6,7 +6,7 @@
 | 8082 Big Bicycle Cards                               | Card      |
 | Avengers Infinity War                                | Card      |
 | Back to the Future: Once Through Time                | Board     |
-| Bando                                                | Board     |
+| Bandu (87)                                           | Board     |
 | Bandu                                                | Board     |
 | Battleship Star Wars (2002)                          | Board     |
 | Beats of Balance                                     | Board     |
