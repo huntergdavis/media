@@ -58,6 +58,7 @@
     <button id="tv-button" class="action-button">TV</button>
     <button id="concerts-button" class="action-button">Concerts and Music Movies</button>
     <button id="movies-button" class="action-button">Movies</button>
+    <button id="board-games-button" class="action-button">Board Games</button>
     <button id="random-button" class="action-button">Random</button>
 
     <div id="url-section">
@@ -120,6 +121,10 @@
 
         document.getElementById('movies-button').addEventListener('click', function() {
             fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/main/All%20Movies.md');
+        });
+
+        document.getElementById('board-games-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/refs/heads/main/All%20Board%20and%20Card%20Games.md');
         });
 
         document.getElementById('render-button').addEventListener('click', function() {
