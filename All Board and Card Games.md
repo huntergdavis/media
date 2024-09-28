@@ -6,8 +6,8 @@
 | 8082 Big Bicycle Cards                               | Card      |
 | Avengers Infinity War                                | Card      |
 | Back to the Future: Once Through Time                | Board     |
-| Bandu (87)                                           | Board     |
 | Bandu                                                | Board     |
+| Bandu (87)                                           | Board     |
 | Battleship Star Wars (2002)                          | Board     |
 | Beats of Balance                                     | Board     |
 | Canasta                                              | Board     |
@@ -48,6 +48,7 @@
 | Mille Bornes                                         | Card      |
 | MTV The Throwback Music Party Game                   | Board     |
 | Munchin Quest                                        | Board     |
+| Munchkin Zombies                                     | Board     |
 | Murder She Wrote Mystery Puzzle                      | Puzzle    |
 | Mushroom Mania                                       | Board     |
 | My first Carcassonne                                 | Board     |

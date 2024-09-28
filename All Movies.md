@@ -565,6 +565,8 @@
 | Star Wait                                                                                                                                                      | DVD        |
 | Star Wars 1,2,3                                                                                                                                                | Blu-Ray    |
 | Star Wars 4,5,6                                                                                                                                                | DVD        |
+| Star Wars 4,5,6                                                                                                                                                | Blu-Ray    |
+| Star Wars 4,5,6                                                                                                                                                | VHS        |
 | Star Wars Episode 2                                                                                                                                            | DVD        |
 | Star Wars Episode 3                                                                                                                                            | DVD        |
 | Star Wars Episodes 1,2,3                                                                                                                                       | Blu-Ray    |
