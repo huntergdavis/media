@@ -1,6 +1,7 @@
 
 | Title                                                          | Format    |
 | -------------------------------------------------------------- | --------- |
+| Adele Live at the Royal Albert Hall.                           | DVD       |
 | Bone Thugs and Harmony Live and Uncut                          | DVD       |
 | Bony M Holiday Fireplace                                       | DVD       |
 | Christina Aguilera : Genie Gets Her Wish                       | DVD       |
@@ -20,11 +21,13 @@
 | Look at All the Love We Found: Live A Tribute to Sublime       | DVD       |
 | Loony Tunes Curtain Calls                                      | Laserdisc |
 | Ludacris: The Red Light District                               | DVD       |
+| Michael Jackson Number Ones                                    | DVD       |
 | Motorhead Stage Fright                                         | HD-DVD    |
 | Motown 25                                                      | DVD       |
 | Muse: Manic Depression                                         | DVD       |
 | Nirvana MTV Unplugged in New York                              | DVD       |
 | Paramore: The Final Riot                                       | Blu-Ray   |
+| Pink Floyd The Wall                                            | DVD       |
 | Punk Rock Summer Camp                                          | DVD       |
 | Radiohead 7 Televion Commercials                               | DVD       |
 | Ramones: It's Alive 1974-1996                                  | DVD       |
@@ -44,5 +47,3 @@
 | The Smashing Pumpkins 1991-2000 Greatest Hits Video Collection | DVD       |
 | Weezer Video Capture Device Treasures from the Vault 1992-2002 | DVD       |
 | Welcome to The Darkness                                        | Blu-Ray   |
-| Adele Live at the Royal Albert Hall.                           | DVD       |
-| Michael Jackson Number Ones                                    | DVD       |

@@ -76,3 +76,9 @@
 | Wizard School                                        | Board     |
 | Yahtzee                                              | Dice      |
 | Yatzee                                               | Dice      |
+| Slyvion                                              | Card      |
+| Dragonwood                                           | Dice      |
+| Rummikub                                             | Board     |
+| Zombies!!                                            | Card      |
+| Zombies!! 4 The end                                  | Card      |
+| Talking chess computer                               | Board     |

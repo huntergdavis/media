@@ -1,12 +1,14 @@
 | Title                                                                                   | Format    |
 | --------------------------------------------------------------------------------------- | --------- |
 | 30 Rock Complete                                                                        | Blu-Ray   |
+| 1001 classic commercials                                                                | DVD       |
 | A Town Called Panic                                                                     | Blu-Ray   |
 | Avatar and Korra Complete Series                                                        | Blu Ray   |
 | Batman the Brave and the Bold 4 Episodes                                                | DVD       |
 | Boomtown Season 1                                                                       | DVD       |
 | Boston Legal Season 1                                                                   | DVD       |
 | Boston Legal Season 2                                                                   | DVD       |
+| Boston Legal Season 3                                                                   | DVD       |
 | Captain Caveman Complete                                                                | DVD       |
 | Clerks Animated                                                                         | DVD       |
 | Community Season 1                                                                      | DVD       |
@@ -26,6 +28,7 @@
 | Grey's Anatomy Season 1                                                                 | DVD       |
 | Happily Divorced Season 1                                                               | DVD       |
 | Heroes Complete Series                                                                  | Blu-Ray   |
+| Horatio Hornblower The New Adventures                                                   | DVD       |
 | Hot in Cleveland Season 1                                                               | DVD       |
 | How I Met Your Mother Season 7 Duckie Tie Edition                                       | DVD       |
 | It's Always Sunny In Philadelphia A Very Sunny Christmas                                | DVD       |
@@ -36,6 +39,7 @@
 | Midsomer Murders Series 9                                                               | DVD       |
 | Midsomer Murders Series 10                                                              | DVD       |
 | Moribito Guardian of the Spirit Volume 1                                                | DVD       |
+| Northern Exposure Season 2                                                              | DVD       |
 | Peanuts Emmy Nominated Collection                                                       | DVD       |
 | Poirot - The TV Movie Collection 3                                                      | DVD       |
 | Pride and Prejudice (1997) Special Edition                                              | DVD       |
@@ -54,6 +58,7 @@
 | Spawn Season 3 (HBO)                                                                    | DVD       |
 | Spawn: The Ultimate Collection                                                          | DVD       |
 | Stan Lee's Mighty 7 Beginnings                                                          | DVD       |
+| Stan Lee's Mutants Monsters and Marvels                                                 | DVD       |
 | Star Trek Deep Space Nine Episodes 27 and 28                                            | Laserdisc |
 | Stephen King's The Stand                                                                | VHS       |
 | That 70s Show Season 3                                                                  | DVD       |
