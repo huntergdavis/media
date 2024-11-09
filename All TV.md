@@ -5,6 +5,7 @@
 | A Town Called Panic                                                                     | Blu-Ray   |
 | Avatar and Korra Complete Series                                                        | Blu Ray   |
 | Batman the Brave and the Bold 4 Episodes                                                | DVD       |
+| Battlestar Galactica Complete Series (2000s)                                            | DVD       |
 | Boomtown Season 1                                                                       | DVD       |
 | Boston Legal Season 1                                                                   | DVD       |
 | Boston Legal Season 2                                                                   | DVD       |
@@ -12,6 +13,7 @@
 | Captain Caveman Complete                                                                | DVD       |
 | Clerks Animated                                                                         | DVD       |
 | Community Season 1                                                                      | DVD       |
+| Criminal Minds: Season 2                                                                | DVD       |
 | Crossing Jordan Complete                                                                | DVD       |
 | Dave Attel's Insomniac Tour Uncensored! Presents Sean Rouse, Greg Giraldo and Dane Cook | DVD       |
 | Doctor Who The Complete Second Series                                                   | DVD       |
@@ -33,13 +35,17 @@
 | How I Met Your Mother Season 7 Duckie Tie Edition                                       | DVD       |
 | It's Always Sunny In Philadelphia A Very Sunny Christmas                                | DVD       |
 | La Bande Apicsou (Ducktales)                                                            | DVD       |
+| Laguna Beach Season One                                                                 | DVD       |
+| Law and Order: Special Victims Unit - Season 1                                          | DVD       |
 | Lipstick Jungle Season One                                                              | DVD       |
 | Love Comes Softly Series                                                                | DVD       |
 | Midsomer Murders Series 8                                                               | DVD       |
 | Midsomer Murders Series 9                                                               | DVD       |
 | Midsomer Murders Series 10                                                              | DVD       |
 | Moribito Guardian of the Spirit Volume 1                                                | DVD       |
+| Nip/Tuck Season 1                                                                       | DVD       |
 | Northern Exposure Season 2                                                              | DVD       |
+| Party of Five Season 1                                                                  | DVD       |
 | Peanuts Emmy Nominated Collection                                                       | DVD       |
 | Poirot - The TV Movie Collection 3                                                      | DVD       |
 | Pride and Prejudice (1997) Special Edition                                              | DVD       |
@@ -60,6 +66,7 @@
 | Stan Lee's Mighty 7 Beginnings                                                          | DVD       |
 | Stan Lee's Mutants Monsters and Marvels                                                 | DVD       |
 | Star Trek Deep Space Nine Episodes 27 and 28                                            | Laserdisc |
+| Star Trek: Deep Space Nine The Chosen Collection (All Seasons)                          | DVD       |
 | Stephen King's The Stand                                                                | VHS       |
 | That 70s Show Season 3                                                                  | DVD       |
 | That 70s Show Season 4                                                                  | DVD       |
