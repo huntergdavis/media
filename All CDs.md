@@ -1,3 +1,4 @@
+
 | Title                                                                                                               | Artist                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | *NSYNC                                                                                                              | *NSYNC                                                                                      |
@@ -594,3 +595,5 @@
 | Greatest Hits                                                                                                       | Willie Nelson                                                                               |
 | Louis L'Amour Collection                                                                                            | Willie Nelson, Johnny Cash, Kris Kristofferson, Waylon Jennings                             |
 | Pleasantville Music from the Motion Picture                                                                         | Various Artists                                                                             |
+| Armitage 3 Movie Soundtrack                                                                                         | Various Artists                                                                             |
+| Armitage 3 Movie Soundtrack Cybermatrix                                                                             | Various Artists                                                                             |

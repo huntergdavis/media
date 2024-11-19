@@ -701,6 +701,7 @@
 | The Fifth Element                                                                                                                                              | DVD        |
 | The Firm                                                                                                                                                       | Laserdisc  |
 | The Freddie Mercury tribute concert                                                                                                                            | VHS        |
+| The Frighteners                                                                                                                                                | DVD        |
 | The Fugitive                                                                                                                                                   | Laserdisc  |
 | The Full Monty                                                                                                                                                 | Laserdisc  |
 | The Ghost and Mr. Chicken                                                                                                                                      | DVD        |

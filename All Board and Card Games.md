@@ -4,6 +4,7 @@
 | 007 legendary                                        | Board     |
 | 77 Ways to Play Tenzi                                | Accessory |
 | 8082 Big Bicycle Cards                               | Card      |
+| Aggrevation                                          | Board     |
 | Avengers Infinity War                                | Card      |
 | Back to the Future: Once Through Time                | Board     |
 | Bandu                                                | Board     |
@@ -16,10 +17,13 @@
 | Chinese Checkers                                     | Board     |
 | Close Up Art Card Game                               | Card      |
 | Coup                                                 | Card      |
+| Crazy Creatures of Dr Gloom                          | Card      |
 | Deadwood                                             | Board     |
 | Deck of Many Dungeons                                | Card      |
 | Dominoes (Double 6)                                  | Board     |
 | Dominoes (Double 9)                                  | Board     |
+| Dragonwood                                           | Dice      |
+| Dwarven Miner                                        | Board     |
 | EasyGrasp 500                                        | Puzzle    |
 | elf card scramble                                    | Board     |
 | Escape from the Mall                                 | Board     |
@@ -48,14 +52,18 @@
 | Mille Bornes                                         | Card      |
 | MTV The Throwback Music Party Game                   | Board     |
 | Munchin Quest                                        | Board     |
+| Munchkin Deluxe                                      | Board     |
 | Munchkin Zombies                                     | Board     |
 | Murder She Wrote Mystery Puzzle                      | Puzzle    |
 | Mushroom Mania                                       | Board     |
 | My first Carcassonne                                 | Board     |
 | Playing Card Holders                                 | Accessory |
 | Pound Puppies Pooch on the Loose                     | Board     |
+| Puzzle Strike                                        | Board     |
 | Puzzlespiel Buildream                                | Board     |
 | Rack-O                                               | Board     |
+| Rock Band Manager                                    | Card      |
+| Rummikub                                             | Board     |
 | Rune Age                                             | Board     |
 | Scene it? To Go                                      | Board     |
 | Scrabble Book Lovers Edition                         | Board     |
@@ -63,22 +71,22 @@
 | Set!                                                 | Card      |
 | Sharp Shooters                                       | Board     |
 | Sliders                                              | Board     |
+| Slyvion                                              | Card      |
 | SNL the Game                                         | Board     |
+| South Park 2009 Trivia                               | DVD       |
 | Stampin'                                             | Board     |
 | Star Wards Playing Cards Light + Dark                | Card      |
 | Stargate SG1                                         | Board     |
 | Starlink                                             | Board     |
+| Talking chess computer                               | Board     |
 | THC the Game                                         | Board     |
 | The Clueless Party Game                              | Board     |
 | The Golden Girls                                     | Puzzle    |
 | The Lord of the Rings the Two Towers                 | Board     |
 | Timeline                                             | Board     |
+| Uptown                                               | Board     |
 | Wizard School                                        | Board     |
 | Yahtzee                                              | Dice      |
 | Yatzee                                               | Dice      |
-| Slyvion                                              | Card      |
-| Dragonwood                                           | Dice      |
-| Rummikub                                             | Board     |
 | Zombies!!                                            | Card      |
 | Zombies!! 4 The end                                  | Card      |
-| Talking chess computer                               | Board     |
