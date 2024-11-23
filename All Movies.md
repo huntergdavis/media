@@ -109,6 +109,7 @@
 | Bohenian Rhapsody                                                                                                                                              | Blu-Ray    |
 | Bonnie and Clyde                                                                                                                                               | DVD        |
 | Born of the Fourth of July                                                                                                                                     | HD-DVD     |
+| Bounce                                                                                                                                                         | VHS        |
 | Bram Stoker's Dracula                                                                                                                                          | Blu-Ray    |
 | Brave (Pixar)                                                                                                                                                  | Blu-Ray    |
 | Bring it On                                                                                                                                                    | DVD        |
@@ -140,6 +141,7 @@
 | City Lights                                                                                                                                                    | DVD        |
 | City Slickers                                                                                                                                                  | Laserdisc  |
 | Clash of the Titans                                                                                                                                            | DVD        |
+| Clockers                                                                                                                                                       | DVD        |
 | Club Dread                                                                                                                                                     | DVD        |
 | Clueless Whatever Edition                                                                                                                                      | DVD        |
 | Collateral                                                                                                                                                     | Blu-Ray    |
@@ -158,6 +160,7 @@
 | Crocodile Dundee                                                                                                                                               | Laserdisc  |
 | Crocodile Hunter collision course                                                                                                                              | VHS        |
 | Crossroads                                                                                                                                                     | DVD        |
+| Cry Baby                                                                                                                                                       | DVD        |
 | Cut Throat City                                                                                                                                                | Blu-Ray    |
 | Daphne The Secret Love Life of Daphne du Maurier                                                                                                               | DVD        |
 | Daredevil                                                                                                                                                      | DVD        |
@@ -280,6 +283,7 @@
 | Green Lantern                                                                                                                                                  | DVD        |
 | Gremlins                                                                                                                                                       | DVD        |
 | Gremlins                                                                                                                                                       | DVD        |
+| Grindhouse Planet Terror                                                                                                                                       | DVD        |
 | Gross Anatomy                                                                                                                                                  | DVD        |
 | Gross Pointe Blank                                                                                                                                             | DVD        |
 | Grumpier Old Men                                                                                                                                               | Laserdisc  |
@@ -328,6 +332,15 @@
 | Hulk VS                                                                                                                                                        | DVD        |
 | I'm Not Ashamed (Columbine High School Story)                                                                                                                  | DVD        |
 | Ice Princess                                                                                                                                                   | DVD        |
+| IMAX Blue Planet                                                                                                                                               | DVD        |
+| IMAX China The Panda Adventure                                                                                                                                 | DVD        |
+| IMAX Destiny In Space                                                                                                                                          | DVD        |
+| IMAX Fires of Kuwait                                                                                                                                           | DVD        |
+| IMAX Galapagos                                                                                                                                                 | DVD        |
+| IMAX Into The Deep                                                                                                                                             | DVD        |
+| IMAX Mark Twain's America                                                                                                                                      | DVD        |
+| IMAX Mission to Mir                                                                                                                                            | DVD        |
+| IMAX The Secret of Life On Earth                                                                                                                               | DVD        |
 | Inception                                                                                                                                                      | Blu-Ray    |
 | Independence Day                                                                                                                                               | VHS        |
 | Independence Day                                                                                                                                               | Laserdisc  |
@@ -414,6 +427,7 @@
 | Martin Lawrence you so crazy                                                                                                                                   | DVD        |
 | Mary Poppins                                                                                                                                                   | Laserdisc  |
 | Master and Commander the Far Side of the World                                                                                                                 | DVD        |
+| Max Max The Road Warrior and Beyond Thunderdome                                                                                                                | DVD        |
 | Max Payne Unrated                                                                                                                                              | DVD        |
 | Me Myself and Irene                                                                                                                                            | DVD        |
 | Megamind                                                                                                                                                       | Blu-Ray    |
@@ -514,6 +528,7 @@
 | Pulp Fuction                                                                                                                                                   | DVD        |
 | Punisher War Zone                                                                                                                                              | DVD        |
 | Punk                                                                                                                                                           | VHS        |
+| Purple People Eater / Lucky Seven                                                                                                                              | DVD        |
 | Push                                                                                                                                                           | Blu-Ray    |
 | Python                                                                                                                                                         | DVD        |
 | Queen of the Damned                                                                                                                                            | DVD        |
@@ -645,6 +660,7 @@
 | Sweeny Todd                                                                                                                                                    | DVD        |
 | Swiss Family Robinson (Disney)                                                                                                                                 | DVD        |
 | Switching Channels                                                                                                                                             | Laserdisc  |
+| Tales from Avonlea                                                                                                                                             | VHS        |
 | Talladega Nights The Ballad of Ricky Bobby                                                                                                                     | DVD        |
 | Tangled                                                                                                                                                        | Blu-Ray    |
 | Team America World Police                                                                                                                                      | DVD        |
@@ -887,6 +903,7 @@
 | Varsity Blues                                                                                                                                                  | DVD        |
 | Vertigo                                                                                                                                                        | DVD        |
 | Volcano                                                                                                                                                        | Laserdisc  |
+| Waiting...                                                                                                                                                     | DVD        |
 | Wall E                                                                                                                                                         | DVD        |
 | Wallace and Gromit the Curse of the Were-Rabbit                                                                                                                | DVD        |
 | Wanted                                                                                                                                                         | DVD        |

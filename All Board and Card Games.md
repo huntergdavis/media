@@ -5,6 +5,7 @@
 | 77 Ways to Play Tenzi                                | Accessory |
 | 8082 Big Bicycle Cards                               | Card      |
 | Aggrevation                                          | Board     |
+| All My Children                                      | Board     |
 | Avengers Infinity War                                | Card      |
 | Back to the Future: Once Through Time                | Board     |
 | Bandu                                                | Board     |
@@ -23,6 +24,7 @@
 | Dominoes (Double 6)                                  | Board     |
 | Dominoes (Double 9)                                  | Board     |
 | Dragonwood                                           | Dice      |
+| DropMix                                              | Card      |
 | Dwarven Miner                                        | Board     |
 | EasyGrasp 500                                        | Puzzle    |
 | elf card scramble                                    | Board     |
