@@ -128,6 +128,7 @@
 | Cats                                                                                                                                                           | VHS        |
 | Cave Girl                                                                                                                                                      | Laserdisc  |
 | Chain Reaction                                                                                                                                                 | Laserdisc  |
+| Cheech n Chong's Nice Dreams and Things are Tough all Over                                                                                                     | DVD        |
 | Chicken Little                                                                                                                                                 | DVD        |
 | Chicken Run                                                                                                                                                    | DVD        |
 | Children of Dune                                                                                                                                               | DVD        |
@@ -258,6 +259,7 @@
 | Full Metal Jacket                                                                                                                                              | Laserdisc  |
 | G.I. Jane                                                                                                                                                      | DVD        |
 | Galaxy Quest                                                                                                                                                   | Blu-Ray    |
+| Galaxy Quest                                                                                                                                                   | VHS        |
 | Garfield                                                                                                                                                       | DVD        |
 | Garfield: A Tale of Two Kitties                                                                                                                                | DVD        |
 | Get Him to the Greek                                                                                                                                           | DVD        |
@@ -340,6 +342,7 @@
 | IMAX Into The Deep                                                                                                                                             | DVD        |
 | IMAX Mark Twain's America                                                                                                                                      | DVD        |
 | IMAX Mission to Mir                                                                                                                                            | DVD        |
+| IMAX The Hidden Dimension                                                                                                                                      | DVD        |
 | IMAX The Secret of Life On Earth                                                                                                                               | DVD        |
 | Inception                                                                                                                                                      | Blu-Ray    |
 | Independence Day                                                                                                                                               | VHS        |
@@ -651,6 +654,7 @@
 | Superfly                                                                                                                                                       | Blu-Ray    |
 | Superman                                                                                                                                                       | DVD        |
 | Superman 2                                                                                                                                                     | Laserdisc  |
+| Superman 5-film Collection (1-4 + Superman Returns)                                                                                                            | DVD        |
 | Superman IVlody Time (Walt Disney Classics)                                                                                                            DVD     | DVD        |
 | Superman Returns                                                                                                                                               | HD-DVD     |
 | Superman The Movie                                                                                                                                             | Laserdisc  |

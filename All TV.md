@@ -1,3 +1,4 @@
+
 | Title                                                                                   | Format    |
 | --------------------------------------------------------------------------------------- | --------- |
 | 30 Rock Complete                                                                        | Blu-Ray   |
@@ -18,6 +19,7 @@
 | Dave Attel's Insomniac Tour Uncensored! Presents Sean Rouse, Greg Giraldo and Dane Cook | DVD       |
 | Doctor Who The Complete Second Series                                                   | DVD       |
 | Dr Horrible's Sing Along Blog                                                           | DVD       |
+| Ducktails Volume 1 Episodes 1-27                                                        | DVD       |
 | Farscape 15th anniversary collection 1-4                                                | Blu-Ray   |
 | Farscape Season 1-4 15th Anniversary                                                    | Blu-Ray   |
 | Friends Season 1                                                                        | Blu-Ray   |
@@ -39,6 +41,7 @@
 | Law and Order: Special Victims Unit - Season 1                                          | DVD       |
 | Lipstick Jungle Season One                                                              | DVD       |
 | Love Comes Softly Series                                                                | DVD       |
+| Magilla Gorilla The complete series                                                     | DVD       |
 | Midsomer Murders Series 8                                                               | DVD       |
 | Midsomer Murders Series 9                                                               | DVD       |
 | Midsomer Murders Series 10                                                              | DVD       |
@@ -47,6 +50,7 @@
 | Northern Exposure Season 2                                                              | DVD       |
 | Party of Five Season 1                                                                  | DVD       |
 | Peanuts Emmy Nominated Collection                                                       | DVD       |
+| Penny Arcade The Series Season 1                                                        | DVD       |
 | Poirot - The TV Movie Collection 3                                                      | DVD       |
 | Pride and Prejudice (1997) Special Edition                                              | DVD       |
 | Punked Season 1                                                                         | DVD       |
@@ -74,6 +78,7 @@
 | That 70s Show Season 5                                                                  | DVD       |
 | The babysitter's club video #1                                                          | VHS       |
 | The Best of Ray Bradbury Theatre Volume Two                                             | Laserdisc |
+| The IT Crowd Season 1                                                                   | DVD       |
 | The Jeff Foxworthy Show Season 1                                                        | DVD       |
 | The Legend of Neil The Complete Series                                                  | DVD       |
 | The Muppet Show with Emotion John                                                       | VHS       |

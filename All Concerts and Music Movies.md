@@ -2,6 +2,7 @@
 | Title                                                          | Format    |
 | -------------------------------------------------------------- | --------- |
 | Adele Live at the Royal Albert Hall.                           | DVD       |
+| Bob Dylan 1966 World Tour (The House Movies)                   | DVD       |
 | Bone Thugs and Harmony Live and Uncut                          | DVD       |
 | Bony M Holiday Fireplace                                       | DVD       |
 | Christina Aguilera : Genie Gets Her Wish                       | DVD       |
