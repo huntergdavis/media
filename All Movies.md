@@ -11,6 +11,7 @@
 | 28 Days Later                                                                                                                                                  | DVD        |
 | 28 Weeks Later                                                                                                                                                 | DVD        |
 | 30 Days of Night                                                                                                                                               | DVD        |
+| 50 First Dates                                                                                                                                                 | DVD        |
 | 101 Dalmations (Glen Close)                                                                                                                                    | Laserdisc  |
 | 300                                                                                                                                                            | DVD        |
 | 1408                                                                                                                                                           | Blu -Ray   |
@@ -61,6 +62,7 @@
 | Armageddon                                                                                                                                                     | DVD        |
 | Around the World in 80 Days                                                                                                                                    | DVD        |
 | Art School Confidentual                                                                                                                                        | DVD        |
+| Arthur and George                                                                                                                                              | DVD        |
 | Asteroid Vs Earth                                                                                                                                              | DVD        |
 | Atlantis The Lost Empire                                                                                                                                       | DVD        |
 | Austin Powers -1,2,3, and Spies Like Us                                                                                                                        | DVD        |
@@ -69,6 +71,7 @@
 | Avatar: The Last Airbender                                                                                                                                     | DVD        |
 | Babe, Beethoven, The cat in the Hat                                                                                                                            | DVD        |
 | Babes in Toyland                                                                                                                                               | Laserdisc  |
+| Baby BOOM                                                                                                                                                      | DVD        |
 | Baby Sitters Club                                                                                                                                              | DVD        |
 | Back to the Future                                                                                                                                             | Laserdisc  |
 | Back To the Future Trilogy                                                                                                                                     | 4K Blu-Ray |
@@ -87,6 +90,7 @@
 | Batman The Movie (1960s)                                                                                                                                       | DVD        |
 | Beach Blanket Bingo                                                                                                                                            | Laserdisc  |
 | Beavis and Butthead Do America                                                                                                                                 | DVD        |
+| Bedknobs and Broomsticks                                                                                                                                       | DVD        |
 | Beer League                                                                                                                                                    | DVD        |
 | Beerfest                                                                                                                                                       | DVD        |
 | Beijing 2008 Olympics Opening Ceremony                                                                                                                         | DVD        |
@@ -187,6 +191,7 @@
 | Die Hard with a Vengeance                                                                                                                                      | Laserdisc  |
 | Dirty Rotten Scoundrels                                                                                                                                        | DVD        |
 | Disney Cartoon Classics Mickey and the Gang and Chip n Dale                                                                                                    | Laserdisc  |
+| Doc Martin the Movies                                                                                                                                          | DVD        |
 | Dogma                                                                                                                                                          | DVD        |
 | Dogma (Special Edition)                                                                                                                                        | DVD        |
 | Don Juan DeMarco                                                                                                                                               | VHS        |
@@ -215,6 +220,7 @@
 | Entrapment                                                                                                                                                     | VHS        |
 | Envy                                                                                                                                                           | DVD        |
 | Escape from New York no                                                                                                                                        | DVD        |
+| Essential Earnest Collection (Africa, Army, Family Album, Commercials)                                                                                         | DVD        |
 | ET (both 2002 and Original Versions)                                                                                                                           | DVD        |
 | EuroTrip                                                                                                                                                       | DVD        |
 | Evan Almighty                                                                                                                                                  | HD-DVD     |
@@ -241,8 +247,10 @@
 | Fired Up                                                                                                                                                       | DVD        |
 | first daughter                                                                                                                                                 | DVD        |
 | First Sunday                                                                                                                                                   | Blu-Ray    |
+| Flight of the Navigator                                                                                                                                        | DVD        |
 | Flushed Away                                                                                                                                                   | DVD        |
 | For Your Eyes Only                                                                                                                                             | Laserdisc  |
+| Forgetting Sarah Marshall Unrated                                                                                                                              | DVD        |
 | Forrest Gump                                                                                                                                                   | DVD        |
 | Forrest Gump                                                                                                                                                   | Laserdisc  |
 | Forrest Gump                                                                                                                                                   | Laserdisc  |
@@ -315,6 +323,7 @@
 | Highlander                                                                                                                                                     | DVD        |
 | Highlander 2                                                                                                                                                   | DVD        |
 | Highlander Endgame                                                                                                                                             | VHS        |
+| Highlander the Source                                                                                                                                          | DVD        |
 | Hobo With a Shotgun                                                                                                                                            | DVD        |
 | Home Alone                                                                                                                                                     | Blu-Ray    |
 | Homeward Bound 1 and 2                                                                                                                                         | DVD        |
@@ -403,6 +412,7 @@
 | Limitless                                                                                                                                                      | DVD        |
 | little black book                                                                                                                                              | DVD        |
 | Little Men                                                                                                                                                     | VHS        |
+| Little Women                                                                                                                                                   | DVD        |
 | Little Women (Katherine Hepburn)                                                                                                                               | Laserdisc  |
 | Logan Lucky                                                                                                                                                    | Blu-Ray    |
 | Loony Toones The Movie (Brendan Frasier and Jenna Elfman)                                                                                                      | DVD        |
@@ -447,6 +457,7 @@
 | Miss Fisher and the Crypt of Tears                                                                                                                             | DVD        |
 | Miss Fisher Murder Under the Mistletow                                                                                                                         | DVD        |
 | Mixed Nuts                                                                                                                                                     | DVD        |
+| Monty Python and the Holy Grail                                                                                                                                | DVD        |
 | Monty Python and the Life of Brian                                                                                                                             | DVD        |
 | Moonraker                                                                                                                                                      | Laserdisc  |
 | Mother                                                                                                                                                         | Blu-Ray    |
@@ -464,10 +475,12 @@
 | Mystery Men                                                                                                                                                    | VHS        |
 | Namesake                                                                                                                                                       | DVD        |
 | Nanny McPhee                                                                                                                                                   | Blu-ray    |
+| Natalie Portman Collection (Anywhere but Here, Garden State, Where The Heart Is)                                                                               | DVD        |
 | National Treasure 1                                                                                                                                            | Blu-Ray    |
 | National Treasure 2                                                                                                                                            | Blu Ray    |
 | National Treasure 2                                                                                                                                            | Blu-Ray    |
 | Neverending Story                                                                                                                                              | Blu-Ray    |
+| New York Minute                                                                                                                                                | DVD        |
 | NEXT                                                                                                                                                           | HD-DVD     |
 | Night at the Museum                                                                                                                                            | DVD        |
 | Night of the Living Dead                                                                                                                                       | DVD        |
@@ -561,6 +574,7 @@
 | Richard Simmons birthday blast off                                                                                                                             | VHS        |
 | Richard Simmons sweating to the oldies                                                                                                                         | VHS        |
 | Riddick                                                                                                                                                        | Blu-Ray    |
+| Riddick Trilogy (Pitch Black, The Chronicles of Riddick Dark Fury, Riddick)                                                                                    | DVD        |
 | RIPD                                                                                                                                                           | DVD        |
 | Rising Sun                                                                                                                                                     | DVD        |
 | Robin Hood (disney)                                                                                                                                            | DVD        |
@@ -572,6 +586,7 @@
 | Romancing the Stone                                                                                                                                            | Laserdisc  |
 | Romeo Must Die                                                                                                                                                 | DVD        |
 | Room at the Top                                                                                                                                                | Laserdisc  |
+| Rounders                                                                                                                                                       | DVD        |
 | Run Lola Run                                                                                                                                                   | DVD        |
 | Rush Hour 1 and 2 and 3                                                                                                                                        | DVD        |
 | Rusty                                                                                                                                                          | VHS        |
@@ -592,6 +607,7 @@
 | serendipity                                                                                                                                                    | DVD        |
 | Serenity                                                                                                                                                       | Blu-Ray    |
 | Seven                                                                                                                                                          | DVD        |
+| Seven Psychopaths                                                                                                                                              | DVD        |
 | Shania Twain Up! Live im Chicago                                                                                                                               | DVD        |
 | Shaun of the Dead                                                                                                                                              | DVD        |
 | Shawshank redemption                                                                                                                                           | DVD        |
@@ -715,6 +731,7 @@
 | The Day After Tomorrow                                                                                                                                         | DVD        |
 | The Debut                                                                                                                                                      | DVD        |
 | The Departed                                                                                                                                                   | HD-DVD     |
+| The Dukes of Hazzard                                                                                                                                           | DVD        |
 | The Enforcer                                                                                                                                                   | Laserdisc  |
 | The Evil Dead                                                                                                                                                  | Blu-Ray    |
 | The Expendables                                                                                                                                                | DVD        |
@@ -771,6 +788,7 @@
 | The longest Yard and Varsity Blues                                                                                                                             | DVD        |
 | The Longshots                                                                                                                                                  | DVD        |
 | The Lord of the rings                                                                                                                                          | VHS        |
+| The Lord of the Rings The Return of the King (Fullscreen)                                                                                                      | DVD        |
 | The Lord of the Rings: The Two Towers (FullScreen Edition)                                                                                                     | DVD        |
 | The Lord of the RingsTrilogy                                                                                                                                   | 4k Blu-Ray |
 | The Mad Miss Manton                                                                                                                                            | Laserdisc  |
@@ -840,6 +858,7 @@
 | The Spy Who Loved Me                                                                                                                                           | Laserdisc  |
 | The Stand (Stephen King's)                                                                                                                                     | DVD        |
 | The Surburbans                                                                                                                                                 | DVD        |
+| The Sword in the Stone                                                                                                                                         | DVD        |
 | The Ten Commandments                                                                                                                                           | Laserdisc  |
 | The Terminator                                                                                                                                                 | DVD        |
 | The Thing                                                                                                                                                      | DVD        |
@@ -858,6 +877,7 @@
 | The Wizard of Oz                                                                                                                                               | DVD        |
 | The Wolf of Wall Street                                                                                                                                        | DVD        |
 | The World of Henry Orient                                                                                                                                      | Laserdisc  |
+| The World's Fastest Indian                                                                                                                                     | DVD        |
 | The X-File Fight the Future                                                                                                                                    | DVD        |
 | Three Kings                                                                                                                                                    | DVD        |
 | Three Men and a Little Lady                                                                                                                                    | DVD        |
@@ -909,6 +929,8 @@
 | Volcano                                                                                                                                                        | Laserdisc  |
 | Waiting...                                                                                                                                                     | DVD        |
 | Wall E                                                                                                                                                         | DVD        |
+| Wallace and Gromit A Close Shave                                                                                                                               | DVD        |
+| Wallace and Gromit in Three Amazing Adventures (A Grand Day Out, The Wrong Trowsers, A Close Shave)                                                            | DVD        |
 | Wallace and Gromit the Curse of the Were-Rabbit                                                                                                                | DVD        |
 | Wanted                                                                                                                                                         | DVD        |
 | War of the Worlds                                                                                                                                              | DVD        |
@@ -929,6 +951,7 @@
 | Wild Things Pet Cemetery (Steven King)                                                                                                                         | DVD        |
 | Willard                                                                                                                                                        | DVD        |
 | Willow                                                                                                                                                         | DVD        |
+| Win a Date with Tad Hamilton!                                                                                                                                  | DVD        |
 | Wing Commander                                                                                                                                                 | DVD        |
 | Wish Upon                                                                                                                                                      | Blu-Ray    |
 | With Honors                                                                                                                                                    | Laserdisc  |
