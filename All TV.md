@@ -6,6 +6,7 @@
 | A Town Called Panic                                                                                                 | Blu-Ray   |
 | Avatar and Korra Complete Series                                                                                    | Blu Ray   |
 | Batman the Brave and the Bold 4 Episodes                                                                            | DVD       |
+| Batman: The Animated Series Complete                                                                                | Blu-Ray   |
 | Battlestar Galactica Complete Series (2000s)                                                                        | DVD       |
 | Boomtown Season 1                                                                                                   | DVD       |
 | Boston Legal Season 1                                                                                               | DVD       |

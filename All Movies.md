@@ -312,6 +312,7 @@
 | Harry Potter Collection                                                                                                                                        | Blu-Ray    |
 | Hatari!                                                                                                                                                        | DVD        |
 | Heathers                                                                                                                                                       | DVD        |
+| Heavy Metal and Heavy Metal 2000                                                                                                                               | 4K Blu-Ray |
 | Hellboy                                                                                                                                                        | DVD        |
 | Hellboy 2                                                                                                                                                      | DVD        |
 | Herbie 4-Movie Collection (The Love bug, rides again, goes to monte carlo, goes bannanas)                                                                      | DVD        |
