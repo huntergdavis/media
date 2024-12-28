@@ -1,8 +1,6 @@
 
 | Title                                                                                                               | Artist                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| *NSYNC                                                                                                              | *NSYNC                                                                                      |
-| No Strings Attached                                                                                                 | *NSYNC                                                                                      |
 | Bigger, Better, Faster, More!                                                                                       | 4 Non Blondes                                                                               |
 | Blind Man's Zoo                                                                                                     | 10,000 Maniacs                                                                              |
 | In My Tribe                                                                                                         | 10,000 Maniacs                                                                              |
@@ -95,6 +93,7 @@
 | The Roof Of The World                                                                                               | Doctor Who                                                                                  |
 | Trio                                                                                                                | Dolly Parton, Linda Ronstadt, Emmylou Harris                                                |
 | Now In A Minute                                                                                                     | Donna Lewis                                                                                 |
+| Dr Dre Detox Files                                                                                                  | Dr Dre                                                                                      |
 | Drawn Together: The Uncensored Soundtrack                                                                           | Drawn Together Cast                                                                         |
 | 5,000,000*                                                                                                          | Dread Zeppelin                                                                              |
 | 5,000,000*                                                                                                          | Dread Zeppelin                                                                              |
@@ -114,6 +113,7 @@
 | The Distant Future                                                                                                  | Flight Of The Conchords                                                                     |
 | The Distant Future                                                                                                  | Flight of the Conchords                                                                     |
 | But Here We Are                                                                                                     | Foo Fighters                                                                                |
+| Welcome Interstate Managers                                                                                         | Fountains of Wayne                                                                          |
 | What's Up Doc? (Can We Rock?)                                                                                       | Fu-Schnickens With Shaquille O'Neal                                                         |
 | Garbage                                                                                                             | Garbage                                                                                     |
 | Shantae And The Seven Sirens Official Soundtrack                                                                    | Gavin Allen, Mark Sparling, Prof. Sakamoto                                                  |
@@ -186,6 +186,7 @@
 | Madonna                                                                                                             | Madonna                                                                                     |
 | The Immaculate Collection                                                                                           | Madonna                                                                                     |
 | The Legend Of Zelda: Breath Of The Wild Sound Selection                                                             | Manaka Kataoka, Yasuaki Iwata, Hajime Wakai                                                 |
+| Mandy Moore                                                                                                         | Mandy Moore                                                                                 |
 | #1's                                                                                                                | Mariah Carey                                                                                |
 | Butterfly                                                                                                           | Mariah Carey                                                                                |
 | Daydream                                                                                                            | Mariah Carey                                                                                |
@@ -219,6 +220,8 @@
 | Nevermind                                                                                                           | Nirvana                                                                                     |
 | Nirvana                                                                                                             | Nirvana                                                                                     |
 | FF VIII Music Collection: Music From The Final Fantasy® VIII Video Game                                             | Nobuo Uematsu                                                                               |
+| *NSYNC                                                                                                              | NSYNC                                                                                       |
+| No Strings Attached                                                                                                 | NSYNC                                                                                       |
 | (What's The Story) Morning Glory?                                                                                   | Oasis (2)                                                                                   |
 | OK Go                                                                                                               | OK Go                                                                                       |
 | Old & In The Way                                                                                                    | Old & In The Way                                                                            |
@@ -237,6 +240,7 @@
 | Automatic For The People                                                                                            | R.E.M.                                                                                      |
 | Monster                                                                                                             | R.E.M.                                                                                      |
 | Benny & Joon (Music From The Original Motion Picture Soundtrack)                                                    | Rachel Portman                                                                              |
+| Jams Volume 5                                                                                                       | Radio Disney                                                                                |
 | ...And Out Come The Wolves                                                                                          | Rancid                                                                                      |
 | Indestructible                                                                                                      | Rancid                                                                                      |
 | What Hits!?                                                                                                         | Red Hot Chili Peppers                                                                       |
@@ -336,6 +340,7 @@
 | Forty Licks                                                                                                         | The Rolling Stones                                                                          |
 | Go Simpsonic With The Simpsons: More Original Music From The Television Series                                      | The Simpsons                                                                                |
 | Is This It                                                                                                          | The Strokes                                                                                 |
+| Falconaires                                                                                                         | The United States Air Force Band of the Rockies                                             |
 | Urban Hymns                                                                                                         | The Verve                                                                                   |
 | Bringing Down The Horse                                                                                             | The Wallflowers                                                                             |
 | Bugs Bunny On Broadway (Original Broadway Recording)                                                                | The Warner Bros. Studio Orchestra, George Daugherty                                         |
@@ -587,20 +592,30 @@
 | You're A Good Man, Charlie Brown: The New Broadway Cast Recording                                                   | Various                                                                                     |
 | Zoolander  (Music From The Motion Picture)                                                                          | Various                                                                                     |
 | ワンピース ベスト ソング コレクション = One Piece Best Song Collection                                                               | Various                                                                                     |
+| 1997 Sony Music Monthly Sampler Vol. 5                                                                              | Various Artists                                                                             |
 | Armitage 3 Movie Soundtrack                                                                                         | Various Artists                                                                             |
 | Armitage 3 Movie Soundtrack Cybermatrix                                                                             | Various Artists                                                                             |
 | Disney's Phineas and Pherb Holiday Favorites                                                                        | Various Artists                                                                             |
+| Fun Home (A New Broadway Musical)                                                                                   | Various Artists                                                                             |
 | Garfield Am I Cool Or What?                                                                                         | Various Artists                                                                             |
+| Great Expectations The Album                                                                                        | Various Artists                                                                             |
 | Grooves Volume Eleven                                                                                               | Various Artists                                                                             |
+| Hamilton Original Broadway Cast Recording                                                                           | Various Artists                                                                             |
+| KFOG's Local Scene 2                                                                                                | Various Artists                                                                             |
+| Mentos: The Freshmaker Tour                                                                                         | Various Artists                                                                             |
 | Music From The Motion Picture Goldmember                                                                            | Various Artists                                                                             |
 | Pleasantville Music from the Motion Picture                                                                         | Various Artists                                                                             |
 | Ska Wars                                                                                                            | Various Artists                                                                             |
+| Sweetheart (Love Songs)                                                                                             | Various Artists                                                                             |
+| The Chronicles of Narnia: Prince Caspian Abridged                                                                   | Various Artists                                                                             |
 | World Wrestling Federation The Music                                                                                | Various Artists                                                                             |
 | The Thomas Crown Affair (Music From The MGM Motion Picture)                                                         | Various, Bill Conti                                                                         |
 | The Hitchhiker's Guide To The Galaxy (Original Soundtrack)                                                          | Various, Joby Talbot                                                                        |
 | Contraband                                                                                                          | Velvet Revolver                                                                             |
 | Add It Up (1981-1993)                                                                                               | Violent Femmes                                                                              |
 | Heart And Soul (New Songs From Ally McBeal)                                                                         | Vonda Shepard                                                                               |
+| Alapalooza                                                                                                          | Weird Al Yankovic                                                                           |
+| Amish Paradise                                                                                                      | Weird Al Yankovic                                                                           |
 | Alapalooza                                                                                                          | Weird Al Yankovic                                                                           |
 | Running With Scissors                                                                                               | Weird Al Yankovic                                                                           |
 | The Bodyguard (Original Soundtrack Album)                                                                           | Whitney Houston                                                                             |

@@ -101,3 +101,4 @@
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
 | Will Ferrell SNL Collection                                                                                         | DVD       |
 | Workaholics Season 1 and 2                                                                                          | Blu Ray   |
+| DCs Legends                                                                                                         |           |
