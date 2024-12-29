@@ -60,6 +60,7 @@
     <button id="movies-button" class="action-button">Movies</button>
     <button id="board-games-button" class="action-button">Board Games</button>
     <button id="cds-button" class="action-button">CDs</button>
+    <button id="vinyls-button" class="action-button">Vinyls</button>
     <button id="random-button" class="action-button">Random</button>
 
     <div id="url-section">
@@ -130,6 +131,10 @@
 
         document.getElementById('board-games-button').addEventListener('click', function() {
             fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/refs/heads/main/All%20Board%20and%20Card%20Games.md');
+        });
+
+        document.getElementById('vinyls-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/refs/heads/main/Vinyl.md');
         });
 
         document.getElementById('render-button').addEventListener('click', function() {
