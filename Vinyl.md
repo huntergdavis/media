@@ -1,7 +1,7 @@
 
 | Title                                                                   | Artist                                                  |
 | ----------------------------------------------------------------------- | ------------------------------------------------------- |
-| Scott Pilgrem: The World: The Game                                      | Anamanaguchi                                            |
+| Scott Pilgrim VS The World: The Game                                    | Anamanaguchi                                            |
 | Vol 2                                                                   | Billie Holiday                                          |
 | Billie Holiday's Greatest Hits                                          | Billie Holiday                                          |
 | Eat to the Beat                                                         | Blondie                                                 |
