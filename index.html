@@ -61,6 +61,7 @@
     <button id="board-games-button" class="action-button">Board Games</button>
     <button id="cds-button" class="action-button">CDs</button>
     <button id="vinyls-button" class="action-button">Vinyls</button>
+    <button id="retro-games-button" class="action-button">Retro Games</button>
     <button id="random-button" class="action-button">Random</button>
 
     <div id="url-section">
@@ -135,6 +136,10 @@
 
         document.getElementById('vinyls-button').addEventListener('click', function() {
             fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/refs/heads/main/Vinyl.md');
+        });
+
+        document.getElementById('retro-games-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/refs/heads/main/Retro%20Games.md');
         });
 
         document.getElementById('render-button').addEventListener('click', function() {
