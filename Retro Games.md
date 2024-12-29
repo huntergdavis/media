@@ -201,3 +201,11 @@
 | Star Trek                                                 | Yes  | Yes     | Xbox 360          |
 | Need for Speed Undercover                                 | Yes  | Yes     | Xbox 360          |
 | The Elder Scrolls V: Skyrim                               | Yes  | Yes     | Xbox 360          |
+| Race with Ryan                                            | Yes  | Yes     | Xbox One          |
+| The Witcher 3: Wild Hunt                                  | Yes  | Yes     | Xbox One          |
+| Hogwarts Legacy                                           | Yes  | Yes     | Xbox One          |
+| Megaman 11                                                | Yes  | Yes     | Xbox One          |
+| Batman Arkhan Knight                                      | Yes  | Yes     | Xbox One          |
+| Rare Replay                                               | Yes  | Yes     | Xbox One          |
+| Fallout 4                                                 | Yes  | Yes     | Xbox One          |
+| Assassins Creed Odyssey                                   | Yes  | Yes     | Xbox One          |
