@@ -1,6 +1,12 @@
 
 | Title                                                     | Box? | Manual? | Platform          |
 | --------------------------------------------------------- | ---- | ------- | ----------------- |
+| KLAX                                                      | yes  | yes     | Atari Lynx        |
+| Roadblasters                                              | yes  | yes     | Atari Lynx        |
+| Warbirds                                                  | yes  | yes     | Atari Lynx        |
+| California Games                                          | no   | no      | Atari Lynx        |
+| Todd's Adventures in Slime World                          | no   | no      | Atari Lynx        |
+| Blue Lightning                                            | yes  | no      | Atari Lynx        |
 | Attack of the Petscii Robots                              | yes  | yes     | Commodore 64      |
 | Eye of the Gods                                           | yes  | yes     | Commodore 64/128  |
 | Donkey Kong 94                                            | no   | no      | Game Boy          |
