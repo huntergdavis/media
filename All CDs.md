@@ -606,6 +606,7 @@
 | Music From The Motion Picture Goldmember                                                                            | Various Artists                                                                             |
 | Pleasantville Music from the Motion Picture                                                                         | Various Artists                                                                             |
 | Ska Wars                                                                                                            | Various Artists                                                                             |
+| Stockings by the Fire - A Starbucks Holiday                                                                         | Various Artists                                                                             |
 | Sweetheart (Love Songs)                                                                                             | Various Artists                                                                             |
 | The Chronicles of Narnia: Prince Caspian Abridged                                                                   | Various Artists                                                                             |
 | World Wrestling Federation The Music                                                                                | Various Artists                                                                             |
@@ -615,8 +616,8 @@
 | Add It Up (1981-1993)                                                                                               | Violent Femmes                                                                              |
 | Heart And Soul (New Songs From Ally McBeal)                                                                         | Vonda Shepard                                                                               |
 | Alapalooza                                                                                                          | Weird Al Yankovic                                                                           |
-| Amish Paradise                                                                                                      | Weird Al Yankovic                                                                           |
 | Alapalooza                                                                                                          | Weird Al Yankovic                                                                           |
+| Amish Paradise                                                                                                      | Weird Al Yankovic                                                                           |
 | Running With Scissors                                                                                               | Weird Al Yankovic                                                                           |
 | The Bodyguard (Original Soundtrack Album)                                                                           | Whitney Houston                                                                             |
 | Whitney Houston                                                                                                     | Whitney Houston                                                                             |

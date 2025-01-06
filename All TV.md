@@ -101,4 +101,5 @@
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
 | Will Ferrell SNL Collection                                                                                         | DVD       |
 | Workaholics Season 1 and 2                                                                                          | Blu Ray   |
-| DCs Legends of Tomorrow Full Series                                                                                 | Blu Ray   |
+| DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray  | Blu Ray   |
+| American Gladiators (2009) Ultimate Workout                                                                         | DVD       |

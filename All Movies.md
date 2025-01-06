@@ -5,6 +5,7 @@
 | 6 Ben Affleck and Matt Damon movies, Phantoms, Net Force, Existenze, Gerry, Spy, and Road Killers.                                                             | DVD        |
 | 9                                                                                                                                                              | DVD        |
 | 10                                                                                                                                                             | Laserdisc  |
+| 10 Things I Hate about You                                                                                                                                     | DVD        |
 | 12 Monkeys                                                                                                                                                     | DVD        |
 | 20,000 Leagues Under The Sea                                                                                                                                   | Laserdisc  |
 | 28 Days                                                                                                                                                        | DVD        |
@@ -15,6 +16,7 @@
 | 101 Dalmations (Glen Close)                                                                                                                                    | Laserdisc  |
 | 300                                                                                                                                                            | DVD        |
 | 1408                                                                                                                                                           | Blu -Ray   |
+| 2002: A Space Travesty                                                                                                                                         | DVD        |
 | A Bug's Life                                                                                                                                                   | DVD        |
 | A Charlie Brown Christmas                                                                                                                                      | DVD        |
 | A Few Good Men                                                                                                                                                 | Laserdisc  |
@@ -39,6 +41,7 @@
 | Alien Anthology Movie Set                                                                                                                                      | Blu-Ray    |
 | Aliens                                                                                                                                                         | DVD        |
 | All Dogs Go to Heaven                                                                                                                                          | Laserdisc  |
+| All Dogs Go to Heaven 1 and 2                                                                                                                                  | DVD        |
 | Along Came a Spider                                                                                                                                            | DVD        |
 | Alvin and the Chipmunks Go To the Movies Daytona Jones and the Pearl of Wisdom                                                                                 | DVD        |
 | Amelie                                                                                                                                                         | DVD        |
@@ -88,6 +91,7 @@
 | Batman Begins                                                                                                                                                  | HD-DVD     |
 | Batman The Killing Joke                                                                                                                                        | DVD        |
 | Batman The Movie (1960s)                                                                                                                                       | DVD        |
+| Be Kind Rewind                                                                                                                                                 | DVD        |
 | Beach Blanket Bingo                                                                                                                                            | Laserdisc  |
 | Beavis and Butthead Do America                                                                                                                                 | DVD        |
 | Bedknobs and Broomsticks                                                                                                                                       | DVD        |
@@ -187,6 +191,7 @@
 | Denial                                                                                                                                                         | DVD        |
 | Denis Leary and Friends                                                                                                                                        | DVD        |
 | Desiree                                                                                                                                                        | Laserdisc  |
+| Dickie Roberts Child Star                                                                                                                                      | DVD        |
 | Die Hard Collection                                                                                                                                            | Blu-Ray    |
 | Die Hard with a Vengeance                                                                                                                                      | Laserdisc  |
 | Dirty Rotten Scoundrels                                                                                                                                        | DVD        |
@@ -362,6 +367,7 @@
 | Indiana Jones Collection                                                                                                                                       | DVD        |
 | Indiana Jones Trilogy                                                                                                                                          | DVD        |
 | InkHeart                                                                                                                                                       | Blu-Ray    |
+| Intolerable Cruelty                                                                                                                                            | DVD        |
 | iRobot                                                                                                                                                         | DVD        |
 | Iron Man                                                                                                                                                       | DVD        |
 | It                                                                                                                                                             | DVD        |
@@ -383,6 +389,7 @@
 | Journey to the Center of the Earth                                                                                                                             | Blu-Ray    |
 | JRR Tolkien: Master of the Rings                                                                                                                               | DVD        |
 | Judge Dread                                                                                                                                                    | DVD        |
+| Jumanji                                                                                                                                                        | DVD        |
 | Jumper                                                                                                                                                         | Blu-Ray    |
 | Jurassic Park                                                                                                                                                  | Blu-Ray    |
 | Katt Williams It's Pimpin Pimpin                                                                                                                               | DVD        |
@@ -413,6 +420,7 @@
 | Limitless                                                                                                                                                      | DVD        |
 | little black book                                                                                                                                              | DVD        |
 | Little Men                                                                                                                                                     | VHS        |
+| Little Nicky                                                                                                                                                   | DVD        |
 | Little Women                                                                                                                                                   | DVD        |
 | Little Women (Katherine Hepburn)                                                                                                                               | Laserdisc  |
 | Logan Lucky                                                                                                                                                    | Blu-Ray    |
@@ -457,6 +465,7 @@
 | Miss Congeniality                                                                                                                                              | DVD        |
 | Miss Fisher and the Crypt of Tears                                                                                                                             | DVD        |
 | Miss Fisher Murder Under the Mistletow                                                                                                                         | DVD        |
+| Miss Pettigrew Lives for a Day                                                                                                                                 | DVD        |
 | Mixed Nuts                                                                                                                                                     | DVD        |
 | Monty Python and the Holy Grail                                                                                                                                | DVD        |
 | Monty Python and the Life of Brian                                                                                                                             | DVD        |
@@ -617,6 +626,7 @@
 | Sherlock Holmes: A Game of Shadows                                                                                                                             | Blu-Ray    |
 | Sherlock Holmes:A Game of Shadows                                                                                                                              | Blu-Ray    |
 | Shooter                                                                                                                                                        | HD-DVD     |
+| Sidewalks of New York                                                                                                                                          | DVD        |
 | Simply Irresistible                                                                                                                                            | DVD        |
 | Sin City                                                                                                                                                       | DVD        |
 | Singles and Empire Records                                                                                                                                     | DVD        |
@@ -762,6 +772,7 @@
 | The Hangover                                                                                                                                                   | DVD        |
 | The Haunted Strangler and Corridors of Blood Boriz Karloff                                                                                                     | Laserdisc  |
 | The Heat                                                                                                                                                       | DVD        |
+| The History Boys                                                                                                                                               | DVD        |
 | The Hitchhiker's Guide to the Galaxy                                                                                                                           | DVD        |
 | The Hitchhikers Guide to the Galaxy                                                                                                                            | DVD        |
 | The Hobbit (Rankin Bass)                                                                                                                                       | DVD        |
@@ -797,6 +808,7 @@
 | The Magnificent Seven Collection                                                                                                                               | Blu-Ray    |
 | The Magnificent Sevent                                                                                                                                         | DVD        |
 | The Maltese Falcon                                                                                                                                             | Blu-Ray    |
+| The Man in the Iron Mask                                                                                                                                       | DVD        |
 | The Man With The Golden Gun                                                                                                                                    | Laserdisc  |
 | The Mask of Zorro                                                                                                                                              | DVD        |
 | The Matrix                                                                                                                                                     | DVD        |
@@ -929,6 +941,7 @@
 | Vertigo                                                                                                                                                        | DVD        |
 | Volcano                                                                                                                                                        | Laserdisc  |
 | Waiting...                                                                                                                                                     | DVD        |
+| Walk the Line                                                                                                                                                  | DVD        |
 | Wall E                                                                                                                                                         | DVD        |
 | Wallace and Gromit A Close Shave                                                                                                                               | DVD        |
 | Wallace and Gromit in Three Amazing Adventures (A Grand Day Out, The Wrong Trowsers, A Close Shave)                                                            | DVD        |
