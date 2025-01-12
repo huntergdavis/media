@@ -86,6 +86,7 @@
 | Badder Santa                                                                                                                                                   | DVD        |
 | Balls of Fury                                                                                                                                                  | DVD        |
 | Band Slam                                                                                                                                                      | Blu-Ray    |
+| Band Slam                                                                                                                                                      | DVD        |
 | Batman and Batman Returns                                                                                                                                      | DVD        |
 | Batman Begin                                                                                                                                                   | Blu-Ray    |
 | Batman Begins                                                                                                                                                  | HD-DVD     |
@@ -127,6 +128,7 @@
 | Cadallic Man                                                                                                                                                   | Laserdisc  |
 | CaddyShack                                                                                                                                                     | DVD        |
 | Cadillac Man                                                                                                                                                   | Laserdisc  |
+| Calamity Jane                                                                                                                                                  | DVD        |
 | Camp Nowhere and Baby secret and My father the hero                                                                                                            | DVD        |
 | Captain America                                                                                                                                                | DVD        |
 | Captain America Civil War                                                                                                                                      | DVD        |
@@ -195,6 +197,7 @@
 | Die Hard Collection                                                                                                                                            | Blu-Ray    |
 | Die Hard with a Vengeance                                                                                                                                      | Laserdisc  |
 | Dirty Rotten Scoundrels                                                                                                                                        | DVD        |
+| Dirty Work                                                                                                                                                     | DVD        |
 | Disney Cartoon Classics Mickey and the Gang and Chip n Dale                                                                                                    | Laserdisc  |
 | Doc Martin the Movies                                                                                                                                          | DVD        |
 | Dogma                                                                                                                                                          | DVD        |
@@ -217,6 +220,7 @@
 | DuckTales the movie treasure of the Lost Lamp                                                                                                                  | VHS        |
 | east is east                                                                                                                                                   | DVD        |
 | Eighth Grade                                                                                                                                                   | Blu-Ray    |
+| Elektra                                                                                                                                                        | DVD        |
 | Elf                                                                                                                                                            | DVD        |
 | Ella Enchanted                                                                                                                                                 | DVD        |
 | Elvira Mistress of the Night                                                                                                                                   | VHS        |
@@ -237,6 +241,7 @@
 | F.I.S.T.                                                                                                                                                       | Laserdisc  |
 | F/X                                                                                                                                                            | Laserdisc  |
 | Fakers                                                                                                                                                         | DVD        |
+| Falling Down (Burnt Academy Version?)                                                                                                                          | DVD-R      |
 | Fantasia                                                                                                                                                       | Laserdisc  |
 | Fantastic 4 Rise of the Silver Surfer                                                                                                                          | DVD        |
 | Far Out Man                                                                                                                                                    | DVD        |
@@ -412,6 +417,7 @@
 | Leon The Professional Uncut International Edition                                                                                                              | DVD        |
 | Les Miserables                                                                                                                                                 | VHS        |
 | Les Miserables                                                                                                                                                 | VHS        |
+| Les Miserables                                                                                                                                                 | DVD        |
 | Let's Be Cops                                                                                                                                                  | Blu-Ray    |
 | Lethal Weapon 3                                                                                                                                                | Laserdisc  |
 | Life of the Party                                                                                                                                              | DVD        |
@@ -430,6 +436,7 @@
 | Lord of the Rings: The Fellowship of the Ring (Fullscreen)                                                                                                     | DVD        |
 | Love comes softly trilogy                                                                                                                                      | VHS        |
 | Love, Simon                                                                                                                                                    | Blu-Ray    |
+| Lullaby of Broadway                                                                                                                                            | DVD        |
 | Mac and Devin Go to High School                                                                                                                                | DVD        |
 | Macao                                                                                                                                                          | Laserdisc  |
 | Machete                                                                                                                                                        | DVD        |
@@ -541,6 +548,7 @@
 | Pixar Short Films Collection 2                                                                                                                                 | DVD        |
 | Planet 51                                                                                                                                                      | DVD        |
 | Platoon                                                                                                                                                        | DVD        |
+| Please Don't Eat the Daisies                                                                                                                                   | DVD        |
 | Police academo                                                                                                                                                 | dvd        |
 | Pollyanna                                                                                                                                                      | DVD        |
 | Predator and Predator 2                                                                                                                                        | Blu-Ray    |
@@ -605,6 +613,7 @@
 | Sabrina                                                                                                                                                        | Laserdisc  |
 | Sabrina (Harrison Ford)                                                                                                                                        | DVD        |
 | Satisfaction                                                                                                                                                   | DVD        |
+| Saved                                                                                                                                                          | DVD        |
 | Saving Private Ryan                                                                                                                                            | DVD        |
 | Saving Silverman                                                                                                                                               | DVD        |
 | Saw                                                                                                                                                            | DVD        |
@@ -653,6 +662,7 @@
 | Star Trek Generations                                                                                                                                          | DVD        |
 | Star Trek Generations                                                                                                                                          | VHS        |
 | Star Trek Insurrection                                                                                                                                         | VHS        |
+| Star Trek VIII First Contact                                                                                                                                   | Blu-Ray    |
 | Star Trek: Original Movies 1 - 10                                                                                                                              | Blu-Ray    |
 | Star Wait                                                                                                                                                      | DVD        |
 | Star Wars 1,2,3                                                                                                                                                | Blu-Ray    |
@@ -724,6 +734,7 @@
 | The Care Bears Movie                                                                                                                                           | DVD        |
 | The Cat and the Canary                                                                                                                                         | DVD        |
 | The Catherine Tate Comic Relief Special                                                                                                                        | DVD        |
+| The Cell                                                                                                                                                       | DVD        |
 | The Christopher Nolan Collection 2006-2014 The Prestige, Batman Trilogy, Inception, Interstellar                                                               | DVD        |
 | The Chronicles of Narnia                                                                                                                                       | DVD        |
 | The Chronicles of Narnia BBC Collection {The Lion The Witch and The Wardrobe, Prince Caspian, The Silver Chair}                                                | DVD        |
@@ -754,6 +765,7 @@
 | The Full Monty                                                                                                                                                 | Laserdisc  |
 | The Ghost and Mr. Chicken                                                                                                                                      | DVD        |
 | The Girl Next Door                                                                                                                                             | DVD        |
+| The Glass Bottom Boat                                                                                                                                          | DVD        |
 | The Godfather                                                                                                                                                  | DVD        |
 | The Gods Must Be Crazy                                                                                                                                         | DVD        |
 | The Good Shepherd                                                                                                                                              | HD-DVD     |
@@ -884,6 +896,7 @@
 | The Village                                                                                                                                                    | DVD        |
 | The War With Grandpa                                                                                                                                           | Blu-Ray    |
 | The Warriors                                                                                                                                                   | Blu-Ray    |
+| The Watch                                                                                                                                                      | Blu-Ray    |
 | The Wedding Singer                                                                                                                                             | DVD        |
 | The Wedding Singer (Totally Awesome Edition)                                                                                                                   | DVD        |
 | The Whole Nine Yards                                                                                                                                           | DVD        |
@@ -980,4 +993,5 @@
 | Year One                                                                                                                                                       | DVD        |
 | You Don't Mess With the Zohan                                                                                                                                  | DVD        |
 | You've Got Mail                                                                                                                                                | DVD        |
+| Young Man with a Horn                                                                                                                                          | DVD        |
 | Your Highness (Unrated)                                                                                                                                        | DVD        |

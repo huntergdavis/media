@@ -4,6 +4,7 @@
 | 30 Rock Complete                                                                                                    | Blu-Ray   |
 | 1001 classic commercials                                                                                            | DVD       |
 | A Town Called Panic                                                                                                 | Blu-Ray   |
+| American Gladiators (2009) Ultimate Workout                                                                         | DVD       |
 | Avatar and Korra Complete Series                                                                                    | Blu Ray   |
 | Batman the Brave and the Bold 4 Episodes                                                                            | DVD       |
 | Batman: The Animated Series Complete                                                                                | Blu-Ray   |
@@ -18,6 +19,7 @@
 | Criminal Minds: Season 2                                                                                            | DVD       |
 | Crossing Jordan Complete                                                                                            | DVD       |
 | Dave Attel's Insomniac Tour Uncensored! Presents Sean Rouse, Greg Giraldo and Dane Cook                             | DVD       |
+| DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray  | Blu Ray   |
 | Doctor Who The Complete Second Series                                                                               | DVD       |
 | Dr Horrible's Sing Along Blog                                                                                       | DVD       |
 | Ducktails Volume 1 Episodes 1-27                                                                                    | DVD       |
@@ -75,6 +77,7 @@
 | Star Trek Deep Space Nine Episodes 27 and 28                                                                        | Laserdisc |
 | Star Trek: Deep Space Nine The Chosen Collection (All Seasons)                                                      | DVD       |
 | Stephen King's The Stand                                                                                            | VHS       |
+| Strangers With Candy Season 3                                                                                       | DVD       |
 | That 70s Show Season 3                                                                                              | DVD       |
 | That 70s Show Season 4                                                                                              | DVD       |
 | That 70s Show Season 5                                                                                              | DVD       |
@@ -101,5 +104,3 @@
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
 | Will Ferrell SNL Collection                                                                                         | DVD       |
 | Workaholics Season 1 and 2                                                                                          | Blu Ray   |
-| DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray  | Blu Ray   |
-| American Gladiators (2009) Ultimate Workout                                                                         | DVD       |

@@ -146,6 +146,10 @@
 | Goldeneye 007                                             | yes  | yes     | Wii               |
 | Indiana Jones and the Staff of Kings                      | yes  | yes     | Wii               |
 | The Lord of the Rings Aragorn's Quest                     | yes  | yes     | Wii               |
+| Game Party 2                                              | Yes  | Yes     | Wii               |
+| Sonic Unleashed                                           | Yes  | Yes     | Wii               |
+| Donkey Kong Country Returns                               | Yes  | Yes     | Wii               |
+| Hip Hop Dance Experience                                  | Yes  | Yes     | Wii               |
 | Brute Force                                               | Yes  | Yes     | Xbox              |
 | Circus Maximus                                            | Yes  | Yes     | Xbox              |
 | Conflict: Desert Storm                                    | Yes  | Yes     | Xbox              |
