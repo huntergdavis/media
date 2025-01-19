@@ -67,6 +67,7 @@
 | Art School Confidentual                                                                                                                                        | DVD        |
 | Arthur and George                                                                                                                                              | DVD        |
 | Asteroid Vs Earth                                                                                                                                              | DVD        |
+| Astro Boy                                                                                                                                                      | DVD        |
 | Atlantis The Lost Empire                                                                                                                                       | DVD        |
 | Austin Powers -1,2,3, and Spies Like Us                                                                                                                        | DVD        |
 | Australia                                                                                                                                                      | DVD        |
@@ -79,8 +80,8 @@
 | Back to the Future                                                                                                                                             | Laserdisc  |
 | Back To the Future Trilogy                                                                                                                                     | 4K Blu-Ray |
 | Backdraft                                                                                                                                                      | DVD        |
-| Backdraft                                                                                                                                                      | VHS        |
 | Backdraft                                                                                                                                                      | Laserdisc  |
+| Backdraft                                                                                                                                                      | VHS        |
 | Bad Boys                                                                                                                                                       | DVD        |
 | Bad Santa Directors Cut                                                                                                                                        | DVD        |
 | Badder Santa                                                                                                                                                   | DVD        |
@@ -202,8 +203,8 @@
 | Doc Martin the Movies                                                                                                                                          | DVD        |
 | Dogma                                                                                                                                                          | DVD        |
 | Dogma (Special Edition)                                                                                                                                        | DVD        |
-| Don Juan DeMarco                                                                                                                                               | VHS        |
 | Don Juan Demarco                                                                                                                                               | Laserdisc  |
+| Don Juan DeMarco                                                                                                                                               | VHS        |
 | Don't tell Mom the babysitter's dead                                                                                                                           | VHS        |
 | Doom Unrated Extended Edition                                                                                                                                  | DVD        |
 | Double Indemnity                                                                                                                                               | Laserdisc  |
@@ -233,8 +234,9 @@
 | ET (both 2002 and Original Versions)                                                                                                                           | DVD        |
 | EuroTrip                                                                                                                                                       | DVD        |
 | Evan Almighty                                                                                                                                                  | HD-DVD     |
-| Ever After                                                                                                                                                     | VHS        |
 | Ever After                                                                                                                                                     | Blu-Ray    |
+| Ever After                                                                                                                                                     | VHS        |
+| Everything Everywhere All At Once                                                                                                                              | DVD        |
 | Evil Dead 2                                                                                                                                                    | DVD        |
 | Evil Dead 2                                                                                                                                                    | VHS        |
 | Evolution                                                                                                                                                      | DVD        |
@@ -365,8 +367,8 @@
 | IMAX The Hidden Dimension                                                                                                                                      | DVD        |
 | IMAX The Secret of Life On Earth                                                                                                                               | DVD        |
 | Inception                                                                                                                                                      | Blu-Ray    |
-| Independence Day                                                                                                                                               | VHS        |
 | Independence Day                                                                                                                                               | Laserdisc  |
+| Independence Day                                                                                                                                               | VHS        |
 | Indiana Jones and the Temple of Doom                                                                                                                           | DVD        |
 | Indiana Jones and the Temple of Doom                                                                                                                           | Laserdisc  |
 | Indiana Jones Collection                                                                                                                                       | DVD        |
@@ -415,9 +417,9 @@
 | Legion                                                                                                                                                         | DVD        |
 | Leon The Professional                                                                                                                                          | Blu-Ray    |
 | Leon The Professional Uncut International Edition                                                                                                              | DVD        |
-| Les Miserables                                                                                                                                                 | VHS        |
-| Les Miserables                                                                                                                                                 | VHS        |
 | Les Miserables                                                                                                                                                 | DVD        |
+| Les Miserables                                                                                                                                                 | VHS        |
+| Les Miserables                                                                                                                                                 | VHS        |
 | Let's Be Cops                                                                                                                                                  | Blu-Ray    |
 | Lethal Weapon 3                                                                                                                                                | Laserdisc  |
 | Life of the Party                                                                                                                                              | DVD        |
@@ -456,6 +458,7 @@
 | Martin Lawrence you so crazy                                                                                                                                   | DVD        |
 | Mary Poppins                                                                                                                                                   | Laserdisc  |
 | Master and Commander the Far Side of the World                                                                                                                 | DVD        |
+| Maverick and Wild Wild West                                                                                                                                    | DVD        |
 | Max Max The Road Warrior and Beyond Thunderdome                                                                                                                | DVD        |
 | Max Payne Unrated                                                                                                                                              | DVD        |
 | Me Myself and Irene                                                                                                                                            | DVD        |
@@ -569,8 +572,8 @@
 | Quest for Camalot                                                                                                                                              | VHS        |
 | Quiz Show                                                                                                                                                      | Laserdisc  |
 | Race for your Life Charlie Brown, Bon Voyage Charlie Brown                                                                                                     | DVD        |
-| Raiders of the Lost ark                                                                                                                                        | VHS        |
 | Raiders of the Lost Ark                                                                                                                                        | Laserdisc  |
+| Raiders of the Lost ark                                                                                                                                        | VHS        |
 | Rambo: First Blood                                                                                                                                             | DVD        |
 | Ramona and Beezus                                                                                                                                              | DVD        |
 | RASHOMON                                                                                                                                                       | DVD        |
@@ -666,8 +669,8 @@
 | Star Trek: Original Movies 1 - 10                                                                                                                              | Blu-Ray    |
 | Star Wait                                                                                                                                                      | DVD        |
 | Star Wars 1,2,3                                                                                                                                                | Blu-Ray    |
-| Star Wars 4,5,6                                                                                                                                                | DVD        |
 | Star Wars 4,5,6                                                                                                                                                | Blu-Ray    |
+| Star Wars 4,5,6                                                                                                                                                | DVD        |
 | Star Wars 4,5,6                                                                                                                                                | VHS        |
 | Star Wars Episode 2                                                                                                                                            | DVD        |
 | Star Wars Episode 3                                                                                                                                            | DVD        |
@@ -699,6 +702,7 @@
 | Surf's Up                                                                                                                                                      | DVD        |
 | Swan Lake                                                                                                                                                      | VHS        |
 | Sweeny Todd                                                                                                                                                    | DVD        |
+| Swimfan                                                                                                                                                        | DVD        |
 | Swiss Family Robinson (Disney)                                                                                                                                 | DVD        |
 | Switching Channels                                                                                                                                             | Laserdisc  |
 | Tales from Avonlea                                                                                                                                             | VHS        |
@@ -795,6 +799,7 @@
 | The Hurt Locker                                                                                                                                                | Blu-Ray    |
 | The Illusionist                                                                                                                                                | DVD        |
 | The Incredible Hulk                                                                                                                                            | DVD        |
+| The Incredible Mr Limpet                                                                                                                                       | DVD        |
 | The Incredible Mr Limpet                                                                                                                                       | Laserdisc  |
 | The Intruder                                                                                                                                                   | DVD        |
 | The Invisible Man                                                                                                                                              | Blu-Ray    |
@@ -803,6 +808,7 @@
 | The Land of Women                                                                                                                                              | DVD        |
 | The Last Starfighter                                                                                                                                           | Blu-Ray    |
 | The League of Extraordinary Gentlemen                                                                                                                          | DVD        |
+| The Life Aquatic with Steve Zissou                                                                                                                             | DVD        |
 | The Lion King                                                                                                                                                  | Blu-Ray    |
 | The Lion King                                                                                                                                                  | Laserdisc  |
 | The little mermaid                                                                                                                                             | VHS        |
@@ -839,6 +845,7 @@
 | The Muppet Christmas Carol                                                                                                                                     | DVD        |
 | The Muppet Movie                                                                                                                                               | DVD        |
 | The Musketeer                                                                                                                                                  | DVD        |
+| The Naked Gun                                                                                                                                                  | DVD        |
 | The Night Before                                                                                                                                               | DVD        |
 | The Number 23                                                                                                                                                  | DVD        |
 | The Nutcracker Prince                                                                                                                                          | Laserdisc  |
@@ -966,10 +973,10 @@
 | Watchmen Director's Cut                                                                                                                                        | Blu-ray    |
 | Wayne's World                                                                                                                                                  | 4K         |
 | We Are Marshall                                                                                                                                                | HD-DVD     |
-| We're Back A Dinosaur's Story                                                                                                                                  | VHS        |
 | We're Back A Dinosaur's Story                                                                                                                                  | DVD        |
-| We're No Angels                                                                                                                                                | VHS        |
+| We're Back A Dinosaur's Story                                                                                                                                  | VHS        |
 | We're No Angels                                                                                                                                                | Laserdisc  |
+| We're No Angels                                                                                                                                                | VHS        |
 | Wedding Crashers                                                                                                                                               | Blu-Ray    |
 | Weekend at Bernies                                                                                                                                             | DVD        |
 | Welcome to Mooseport                                                                                                                                           | DVD        |
@@ -987,6 +994,7 @@
 | Wonder Woman                                                                                                                                                   | Blu-Ray    |
 | Wonder Woman (Animated)                                                                                                                                        | DVD        |
 | World War Z                                                                                                                                                    | Blu-Ray    |
+| Wreck-It Ralph                                                                                                                                                 | DVD        |
 | X-Men                                                                                                                                                          | DVD        |
 | X-Men Days of Future Past                                                                                                                                      | Blu-Ray    |
 | XXX                                                                                                                                                            | DVD        |

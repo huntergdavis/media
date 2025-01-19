@@ -99,6 +99,9 @@
 | Kingdom Hearts 2                                          | yes  | yes     | PS2               |
 | Sonic Mega Collection Plus                                | yes  | yes     | PS2               |
 | Star Trek Encounters                                      | yes  | yes     | PS2               |
+| Tony Hawk's Pro Skater 3                                  | Yes  | Yes     | PS2               |
+| Max Payne                                                 | Yes  | Yes     | PS2               |
+| Getaway                                                   | Yes  | Yes     | PS2               |
 | Crysis 2                                                  | yes  | yes     | PS3               |
 | Infamous 2                                                | yes  | yes     | PS3               |
 | Metal Gear Solid 4                                        | Yes  | Yes     | PS3               |
@@ -118,19 +121,10 @@
 | Ecco the Dolphin                                          | no   | no      | Sega Game Gear    |
 | Jurassic Park                                             | no   | no      | Sega Game Gear    |
 | Sonic the Hedgehog 2                                      | no   | no      | Sega Game Gear    |
-| After Burner 2                                            | yes  | yes     | Sega Genesis      |
-| Animaniacs                                                | yes  | yes     | Sega Genesis      |
-| Hard Drivin                                               | no   | no      | Sega Genesis      |
-| Indycar                                                   | yes  | yes     | Sega Genesis      |
-| Mighty Morphin Power Rangers                              | no   | no      | Sega Genesis      |
-| NBA Jam                                                   | yes  | yes     | Sega Genesis      |
-| NHL 97                                                    | yes  | yes     | Sega Genesis      |
-| Pack Man 2: The New Adventure                             | yes  | yes     | Sega Genesis      |
 | Sonic 2                                                   | no   | no      | Sega Genesis      |
 | Sonic and Knuckles                                        | yes  | yes     | Sega Genesis      |
 | Sonic the Hedgehog                                        | yes  | yes     | Sega Genesis      |
 | Spider-Man and X-Men in Arcade's Revenge                  | yes  | yes     | Sega Genesis      |
-| Sports Talk Football                                      | no   | no      | Sega Genesis      |
 | X-Men (arcade)                                            | yes  | yes     | Sega Genesis      |
 | Cyber Speedrun                                            | Yes  | Yes     | Sega Saturn       |
 | Independence Day                                          | Yes  | Yes     | Sega Saturn       |
@@ -214,6 +208,7 @@
 | WWE 2K 15                                                 | Yes  | Yes     | Xbox 360          |
 | Xbox Live Arcade                                          | Yes  | Yes     | Xbox 360          |
 | Xbox Live Arcade Unplugged                                | Yes  | Yes     | Xbox 360          |
+| Transformers Revenge of the Fallen                        | Yes  | Yes     | Xbox 360          |
 | Assassins Creed Odyssey                                   | Yes  | Yes     | Xbox One          |
 | Batman Arkhan Knight                                      | Yes  | Yes     | Xbox One          |
 | Fallout 4                                                 | Yes  | Yes     | Xbox One          |
