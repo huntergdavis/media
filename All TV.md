@@ -5,6 +5,7 @@
 | 1001 classic commercials                                                                                            | DVD       |
 | A Town Called Panic                                                                                                 | Blu-Ray   |
 | American Gladiators (2009) Ultimate Workout                                                                         | DVD       |
+| Are you being served? Vol 1                                                                                         | DVD       |
 | Avatar and Korra Complete Series                                                                                    | Blu Ray   |
 | Batman the Brave and the Bold 4 Episodes                                                                            | DVD       |
 | Batman: The Animated Series Complete                                                                                | Blu-Ray   |

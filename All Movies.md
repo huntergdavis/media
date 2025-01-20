@@ -118,6 +118,7 @@
 | Blue Planet                                                                                                                                                    | Laserdisc  |
 | Bohenian Rhapsody                                                                                                                                              | Blu-Ray    |
 | Bonnie and Clyde                                                                                                                                               | DVD        |
+| Bookies                                                                                                                                                        | DVD        |
 | Born of the Fourth of July                                                                                                                                     | HD-DVD     |
 | Bounce                                                                                                                                                         | VHS        |
 | Bram Stoker's Dracula                                                                                                                                          | Blu-Ray    |
@@ -314,6 +315,7 @@
 | HAIR                                                                                                                                                           | Laserdisc  |
 | Half Baked                                                                                                                                                     | DVD        |
 | Half-Baked                                                                                                                                                     | DVD        |
+| Hamlet 2                                                                                                                                                       | DVD        |
 | Hang em High                                                                                                                                                   | Blu-Ray    |
 | Harold & Kumar Go To White Castle                                                                                                                              | DVD        |
 | Harold and Kumar 1 and 2                                                                                                                                       | DVD        |
@@ -463,6 +465,7 @@
 | Max Payne Unrated                                                                                                                                              | DVD        |
 | Me Myself and Irene                                                                                                                                            | DVD        |
 | Megamind                                                                                                                                                       | Blu-Ray    |
+| Memento                                                                                                                                                        | DVD        |
 | Miami Rhapsody                                                                                                                                                 | Laserdisc  |
 | Michael Flatley's Feet of Flames                                                                                                                               | Laserdisc  |
 | Mickey and the Beanstalk, The Reluctant Dragon                                                                                                                 | Laserdisc  |
@@ -477,6 +480,7 @@
 | Miss Fisher Murder Under the Mistletow                                                                                                                         | DVD        |
 | Miss Pettigrew Lives for a Day                                                                                                                                 | DVD        |
 | Mixed Nuts                                                                                                                                                     | DVD        |
+| Moll Flanders                                                                                                                                                  | DVD        |
 | Monty Python and the Holy Grail                                                                                                                                | DVD        |
 | Monty Python and the Life of Brian                                                                                                                             | DVD        |
 | Moonraker                                                                                                                                                      | Laserdisc  |
@@ -628,6 +632,7 @@
 | Sense and sensibility                                                                                                                                          | VHS        |
 | serendipity                                                                                                                                                    | DVD        |
 | Serenity                                                                                                                                                       | Blu-Ray    |
+| Serving Sara                                                                                                                                                   | DVD        |
 | Seven                                                                                                                                                          | DVD        |
 | Seven Psychopaths                                                                                                                                              | DVD        |
 | Shania Twain Up! Live im Chicago                                                                                                                               | DVD        |
@@ -959,6 +964,7 @@
 | Van Wilder                                                                                                                                                     | DVD        |
 | Varsity Blues                                                                                                                                                  | DVD        |
 | Vertigo                                                                                                                                                        | DVD        |
+| Very Bad Things                                                                                                                                                | DVD        |
 | Volcano                                                                                                                                                        | Laserdisc  |
 | Waiting...                                                                                                                                                     | DVD        |
 | Walk the Line                                                                                                                                                  | DVD        |
