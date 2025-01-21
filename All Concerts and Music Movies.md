@@ -48,3 +48,4 @@
 | The Smashing Pumpkins 1991-2000 Greatest Hits Video Collection | DVD       |
 | Weezer Video Capture Device Treasures from the Vault 1992-2002 | DVD       |
 | Welcome to The Darkness                                        | Blu-Ray   |
+| Yeah Yeah Yeah's Tell Me What Rockets to Swallow               | DVD       |

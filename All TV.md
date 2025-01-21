@@ -19,6 +19,7 @@
 | Community Season 1                                                                                                  | DVD       |
 | Criminal Minds: Season 2                                                                                            | DVD       |
 | Crossing Jordan Complete                                                                                            | DVD       |
+| Darrin's Dance Grooves (MTV)                                                                                        | DVD       |
 | Dave Attel's Insomniac Tour Uncensored! Presents Sean Rouse, Greg Giraldo and Dane Cook                             | DVD       |
 | DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray  | Blu Ray   |
 | Doctor Who The Complete Second Series                                                                               | DVD       |

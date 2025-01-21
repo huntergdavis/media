@@ -95,6 +95,7 @@
 | The Next Tetris                                           | yes  | yes     | PS1               |
 | Total Eclipse                                             | yes  | yes     | PS1               |
 | Triple Play 97                                            | yes  | yes     | PS1               |
+| Lemmings                                                  | No   | No      | Ps1               |
 | Burnout 3 Takedown                                        | yes  | yes     | PS2               |
 | Kingdom Hearts 2                                          | yes  | yes     | PS2               |
 | Sonic Mega Collection Plus                                | yes  | yes     | PS2               |
@@ -113,6 +114,8 @@
 | Final Fantasy Tactics: War of the Lion                    | no   | no      | PSP               |
 | Grand Theft Auto Liberty City Stories                     | yes  | yes     | PSP               |
 | Little Man UMD                                            | yes  | yes     | PSP               |
+| Nick and Nora's Infinite Playlist (UMD VIdeo)             | Yes  | no      | PSP               |
+| Sin City (UMD Video)                                      | Yes  | No      | PSP               |
 | The Secret of Monkey Island                               | yes  | yes     | Sega CD           |
 | Dream Passport Premier                                    | no   | no      | Sega Dreamcast    |
 | Sydney 2000                                               | yes  | yes     | Sega Dreamcast    |
@@ -182,6 +185,7 @@
 | Xbox Game Disc Magazine 47                                | Yes  | Yes     | Xbox              |
 | Xbox Game Disc Magazine 49                                | Yes  | Yes     | Xbox              |
 | Xbox Music Mixer                                          | Yes  | Yes     | Xbox              |
+| Wolfenstein Tides of War                                  | Yes  | Yes     | Xbox              |
 | Assassins Creed                                           | Yes  | Yes     | Xbox 360          |
 | Assassins Creed IV Black Flag                             | Yes  | Yes     | Xbox 360          |
 | Bejewled 3                                                | Yes  | Yes     | Xbox 360          |

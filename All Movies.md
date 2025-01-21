@@ -170,6 +170,7 @@
 | Crank                                                                                                                                                          | DVD        |
 | Crazy in Alabama                                                                                                                                               | DVD        |
 | Cricket of the Hearth                                                                                                                                          | DVD        |
+| Criminal                                                                                                                                                       | Blu-Ray    |
 | Crocodile Dundee                                                                                                                                               | Laserdisc  |
 | Crocodile Hunter collision course                                                                                                                              | VHS        |
 | Crossroads                                                                                                                                                     | DVD        |
@@ -192,6 +193,7 @@
 | Deep Blue Sea                                                                                                                                                  | DVD        |
 | Deep Impact                                                                                                                                                    | DVD        |
 | Def Jam Presents How to Be A Player                                                                                                                            | DVD        |
+| Demon Knight (Tales from the Crypt)                                                                                                                            | DVD        |
 | Denial                                                                                                                                                         | DVD        |
 | Denis Leary and Friends                                                                                                                                        | DVD        |
 | Desiree                                                                                                                                                        | Laserdisc  |
@@ -356,6 +358,7 @@
 | Hugh Grant Collection: Music and lyrics, Two Weeks Notice, Mickey Blue Eyes, An Awfully Big Adventure                                                          | DVD        |
 | Hulk                                                                                                                                                           | DVD        |
 | Hulk VS                                                                                                                                                        | DVD        |
+| I am Wrath                                                                                                                                                     | DVD        |
 | I'm Not Ashamed (Columbine High School Story)                                                                                                                  | DVD        |
 | Ice Princess                                                                                                                                                   | DVD        |
 | IMAX Blue Planet                                                                                                                                               | DVD        |
@@ -394,6 +397,7 @@
 | John Carpenter's Vampires                                                                                                                                      | DVD        |
 | John Tucker Must Die                                                                                                                                           | DVD        |
 | Johnny Dangerously                                                                                                                                             | DVD        |
+| Josie                                                                                                                                                          | DVD        |
 | Josie and the Pussycats                                                                                                                                        | DVD        |
 | Journey to the Center of the Earth                                                                                                                             | Blu-Ray    |
 | JRR Tolkien: Master of the Rings                                                                                                                               | DVD        |
@@ -473,6 +477,7 @@
 | Mickey Mouse and Donald Duck Cartoons Collection 1                                                                                                             | Laserdisc  |
 | Mickey Mouse and Donald Duck Cartoons Collection 2                                                                                                             | Laserdisc  |
 | Mickey Mouse and Donald Duck Cartoons Collection 3                                                                                                             | Laserdisc  |
+| Midnight in the Garden of Good and Evil                                                                                                                        | DVD        |
 | Mimic 3 Movie Collection                                                                                                                                       | DVD        |
 | Mirrormask                                                                                                                                                     | DVD        |
 | Miss Congeniality                                                                                                                                              | DVD        |
@@ -657,6 +662,7 @@
 | So I Married an Axe Murderer                                                                                                                                   | DVD        |
 | Some Like it Hot                                                                                                                                               | DVD        |
 | South Park: Bigger Longer and Uncut                                                                                                                            | DVD        |
+| Space Ace (Don Bluth Laseractive Game)                                                                                                                         | DVD        |
 | SpaceBalls                                                                                                                                                     | DVD        |
 | SpaceBalls and Robin Hood Men in Tights                                                                                                                        | DVD        |
 | Spartacus                                                                                                                                                      | DVD        |
@@ -714,6 +720,7 @@
 | Talladega Nights The Ballad of Ricky Bobby                                                                                                                     | DVD        |
 | Tangled                                                                                                                                                        | Blu-Ray    |
 | Team America World Police                                                                                                                                      | DVD        |
+| Tenacious D and the Pick of Destiny                                                                                                                            | DVD        |
 | Terminator 2 Judgement Day                                                                                                                                     | Laserdisc  |
 | Terminator 3: Rise of the Machines                                                                                                                             | DVD        |
 | Terminator 3: Rise of the Machines and Terminator Salvation                                                                                                    | DVD        |
