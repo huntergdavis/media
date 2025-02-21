@@ -221,3 +221,5 @@
 | Race with Ryan                                            | Yes  | Yes     | Xbox One          |
 | Rare Replay                                               | Yes  | Yes     | Xbox One          |
 | The Witcher 3: Wild Hunt                                  | Yes  | Yes     | Xbox One          |
+| Batman Vengeance                                          | Yes  | Yes     | Xbox              |
+| The Orange Box                                            | Yes  | Yes     | Xbox 360          |

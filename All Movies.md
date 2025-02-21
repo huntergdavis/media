@@ -110,6 +110,7 @@
 | Big Eyes                                                                                                                                                       | Blu-Ray    |
 | Birth of the Dragon                                                                                                                                            | DVD        |
 | Black Sheep                                                                                                                                                    | DVD        |
+| Black X-mas                                                                                                                                                    | HD-DVD     |
 | Blade Runner                                                                                                                                                   | Blu-Ray    |
 | Blades of Glory                                                                                                                                                | DVD        |
 | Blazing Saddles                                                                                                                                                | Blu-Ray    |
@@ -394,6 +395,7 @@
 | Jay and silent Bob strike back                                                                                                                                 | VHS        |
 | Jekyll+hyde                                                                                                                                                    | DVD        |
 | Jewel of the Nile                                                                                                                                              | Laserdisc  |
+| Joe Dirt                                                                                                                                                       | DVD        |
 | John Carpenter's Vampires                                                                                                                                      | DVD        |
 | John Tucker Must Die                                                                                                                                           | DVD        |
 | Johnny Dangerously                                                                                                                                             | DVD        |
@@ -478,6 +480,7 @@
 | Mickey Mouse and Donald Duck Cartoons Collection 2                                                                                                             | Laserdisc  |
 | Mickey Mouse and Donald Duck Cartoons Collection 3                                                                                                             | Laserdisc  |
 | Midnight in the Garden of Good and Evil                                                                                                                        | DVD        |
+| Might Morphin Power Rangers The Movie                                                                                                                          | DVD        |
 | Mimic 3 Movie Collection                                                                                                                                       | DVD        |
 | Mirrormask                                                                                                                                                     | DVD        |
 | Miss Congeniality                                                                                                                                              | DVD        |
@@ -630,6 +633,7 @@
 | Saving Silverman                                                                                                                                               | DVD        |
 | Saw                                                                                                                                                            | DVD        |
 | Schindler's List                                                                                                                                               | DVD        |
+| School of Rock                                                                                                                                                 | DVD        |
 | Scoob!                                                                                                                                                         | Blu-Ray    |
 | Scoop                                                                                                                                                          | DVD        |
 | Scott Pilgrim versus the world                                                                                                                                 | VHS        |
@@ -885,6 +889,7 @@
 | The road Warrior                                                                                                                                               | DVD        |
 | The Rocky Horror Picture Show                                                                                                                                  | Blu-Ray    |
 | The Rocky Horror Picture Show                                                                                                                                  | DVD        |
+| The Rundown                                                                                                                                                    | HD-DVD     |
 | The Saddle Club The First Adventure                                                                                                                            | DVD        |
 | The Saint                                                                                                                                                      | DVD        |
 | The Searchers                                                                                                                                                  | DVD        |
@@ -973,7 +978,9 @@
 | Vertigo                                                                                                                                                        | DVD        |
 | Very Bad Things                                                                                                                                                | DVD        |
 | Volcano                                                                                                                                                        | Laserdisc  |
+| Waiting for Guffman                                                                                                                                            | DVD        |
 | Waiting...                                                                                                                                                     | DVD        |
+| Walk Hard the Dewey Cox Story                                                                                                                                  | DVD        |
 | Walk the Line                                                                                                                                                  | DVD        |
 | Wall E                                                                                                                                                         | DVD        |
 | Wallace and Gromit A Close Shave                                                                                                                               | DVD        |
@@ -995,6 +1002,7 @@
 | Welcome to Mooseport                                                                                                                                           | DVD        |
 | West Side Story                                                                                                                                                | DVD        |
 | Who Framed Roger Rabbit                                                                                                                                        | DVD        |
+| Wild Hogs                                                                                                                                                      | DVD        |
 | Wild Things Pet Cemetery (Steven King)                                                                                                                         | DVD        |
 | Willard                                                                                                                                                        | DVD        |
 | Willow                                                                                                                                                         | DVD        |
