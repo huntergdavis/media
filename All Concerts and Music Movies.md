@@ -2,6 +2,7 @@
 | Title                                                          | Format    |
 | -------------------------------------------------------------- | --------- |
 | 24 Hour Party People                                           | DVD       |
+| AC/DC Family Jewels                                            | DVD       |
 | Adele Live at the Royal Albert Hall.                           | DVD       |
 | Bob Dylan 1966 World Tour (The House Movies)                   | DVD       |
 | Bone Thugs and Harmony Live and Uncut                          | DVD       |

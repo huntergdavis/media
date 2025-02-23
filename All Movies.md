@@ -233,6 +233,7 @@
 | Empire Records Remix Special Fan Edition                                                                                                                       | DVD        |
 | Entrapment                                                                                                                                                     | VHS        |
 | Envy                                                                                                                                                           | DVD        |
+| Ernest goes to Camp                                                                                                                                            | DVD        |
 | Escape from New York no                                                                                                                                        | DVD        |
 | Essential Earnest Collection (Africa, Army, Family Album, Commercials)                                                                                         | DVD        |
 | ET (both 2002 and Original Versions)                                                                                                                           | DVD        |
@@ -300,6 +301,7 @@
 | Gladiator                                                                                                                                                      | DVD        |
 | Glass                                                                                                                                                          | Blu-Ray    |
 | Glee The Concert                                                                                                                                               | DVD        |
+| go                                                                                                                                                             | DVD        |
 | Godzilla                                                                                                                                                       | Blu-Ray    |
 | Going Berserk                                                                                                                                                  | DVD        |
 | Going overboard                                                                                                                                                | VHS        |
@@ -863,6 +865,7 @@
 | The Musketeer                                                                                                                                                  | DVD        |
 | The Naked Gun                                                                                                                                                  | DVD        |
 | The Night Before                                                                                                                                               | DVD        |
+| The Nines                                                                                                                                                      | DVD        |
 | The Number 23                                                                                                                                                  | DVD        |
 | The Nutcracker Prince                                                                                                                                          | Laserdisc  |
 | The One (Jet Li)                                                                                                                                               | DVD        |
@@ -895,6 +898,7 @@
 | The Searchers                                                                                                                                                  | DVD        |
 | The Secret of NIMH                                                                                                                                             | DVD        |
 | The Secret of NIMH                                                                                                                                             | DVD        |
+| The Secret World of Arrietty                                                                                                                                   | DVD        |
 | The Shawshank Redemption                                                                                                                                       | DVD        |
 | The shining                                                                                                                                                    | DVD        |
 | The Silence of the Lambs                                                                                                                                       | DVD        |
@@ -935,6 +939,7 @@
 | Titan A.E.                                                                                                                                                     | DVD        |
 | Titanic                                                                                                                                                        | DVD        |
 | To Wong Fu, Thanks for Everything Julie Newmar                                                                                                                 | Laserdisc  |
+| Tom and Joerry Movie The Fast and the Furry                                                                                                                    | DVD        |
 | Tomb Raider and Tomb Raider 2                                                                                                                                  | DVD        |
 | Tombstone                                                                                                                                                      | DVD        |
 | Tommy Boy                                                                                                                                                      | DVD        |
