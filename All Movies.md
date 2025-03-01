@@ -4,6 +4,7 @@
 | 5 Children and It                                                                                                                                              | DVD        |
 | 6 Ben Affleck and Matt Damon movies, Phantoms, Net Force, Existenze, Gerry, Spy, and Road Killers.                                                             | DVD        |
 | 9                                                                                                                                                              | DVD        |
+| 9 to 5 Sexist Egotistical Lying Hypocritical Bigot Edition                                                                                                     | DVD        |
 | 10                                                                                                                                                             | Laserdisc  |
 | 10 Things I Hate about You                                                                                                                                     | DVD        |
 | 12 Monkeys                                                                                                                                                     | DVD        |
@@ -120,6 +121,7 @@
 | Bohenian Rhapsody                                                                                                                                              | Blu-Ray    |
 | Bonnie and Clyde                                                                                                                                               | DVD        |
 | Bookies                                                                                                                                                        | DVD        |
+| Bordello of Blood (Tales from the Crypt)                                                                                                                       | Blu-Ray    |
 | Born of the Fourth of July                                                                                                                                     | HD-DVD     |
 | Bounce                                                                                                                                                         | VHS        |
 | Bram Stoker's Dracula                                                                                                                                          | Blu-Ray    |
@@ -137,6 +139,7 @@
 | Captain America Civil War                                                                                                                                      | DVD        |
 | Captain Marvel                                                                                                                                                 | Blu-Ray    |
 | Casablanca                                                                                                                                                     | DVD        |
+| Casper                                                                                                                                                         | VHS        |
 | Casper + The Little Rascals + Flipper + Leave it to Beaver                                                                                                     | DVD        |
 | Cats                                                                                                                                                           | VHS        |
 | Cave Girl                                                                                                                                                      | Laserdisc  |
@@ -322,6 +325,7 @@
 | Half-Baked                                                                                                                                                     | DVD        |
 | Hamlet 2                                                                                                                                                       | DVD        |
 | Hang em High                                                                                                                                                   | Blu-Ray    |
+| Hanging Up                                                                                                                                                     | DVD        |
 | Harold & Kumar Go To White Castle                                                                                                                              | DVD        |
 | Harold and Kumar 1 and 2                                                                                                                                       | DVD        |
 | Harold and Kumar go to Guantanamo Bay                                                                                                                          | DVD        |
@@ -416,6 +420,7 @@
 | Kill Bill Vol 2                                                                                                                                                | Blu-Ray    |
 | Kingpin                                                                                                                                                        | DVD        |
 | Kiss the Girls                                                                                                                                                 | Laserdisc  |
+| Kull the Conqueror                                                                                                                                             | Blu-Ray    |
 | Kung Pow! Enter The Fist                                                                                                                                       | DVD        |
 | L.A. Confidential                                                                                                                                              | DVD        |
 | Labyrinth                                                                                                                                                      | DVD        |
@@ -424,6 +429,7 @@
 | Last Man Standing                                                                                                                                              | Laserdisc  |
 | Laws of Attraction                                                                                                                                             | DVD        |
 | Leaves of Grass                                                                                                                                                | DVD        |
+| Legally Blonde                                                                                                                                                 | DVD        |
 | Legion                                                                                                                                                         | DVD        |
 | Leon The Professional                                                                                                                                          | Blu-Ray    |
 | Leon The Professional Uncut International Edition                                                                                                              | DVD        |
@@ -653,6 +659,7 @@
 | Sherlock Holmes                                                                                                                                                | DVD        |
 | Sherlock Holmes: A Game of Shadows                                                                                                                             | Blu-Ray    |
 | Sherlock Holmes:A Game of Shadows                                                                                                                              | Blu-Ray    |
+| Shoot em Up                                                                                                                                                    | DVD        |
 | Shooter                                                                                                                                                        | HD-DVD     |
 | Sidewalks of New York                                                                                                                                          | DVD        |
 | Simply Irresistible                                                                                                                                            | DVD        |
@@ -853,6 +860,7 @@
 | The mighty Ducks                                                                                                                                               | DVD        |
 | The Mikado                                                                                                                                                     | Laserdisc  |
 | The Mist                                                                                                                                                       | DVD        |
+| The Monster Squad                                                                                                                                              | DVD        |
 | The motorcycle diaries                                                                                                                                         | DVD        |
 | The mouse and the motorcycle                                                                                                                                   | VHS        |
 | The Mummy                                                                                                                                                      | Blu-Ray    |
@@ -911,6 +919,7 @@
 | The Spy Who Loved Me                                                                                                                                           | Laserdisc  |
 | The Stand (Stephen King's)                                                                                                                                     | DVD        |
 | The Surburbans                                                                                                                                                 | DVD        |
+| The Sweetest Thing                                                                                                                                             | DVD        |
 | The Sword in the Stone                                                                                                                                         | DVD        |
 | The Ten Commandments                                                                                                                                           | Laserdisc  |
 | The Terminator                                                                                                                                                 | DVD        |
