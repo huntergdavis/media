@@ -390,6 +390,7 @@
 | iRobot                                                                                                                                                         | DVD        |
 | Iron Man                                                                                                                                                       | DVD        |
 | It                                                                                                                                                             | DVD        |
+| It Might Get Loud                                                                                                                                              | DVD        |
 | It Takes Two                                                                                                                                                   | VHS        |
 | It's a Mad Mad Mad Mad World                                                                                                                                   | DVD        |
 | Jackass (Unrated)                                                                                                                                              | DVD        |
@@ -516,6 +517,7 @@
 | Namesake                                                                                                                                                       | DVD        |
 | Nanny McPhee                                                                                                                                                   | Blu-ray    |
 | Natalie Portman Collection (Anywhere but Here, Garden State, Where The Heart Is)                                                                               | DVD        |
+| National Lampoon's Vacation                                                                                                                                    | DVD        |
 | National Treasure 1                                                                                                                                            | Blu-Ray    |
 | National Treasure 2                                                                                                                                            | Blu Ray    |
 | National Treasure 2                                                                                                                                            | Blu-Ray    |
@@ -569,6 +571,7 @@
 | Pitch Black                                                                                                                                                    | Blu-Ray    |
 | Pitch Black                                                                                                                                                    | DVD        |
 | Pixar Short Films Collection 2                                                                                                                                 | DVD        |
+| Planes, Trains and Automobiles "Those Aren't Pillows Edition"                                                                                                  | DVD        |
 | Planet 51                                                                                                                                                      | DVD        |
 | Platoon                                                                                                                                                        | DVD        |
 | Please Don't Eat the Daisies                                                                                                                                   | DVD        |
@@ -594,9 +597,11 @@
 | Race for your Life Charlie Brown, Bon Voyage Charlie Brown                                                                                                     | DVD        |
 | Raiders of the Lost Ark                                                                                                                                        | Laserdisc  |
 | Raiders of the Lost ark                                                                                                                                        | VHS        |
+| Raise Your Voice                                                                                                                                               | DVD        |
 | Rambo: First Blood                                                                                                                                             | DVD        |
 | Ramona and Beezus                                                                                                                                              | DVD        |
 | RASHOMON                                                                                                                                                       | DVD        |
+| Ratatouille                                                                                                                                                    | DVD        |
 | Real Genius                                                                                                                                                    | VHS        |
 | Real Genius                                                                                                                                                    | VHS        |
 | Real Women Have Curves                                                                                                                                         | DVD        |
@@ -622,6 +627,7 @@
 | Robin Hood Prince of Thieves                                                                                                                                   | Laserdisc  |
 | Robots                                                                                                                                                         | DVD        |
 | Rocky                                                                                                                                                          | DVD        |
+| Rogue One a Star Wars Story                                                                                                                                    | Blu-Ray    |
 | Role Models (Unrated)                                                                                                                                          | Blu-Ray    |
 | Role Models Unrated                                                                                                                                            | DVD        |
 | Romancing the Stone                                                                                                                                            | Laserdisc  |
@@ -664,8 +670,10 @@
 | Sidewalks of New York                                                                                                                                          | DVD        |
 | Simply Irresistible                                                                                                                                            | DVD        |
 | Sin City                                                                                                                                                       | DVD        |
+| Sin City                                                                                                                                                       | Blu-Ray    |
 | Singles and Empire Records                                                                                                                                     | DVD        |
 | Sister Act                                                                                                                                                     | VHS        |
+| Sky Captain and the World of Tomorrow                                                                                                                          | DVD        |
 | Sleeping Beauty                                                                                                                                                | Blu-Ray    |
 | Sleeping with the Enemy                                                                                                                                        | Laserdisc  |
 | Sleepless in Seattle                                                                                                                                           | Laserdisc  |
@@ -674,6 +682,7 @@
 | So Dear to my Heart                                                                                                                                            | Laserdisc  |
 | So I Married an Axe Murderer                                                                                                                                   | DVD        |
 | Some Like it Hot                                                                                                                                               | DVD        |
+| Sonic the Hedgehog                                                                                                                                             | DVD        |
 | South Park: Bigger Longer and Uncut                                                                                                                            | DVD        |
 | Space Ace (Don Bluth Laseractive Game)                                                                                                                         | DVD        |
 | SpaceBalls                                                                                                                                                     | DVD        |
@@ -744,6 +753,7 @@
 | The American President                                                                                                                                         | Laserdisc  |
 | The anniversary party                                                                                                                                          | DVD        |
 | The Apple Dumpling Gang                                                                                                                                        | DVD        |
+| The Apple Dumpling Gang Special Edition                                                                                                                        | DVD        |
 | The Aristocats                                                                                                                                                 | DVD        |
 | The Art Awareness Collection from the National Gallery of Art                                                                                                  | Laserdisc  |
 | The Avengers                                                                                                                                                   | DVD        |
@@ -829,6 +839,7 @@
 | The Intruder                                                                                                                                                   | DVD        |
 | The Invisible Man                                                                                                                                              | Blu-Ray    |
 | The Jungle Book (90s)                                                                                                                                          | Laserdisc  |
+| The Jungle Book 40th Anniversary Edition                                                                                                                       | DVD        |
 | The King and I                                                                                                                                                 | Laserdisc  |
 | The Land of Women                                                                                                                                              | DVD        |
 | The Last Starfighter                                                                                                                                           | Blu-Ray    |
@@ -853,6 +864,7 @@
 | The Maltese Falcon                                                                                                                                             | Blu-Ray    |
 | The Man in the Iron Mask                                                                                                                                       | DVD        |
 | The Man With The Golden Gun                                                                                                                                    | Laserdisc  |
+| The Man With Two Brains                                                                                                                                        | DVD        |
 | The Mask of Zorro                                                                                                                                              | DVD        |
 | The Matrix                                                                                                                                                     | DVD        |
 | The Matrix 1,2,3 and Animatrix                                                                                                                                 | DVD        |
@@ -916,6 +928,7 @@
 | The Social Network                                                                                                                                             | Blu-Ray    |
 | The Sound of Music                                                                                                                                             | DVD        |
 | The Spirit                                                                                                                                                     | DVD        |
+| The Spongebob Squarepants Movie                                                                                                                                | DVD        |
 | The Spy Who Loved Me                                                                                                                                           | Laserdisc  |
 | The Stand (Stephen King's)                                                                                                                                     | DVD        |
 | The Surburbans                                                                                                                                                 | DVD        |

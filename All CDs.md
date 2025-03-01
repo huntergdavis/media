@@ -99,6 +99,7 @@
 | 5,000,000*                                                                                                          | Dread Zeppelin                                                                              |
 | Un-Led-Ed                                                                                                           | Dread Zeppelin                                                                              |
 | Rockferry                                                                                                           | Duffy                                                                                       |
+| Mega Pop Dance Hits 6                                                                                               | Dziewczynag                                                                                 |
 | The Essential Electric Light Orchestra                                                                              | Electric Light Orchestra                                                                    |
 | Batman Forever: Motion Picture Score Album                                                                          | Elliot Goldenthal                                                                           |
 | Final Fantasy: The Spirits Within (Original Motion Picture Soundtrack)                                              | Elliot Goldenthal                                                                           |
@@ -173,6 +174,7 @@
 | Greased                                                                                                             | Less Than Jake                                                                              |
 | In The Heights: Original Broadway Cast Recording                                                                    | Lin-Manuel Miranda                                                                          |
 | The Scarlet Pimpernel                                                                                               | Linda Eder, Chuck Wagner, Dave Clemmons (2), Peabo Bryson                                   |
+| Cry Like a Rainstorm, Howl like the Wind                                                                            | Linda Ronstadt                                                                              |
 | Speak                                                                                                               | Lindsay Lohan                                                                               |
 | Tails                                                                                                               | Lisa Loeb & Nine Stories                                                                    |
 | The Distance To Here                                                                                                | Live                                                                                        |
@@ -274,6 +276,7 @@
 | Superunknown                                                                                                        | Soundgarden                                                                                 |
 | Space Ghost's Surf & Turf                                                                                           | Space Ghost                                                                                 |
 | Spiceworld                                                                                                          | Spice Girls                                                                                 |
+| Hot                                                                                                                 | Squirrel Nut Zippers                                                                        |
 | Wicked (Original Broadway Cast Recording)                                                                           | Stephen Schwartz                                                                            |
 | Core                                                                                                                | Stone Temple Pilots                                                                         |
 | Purple                                                                                                              | Stone Temple Pilots                                                                         |
