@@ -67,6 +67,7 @@
 | Around the World in 80 Days                                                                                                                                    | DVD        |
 | Art School Confidentual                                                                                                                                        | DVD        |
 | Arthur and George                                                                                                                                              | DVD        |
+| Assassins Creed Lineage                                                                                                                                        | DVD        |
 | Asteroid Vs Earth                                                                                                                                              | DVD        |
 | Astro Boy                                                                                                                                                      | DVD        |
 | Atlantis The Lost Empire                                                                                                                                       | DVD        |
@@ -158,6 +159,7 @@
 | City Lights                                                                                                                                                    | DVD        |
 | City Slickers                                                                                                                                                  | Laserdisc  |
 | Clash of the Titans                                                                                                                                            | DVD        |
+| Clerks II (Clerks 2)                                                                                                                                           | DVD        |
 | Clockers                                                                                                                                                       | DVD        |
 | Club Dread                                                                                                                                                     | DVD        |
 | Clueless Whatever Edition                                                                                                                                      | DVD        |
@@ -170,6 +172,7 @@
 | Constantine                                                                                                                                                    | HD-DVD     |
 | Cop Out                                                                                                                                                        | DVD        |
 | Cops and Robbersons                                                                                                                                            | Laserdisc  |
+| Cowboy Bebop The Movie                                                                                                                                         | DVD        |
 | Cradle 2 The Grave                                                                                                                                             | DVD        |
 | Crank                                                                                                                                                          | DVD        |
 | Crazy in Alabama                                                                                                                                               | DVD        |
@@ -201,6 +204,7 @@
 | Denial                                                                                                                                                         | DVD        |
 | Denis Leary and Friends                                                                                                                                        | DVD        |
 | Desiree                                                                                                                                                        | Laserdisc  |
+| Detroit Rock City                                                                                                                                              | DVD        |
 | Dickie Roberts Child Star                                                                                                                                      | DVD        |
 | Die Hard Collection                                                                                                                                            | Blu-Ray    |
 | Die Hard with a Vengeance                                                                                                                                      | Laserdisc  |
@@ -451,6 +455,7 @@
 | Logan Lucky                                                                                                                                                    | Blu-Ray    |
 | Loony Toones The Movie (Brendan Frasier and Jenna Elfman)                                                                                                      | DVD        |
 | Loony Tunes Spotlight Collection                                                                                                                               | DVD        |
+| Lord of the Rings CD Cardz Set 1                                                                                                                               | CD         |
 | Lord of the Rings National Geographic                                                                                                                          | DVD        |
 | Lord of the Rings: The Fellowship of the Ring (Fullscreen)                                                                                                     | DVD        |
 | Love comes softly trilogy                                                                                                                                      | VHS        |
@@ -682,7 +687,9 @@
 | So Dear to my Heart                                                                                                                                            | Laserdisc  |
 | So I Married an Axe Murderer                                                                                                                                   | DVD        |
 | Some Like it Hot                                                                                                                                               | DVD        |
+| Son In Law                                                                                                                                                     | DVD        |
 | Sonic the Hedgehog                                                                                                                                             | DVD        |
+| Soul Plane (Unrated)                                                                                                                                           | DVD        |
 | South Park: Bigger Longer and Uncut                                                                                                                            | DVD        |
 | Space Ace (Don Bluth Laseractive Game)                                                                                                                         | DVD        |
 | SpaceBalls                                                                                                                                                     | DVD        |
@@ -710,6 +717,7 @@
 | Star Wars Episodes 1,2,3                                                                                                                                       | Blu-Ray    |
 | Star Wars the force Awakens                                                                                                                                    | Blu-Ray    |
 | Star Wars the Last Jedi                                                                                                                                        | BLu-Ray    |
+| Star Wars The Rise of Skywalker                                                                                                                                | DVD        |
 | Stargate                                                                                                                                                       | DVD        |
 | Starship Troopers                                                                                                                                              | Blu-Ray    |
 | Stevens Pass                                                                                                                                                   | VHS        |
@@ -941,6 +949,7 @@
 | The Three Stooges                                                                                                                                              | Blu-Ray    |
 | The Three Stooges The Movie 2012                                                                                                                               | DVD        |
 | The Trouble With Angels                                                                                                                                        | DVD        |
+| The True Story of Puss in Boots (William Shatner)                                                                                                              | DVD        |
 | The Usual Suspects                                                                                                                                             | Laserdisc  |
 | The Velveteen Rabbit                                                                                                                                           | VHS        |
 | The Village                                                                                                                                                    | DVD        |
