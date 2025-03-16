@@ -4,6 +4,7 @@
 | 24 Hour Party People                                           | DVD       |
 | AC/DC Family Jewels                                            | DVD       |
 | Adele Live at the Royal Albert Hall.                           | DVD       |
+| All Eyez on Me                                                 | Blu-Ray   |
 | Bob Dylan 1966 World Tour (The House Movies)                   | DVD       |
 | Bone Thugs and Harmony Live and Uncut                          | DVD       |
 | Bony M Holiday Fireplace                                       | DVD       |

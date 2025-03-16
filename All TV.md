@@ -104,6 +104,7 @@
 | The Witches of Eastwick Season 1                                                                                    | DVD       |
 | The X-Files 2x20 and 2x25                                                                                           | Laserdisc |
 | The X-Files 3x01 and 3x02                                                                                           | Laserdisc |
+| Tin Man Collectors Edition                                                                                          | DVD       |
 | Tom and Jerry Spotlight Collection                                                                                  | DVD       |
 | Veronica Mars Season 1                                                                                              | DVD       |
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
