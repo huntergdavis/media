@@ -25,6 +25,7 @@
 | DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray  | Blu Ray   |
 | Doctor Who The Complete Second Series                                                                               | DVD       |
 | Dr Horrible's Sing Along Blog                                                                                       | DVD       |
+| Dragon Ball Super: Full Collection                                                                                  | Blu-Ray   |
 | Ducktails Volume 1 Episodes 1-27                                                                                    | DVD       |
 | Farscape 15th anniversary collection 1-4                                                                            | Blu-Ray   |
 | Farscape Season 1-4 15th Anniversary                                                                                | Blu-Ray   |
@@ -109,4 +110,4 @@
 | Veronica Mars Season 1                                                                                              | DVD       |
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
 | Will Ferrell SNL Collection                                                                                         | DVD       |
-| Workaholics Season 1 and 2                                                                                          | Blu Ray   |
+| Workaholics Season 1 and 2                                                                                          | Blu-Ray   |
