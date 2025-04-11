@@ -317,6 +317,7 @@
 | Motorheart                                                                                                          | The Darkness                                                                                |
 | One Way Ticket To Hell ...And Back                                                                                  | The Darkness                                                                                |
 | Permission To Land                                                                                                  | The Darkness                                                                                |
+| Dreams on Toast                                                                                                     | The Darkness                                                                                |
 | Spend The Night                                                                                                     | The Donnas                                                                                  |
 | LateNightTales                                                                                                      | The Flaming Lips                                                                            |
 | American Beauty                                                                                                     | The Grateful Dead                                                                           |
