@@ -25,6 +25,7 @@
 | Brain Drain                                                             | The Ramones                                             |
 | Castlevania: Symphony of the Night Soundtrack                           | Konami                                                  |
 | Cheech and Chong                                                        | Cheech and Chong                                        |
+| Chemtrails over the Country Club (Clear Blue Collector's Edition)       | Lana Del Rey                                            |
 | Chex Quest                                                              | Various Artists                                         |
 | Class of 55'                                                            | Carl Perkins, Johnny Cash, Roy Orbison, Jerry Lee Lewis |
 | Coming Up for Air Santa Cruz 85                                         | Jerry Garcia                                            |
@@ -41,11 +42,13 @@
 | Electric Ladyland                                                       | The Jimmie Hendrix Experience                           |
 | Empire Records the soundtrack                                           | Various Artists                                         |
 | Eternally Even                                                          | Jim James                                               |
+| Evermore                                                                | Taylor Swift                                            |
 | Farscape Original Television Series Soundtrack 20th Anniversary Edition | Subvision and Guy Cross                                 |
 | Fatal Fury The Definitive Soundtrack                                    | SNK                                                     |
 | Filmore East 1971                                                       | The Grateful Dead                                       |
 | Fishcotheque                                                            | The Jazz Butcher                                        |
 | Frampton Comes Alive                                                    | Peter Frampton                                          |
+| Frances the Mute and The Widow (live) - Record Store Day Edition        | The Mars Volta                                          |
 | Friends TV Show Soundtrack                                              | Various Artists                                         |
 | Give Em Enough Rope                                                     | The Clash                                               |
 | Grateful Dead (50th Anniversary)                                        | The Grateful Dead                                       |
@@ -124,6 +127,8 @@
 | The Lost Boys Soundtrack                                                | Various Artists                                         |
 | The Monkees Forever                                                     | The Monkeeys                                            |
 | The Presidents of the United States of America                          | The Presidents of the United States of America          |
+| The Rise and Fall of a Midwest Princess - Popstar Edition               | Chappell Roan                                           |
+| The Rise and Fall of Ziggy Stardust and the Spiders from Mars           | David Bowie                                             |
 | The Rocky Horror Picture Show Soundtrack                                | Original Cast Recording                                 |
 | The Sound of Music                                                      | Original London Cast                                    |
 | The Story of The Clash                                                  | The Clash                                               |
@@ -136,6 +141,8 @@
 | Viva Pinata Soundtrack                                                  | Grant Kirkhope                                          |
 | Vol 2                                                                   | Billie Holiday                                          |
 | Walt Disney Sleeping Beauty (Book)                                      | Mary Martin                                             |
+| Willie Nelson 90: Live at the Hollywood Bowl Vol 2                      | Willie Nelson                                           |
+| Wiz Khalifa Loud Pack 2024 Record Store Day Single Collection 5x7"      | Wiz Khalifa                                             |
 | Wolves of Glendale                                                      | Wolves of Glendale                                      |
 | Xanadu Motion Picture Soundtrack                                        | ELO and Olivia Newton John                              |
 | You, Me, and 23 (Adrienne + Hunter Davis)                               | Various Artists                                         |

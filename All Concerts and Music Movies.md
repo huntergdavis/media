@@ -33,6 +33,7 @@
 | Paramore: The Final Riot                                       | Blu-Ray   |
 | Pink Floyd The Wall                                            | DVD       |
 | Punk Rock Summer Camp                                          | DVD       |
+| Radio Disney Greatest Hits Volume 1-6                          | DVD       |
 | Radiohead 7 Televion Commercials                               | DVD       |
 | Ramones: It's Alive 1974-1996                                  | DVD       |
 | Rock and Roll High School                                      | DVD       |
