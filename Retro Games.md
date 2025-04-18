@@ -74,7 +74,6 @@
 | American Mcgee's Alice                                    | yes  | yes     | PC                |
 | Law and Order Double or Nothing                           | Yes  | Yes     | PC                |
 | The Secret of Monkey Island Full Collection Super Box Set | yes  | yes     | PC                |
-| Warcraft 3                                                | yes  | yes     | PC                |
 | Activision Classics                                       | yes  | yes     | PS1               |
 | Asteroids                                                 | yes  | yes     | PS1               |
 | Austin Powers Pinball                                     | yes  | yes     | PS1               |
@@ -96,21 +95,6 @@
 | Total Eclipse                                             | yes  | yes     | PS1               |
 | Triple Play 97                                            | yes  | yes     | PS1               |
 | Lemmings                                                  | No   | No      | Ps1               |
-| Burnout 3 Takedown                                        | yes  | yes     | PS2               |
-| Kingdom Hearts 2                                          | yes  | yes     | PS2               |
-| Sonic Mega Collection Plus                                | yes  | yes     | PS2               |
-| Star Trek Encounters                                      | yes  | yes     | PS2               |
-| Tony Hawk's Pro Skater 3                                  | Yes  | Yes     | PS2               |
-| Max Payne                                                 | Yes  | Yes     | PS2               |
-| Getaway                                                   | Yes  | Yes     | PS2               |
-| Crysis 2                                                  | yes  | yes     | PS3               |
-| Infamous 2                                                | yes  | yes     | PS3               |
-| Metal Gear Solid 4                                        | Yes  | Yes     | PS3               |
-| Modnation Racers                                          | yes  | yes     | PS3               |
-| Tom Clancy's Endwar                                       | yes  | yes     | PS3               |
-| God of War                                                | yes  | yes     | PS4               |
-| Mortal Kombat X                                           | yes  | yes     | PS4               |
-| Uncharted 4: A Thief's End                                | yes  | yes     | PS4               |
 | Final Fantasy Tactics: War of the Lion                    | no   | no      | PSP               |
 | Grand Theft Auto Liberty City Stories                     | yes  | yes     | PSP               |
 | Little Man UMD                                            | yes  | yes     | PSP               |
@@ -124,15 +108,6 @@
 | Ecco the Dolphin                                          | no   | no      | Sega Game Gear    |
 | Jurassic Park                                             | no   | no      | Sega Game Gear    |
 | Sonic the Hedgehog 2                                      | no   | no      | Sega Game Gear    |
-| Sonic 2                                                   | no   | no      | Sega Genesis      |
-| Sonic and Knuckles                                        | yes  | yes     | Sega Genesis      |
-| Sonic the Hedgehog                                        | yes  | yes     | Sega Genesis      |
-| Spider-Man and X-Men in Arcade's Revenge                  | yes  | yes     | Sega Genesis      |
-| X-Men (arcade)                                            | yes  | yes     | Sega Genesis      |
-| Cyber Speedrun                                            | Yes  | Yes     | Sega Saturn       |
-| Independence Day                                          | Yes  | Yes     | Sega Saturn       |
-| Nights into Dreams Sampler                                | Yes  | Yes     | Sega Saturn       |
-| Robotica                                                  | Yes  | Yes     | Sega Saturn       |
 | Super 30-In-1                                             | no   | no      | SNES              |
 | Mario Paint + Mouse                                       | no   | no      | Super Nintendo    |
 | Sim City                                                  | no   | no      | Super Nintendo    |
@@ -147,72 +122,6 @@
 | Sonic Unleashed                                           | Yes  | Yes     | Wii               |
 | Donkey Kong Country Returns                               | Yes  | Yes     | Wii               |
 | Hip Hop Dance Experience                                  | Yes  | Yes     | Wii               |
-| Brute Force                                               | Yes  | Yes     | Xbox              |
-| Circus Maximus                                            | Yes  | Yes     | Xbox              |
-| Conflict: Desert Storm                                    | Yes  | Yes     | Xbox              |
-| Crimson Skies                                             | Yes  | Yes     | Xbox              |
-| Dance Dance Revolution Ultramix 3                         | Yes  | Yes     | Xbox              |
-| Dead or Alive 1                                           | Yes  | Yes     | Xbox              |
-| Dead or Alive 2                                           | Yes  | Yes     | Xbox              |
-| Dead or Alive 3                                           | Yes  | Yes     | Xbox              |
-| Dynasty Warriors 4                                        | Yes  | Yes     | Xbox              |
-| Fable                                                     | Yes  | Yes     | Xbox              |
-| Forza                                                     | Yes  | Yes     | Xbox              |
-| Ghost Recon                                               | Yes  | Yes     | Xbox              |
-| Grabbed by the Ghoulies                                   | Yes  | Yes     | Xbox              |
-| GTA San Andreas                                           | No   | No      | Xbox              |
-| Gun                                                       | Yes  | Yes     | Xbox              |
-| Kareoke Revolution Party                                  | Yes  | Yes     | Xbox              |
-| Mech Assault                                              | Yes  | Yes     | Xbox              |
-| Mortal Kombat Deadly Alliance                             | Yes  | Yes     | Xbox              |
-| Need for Speed Underground 2                              | Yes  | Yes     | Xbox              |
-| NHL 2004                                                  | Yes  | Yes     | Xbox              |
-| Project Gotham Racing                                     | Yes  | Yes     | Xbox              |
-| Project Gotham Racing                                     | Yes  | Yes     | Xbox              |
-| Project Gotham Racing 2                                   | Yes  | Yes     | Xbox              |
-| Rallisport Challenge                                      | Yes  | Yes     | Xbox              |
-| Sims 2                                                    | Yes  | Yes     | Xbox              |
-| Soul Calibur                                              | Yes  | Yes     | Xbox              |
-| Spider-Man                                                | Yes  | Yes     | Xbox              |
-| Star Wars Episode 3                                       | Yes  | Yes     | Xbox              |
-| Super Monkey Ball Deluxe                                  | Yes  | Yes     | Xbox              |
-| Thrillville                                               | Yes  | Yes     | Xbox              |
-| Tom Clancy's Splinter Cell                                | Yes  | Yes     | Xbox              |
-| Turok Evolution                                           | Yes  | Yes     | Xbox              |
-| X-Men Next Dimension                                      | Yes  | Yes     | Xbox              |
-| Xbox Game Disc Magazine 36                                | Yes  | Yes     | Xbox              |
-| Xbox Game Disc Magazine 46                                | Yes  | Yes     | Xbox              |
-| Xbox Game Disc Magazine 47                                | Yes  | Yes     | Xbox              |
-| Xbox Game Disc Magazine 49                                | Yes  | Yes     | Xbox              |
-| Xbox Music Mixer                                          | Yes  | Yes     | Xbox              |
-| Wolfenstein Tides of War                                  | Yes  | Yes     | Xbox              |
-| Assassins Creed                                           | Yes  | Yes     | Xbox 360          |
-| Assassins Creed IV Black Flag                             | Yes  | Yes     | Xbox 360          |
-| Bejewled 3                                                | Yes  | Yes     | Xbox 360          |
-| Call of Duty 4 Modern Warfare                             | Yes  | Yes     | Xbox 360          |
-| Crysis                                                    | Yes  | Yes     | Xbox 360          |
-| Dead Rising                                               | Yes  | Yes     | Xbox 360          |
-| Diablo 3                                                  | Yes  | Yes     | Xbox 360          |
-| Dreamcast Collection                                      | Yes  | Yes     | Xbox 360          |
-| Fable 3                                                   | Yes  | Yes     | Xbox 360          |
-| Far Cry 4                                                 | Yes  | Yes     | Xbox 360          |
-| GTA IV                                                    | Yes  | Yes     | Xbox 360          |
-| GTA V                                                     | Yes  | Yes     | Xbox 360          |
-| Lego Star Wars Complete Collection                        | Yes  | Yes     | Xbox 360          |
-| Need for Speed Undercover                                 | Yes  | Yes     | Xbox 360          |
-| Portal 2                                                  | Yes  | Yes     | Xbox 360          |
-| Ride to Hell Retribution                                  | Yes  | Yes     | Xbox 360          |
-| Sega Superstars Tennis + Xbox Live Arcade                 | Yes  | Yes     | Xbox 360          |
-| Star Trek                                                 | Yes  | Yes     | Xbox 360          |
-| Star Trek Legacy                                          | Yes  | Yes     | Xbox 360          |
-| Supreme Commander                                         | Yes  | Yes     | Xbox 360          |
-| Tetris Evolved                                            | Yes  | Yes     | Xbox 360          |
-| The Elder Scrolls V: Skyrim                               | Yes  | Yes     | Xbox 360          |
-| Watch Dogs                                                | Yes  | Yes     | Xbox 360          |
-| WWE 2K 15                                                 | Yes  | Yes     | Xbox 360          |
-| Xbox Live Arcade                                          | Yes  | Yes     | Xbox 360          |
-| Xbox Live Arcade Unplugged                                | Yes  | Yes     | Xbox 360          |
-| Transformers Revenge of the Fallen                        | Yes  | Yes     | Xbox 360          |
 | Assassins Creed Odyssey                                   | Yes  | Yes     | Xbox One          |
 | Batman Arkhan Knight                                      | Yes  | Yes     | Xbox One          |
 | Fallout 4                                                 | Yes  | Yes     | Xbox One          |
@@ -221,5 +130,3 @@
 | Race with Ryan                                            | Yes  | Yes     | Xbox One          |
 | Rare Replay                                               | Yes  | Yes     | Xbox One          |
 | The Witcher 3: Wild Hunt                                  | Yes  | Yes     | Xbox One          |
-| Batman Vengeance                                          | Yes  | Yes     | Xbox              |
-| The Orange Box                                            | Yes  | Yes     | Xbox 360          |
