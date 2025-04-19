@@ -268,6 +268,7 @@
 | Songs Of The Sarah Silverman Program - From Our Rears To Your Ears!                                                 | Sarah Silverman                                                                             |
 | Savage Garden                                                                                                       | Savage Garden                                                                               |
 | Carmina Burana                                                                                                      | Seattle Choral Company & Orchestra                                                          |
+| A Year Without Rain                                                                                                 | Selena Gomez and the Scene                                                                  |
 | Freakin' At The Freakers Ball                                                                                       | Shel Silverstein                                                                            |
 | Live From Central Park                                                                                              | Sheryl Crow And Friends Of Sheryl Crow                                                      |
 | Vol. 3: (The Subliminal Verses)                                                                                     | Slipknot                                                                                    |
@@ -618,6 +619,7 @@
 | Sweetheart (Love Songs)                                                                                             | Various Artists                                                                             |
 | The Chronicles of Narnia: Prince Caspian Abridged                                                                   | Various Artists                                                                             |
 | World Wrestling Federation The Music                                                                                | Various Artists                                                                             |
+| The Mountain Summer 2000 CD Sampler                                                                                 | Various Artists                                                                             |
 | The Thomas Crown Affair (Music From The MGM Motion Picture)                                                         | Various, Bill Conti                                                                         |
 | The Hitchhiker's Guide To The Galaxy (Original Soundtrack)                                                          | Various, Joby Talbot                                                                        |
 | Contraband                                                                                                          | Velvet Revolver                                                                             |
