@@ -1,6 +1,7 @@
 
 | Title                                                     | Box? | Manual? | Platform          |
 | --------------------------------------------------------- | ---- | ------- | ----------------- |
+| Worms World Party                                         | Yes  | Yes     | PS1               |
 | Blue Lightning                                            | yes  | no      | Atari Lynx        |
 | California Games                                          | no   | no      | Atari Lynx        |
 | KLAX                                                      | yes  | yes     | Atari Lynx        |
