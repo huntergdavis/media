@@ -150,6 +150,7 @@
 | Streetcore                                                                                                          | Joe Strummer & The Mescaleros                                                               |
 | Reflections From Broadway                                                                                           | John Barrowman                                                                              |
 | A Christmas Together                                                                                                | John Denver & The Muppets                                                                   |
+| Star Wars: A New Hope Sountrack                                                                                     | John Williams                                                                               |
 | Harry Potter And The Chamber Of Secrets (Music From And Inspired By The Motion Picture)                             | John Williams (4)                                                                           |
 | Harry Potter And The Prisoner Of Azkaban (Original Motion Picture Soundtrack)                                       | John Williams (4)                                                                           |
 | Indiana Jones And The Last Crusade (Original Motion Picture Soundtrack)                                             | John Williams (4)                                                                           |
@@ -162,6 +163,7 @@
 | A Little Bit Of Broadway                                                                                            | Julie Andrews                                                                               |
 | Chemistry                                                                                                           | Kelly Clarkson                                                                              |
 | Thug Mentality 1999                                                                                                 | Krayzie Bone                                                                                |
+| Step Back In time: The Best of Kylie Minogue                                                                        | Kylie Minogue                                                                               |
 | SOS                                                                                                                 | La Bouche                                                                                   |
 | Born To Die                                                                                                         | Lana Del Rey                                                                                |
 | Born To Die (The Paradise Edition)                                                                                  | Lana Del Rey                                                                                |
@@ -211,6 +213,7 @@
 | Circle Of Friends (Music From The Motion Picture)                                                                   | Michael Kamen                                                                               |
 | The Three Musketeers (Original Motion Picture Soundtrack)                                                           | Michael Kamen                                                                               |
 | Highlander - The Final Dimension                                                                                    | Michael Kamen, Stewart Copeland, Peter Robinson                                             |
+| Bangerz                                                                                                             | Miley Cyrus                                                                                 |
 | Monty Python Sings                                                                                                  | Monty Python                                                                                |
 | Three Cheers For Sweet Revenge                                                                                      | My Chemical Romance                                                                         |
 | Distant Relatives                                                                                                   | Nas & Damian Marley                                                                         |
@@ -230,6 +233,7 @@
 | OK Go                                                                                                               | OK Go                                                                                       |
 | Old & In The Way                                                                                                    | Old & In The Way                                                                            |
 | Streets Of Rage 4 Original Soundtrack                                                                               | Olivier Deriviere                                                                           |
+| One Piece Piano Symphony                                                                                            | One Piece Live Orchestra                                                                    |
 | Speakerboxxx / The Love Below                                                                                       | OutKast                                                                                     |
 | M!ssundaztood                                                                                                       | P!nk                                                                                        |
 | Sherlock Holmes (Original Score From The Granada TV Series)                                                         | Patrick Gowers, St. Paul's Cathedral Choir, The Gabrieli String Quartet, The Wren Orchestra |
@@ -313,12 +317,12 @@
 | The Story Of The Clash Volume 1                                                                                     | The Clash                                                                                   |
 | Talk On Corners                                                                                                     | The Corrs                                                                                   |
 | VH1 Presents The Corrs Live In Dublin                                                                               | The Corrs                                                                                   |
+| Dreams on Toast                                                                                                     | The Darkness                                                                                |
 | Hot Cakes                                                                                                           | The Darkness                                                                                |
 | Last Of Our Kind                                                                                                    | The Darkness                                                                                |
 | Motorheart                                                                                                          | The Darkness                                                                                |
 | One Way Ticket To Hell ...And Back                                                                                  | The Darkness                                                                                |
 | Permission To Land                                                                                                  | The Darkness                                                                                |
-| Dreams on Toast                                                                                                     | The Darkness                                                                                |
 | Spend The Night                                                                                                     | The Donnas                                                                                  |
 | LateNightTales                                                                                                      | The Flaming Lips                                                                            |
 | American Beauty                                                                                                     | The Grateful Dead                                                                           |
@@ -612,14 +616,16 @@
 | Highlander: The TV Show Soundtrack Volume 2                                                                         | Various Artists                                                                             |
 | KFOG's Local Scene 2                                                                                                | Various Artists                                                                             |
 | Mentos: The Freshmaker Tour                                                                                         | Various Artists                                                                             |
+| MOJO The Best of 2024                                                                                               | Various Artists                                                                             |
 | Music From The Motion Picture Goldmember                                                                            | Various Artists                                                                             |
 | Pleasantville Music from the Motion Picture                                                                         | Various Artists                                                                             |
 | Ska Wars                                                                                                            | Various Artists                                                                             |
 | Stockings by the Fire - A Starbucks Holiday                                                                         | Various Artists                                                                             |
 | Sweetheart (Love Songs)                                                                                             | Various Artists                                                                             |
 | The Chronicles of Narnia: Prince Caspian Abridged                                                                   | Various Artists                                                                             |
-| World Wrestling Federation The Music                                                                                | Various Artists                                                                             |
 | The Mountain Summer 2000 CD Sampler                                                                                 | Various Artists                                                                             |
+| World Wrestling Federation The Music                                                                                | Various Artists                                                                             |
+| Heavy Metal: Motion Picture Soundtrack                                                                              | Various Artists, Sammy Hagar, Devo                                                          |
 | The Thomas Crown Affair (Music From The MGM Motion Picture)                                                         | Various, Bill Conti                                                                         |
 | The Hitchhiker's Guide To The Galaxy (Original Soundtrack)                                                          | Various, Joby Talbot                                                                        |
 | Contraband                                                                                                          | Velvet Revolver                                                                             |

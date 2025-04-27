@@ -33,6 +33,7 @@
 | Friends Season 2                                                                                                    | Blu-Ray   |
 | Game of Thrones Season 1                                                                                            | Blu Ray   |
 | Garfield and Friends Dreams and Schemes                                                                             | DVD       |
+| Gargoyles: Season 1                                                                                                 | DVD       |
 | Gilmore Girls Complete                                                                                              | DVD       |
 | Glitch Season One                                                                                                   | DVD       |
 | Good Eats - More Juicy Meats                                                                                        | DVD       |
