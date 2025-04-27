@@ -165,6 +165,7 @@
 | Thug Mentality 1999                                                                                                 | Krayzie Bone                                                                                |
 | Step Back In time: The Best of Kylie Minogue                                                                        | Kylie Minogue                                                                               |
 | SOS                                                                                                                 | La Bouche                                                                                   |
+| Mayhem                                                                                                              | Lady Gaga                                                                                   |
 | Born To Die                                                                                                         | Lana Del Rey                                                                                |
 | Born To Die (The Paradise Edition)                                                                                  | Lana Del Rey                                                                                |
 | Chemtrails Over The Country Club                                                                                    | Lana Del Rey                                                                                |
