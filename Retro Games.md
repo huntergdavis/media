@@ -1,7 +1,6 @@
 
 | Title                                                     | Box? | Manual? | Platform          |
 | --------------------------------------------------------- | ---- | ------- | ----------------- |
-| Worms World Party                                         | Yes  | Yes     | PS1               |
 | Blue Lightning                                            | yes  | no      | Atari Lynx        |
 | California Games                                          | no   | no      | Atari Lynx        |
 | KLAX                                                      | yes  | yes     | Atari Lynx        |
@@ -84,6 +83,7 @@
 | Eternal Eyes                                              | yes  | yes     | PS1               |
 | Frogger                                                   | yes  | yes     | PS1               |
 | Jeopardy 2nd Edition                                      | yes  | yes     | PS1               |
+| Lemmings                                                  | No   | No      | Ps1               |
 | Miss Spider's Tea Party                                   | yes  | yes     | PS1               |
 | Missle Command                                            | yes  | yes     | PS1               |
 | Panzer General                                            | yes  | yes     | PS1               |
@@ -95,7 +95,7 @@
 | The Next Tetris                                           | yes  | yes     | PS1               |
 | Total Eclipse                                             | yes  | yes     | PS1               |
 | Triple Play 97                                            | yes  | yes     | PS1               |
-| Lemmings                                                  | No   | No      | Ps1               |
+| Worms World Party                                         | Yes  | Yes     | PS1               |
 | Final Fantasy Tactics: War of the Lion                    | no   | no      | PSP               |
 | Grand Theft Auto Liberty City Stories                     | yes  | yes     | PSP               |
 | Little Man UMD                                            | yes  | yes     | PSP               |
@@ -116,13 +116,13 @@
 | Super Game Boy                                            | no   | no      | Super Nintendo    |
 | Super Mario World                                         | no   | no      | Super Nintendo    |
 | Tiny Toon Adventures Buster Bunny Busts Loose             | no   | no      | Super Nintendo    |
-| Goldeneye 007                                             | yes  | yes     | Wii               |
-| Indiana Jones and the Staff of Kings                      | yes  | yes     | Wii               |
-| The Lord of the Rings Aragorn's Quest                     | yes  | yes     | Wii               |
-| Game Party 2                                              | Yes  | Yes     | Wii               |
-| Sonic Unleashed                                           | Yes  | Yes     | Wii               |
 | Donkey Kong Country Returns                               | Yes  | Yes     | Wii               |
+| Game Party 2                                              | Yes  | Yes     | Wii               |
+| Goldeneye 007                                             | yes  | yes     | Wii               |
 | Hip Hop Dance Experience                                  | Yes  | Yes     | Wii               |
+| Indiana Jones and the Staff of Kings                      | yes  | yes     | Wii               |
+| Sonic Unleashed                                           | Yes  | Yes     | Wii               |
+| The Lord of the Rings Aragorn's Quest                     | yes  | yes     | Wii               |
 | Assassins Creed Odyssey                                   | Yes  | Yes     | Xbox One          |
 | Batman Arkhan Knight                                      | Yes  | Yes     | Xbox One          |
 | Fallout 4                                                 | Yes  | Yes     | Xbox One          |

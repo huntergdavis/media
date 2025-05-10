@@ -16,6 +16,7 @@
 | Boston Legal Season 2                                                                                               | DVD       |
 | Boston Legal Season 3                                                                                               | DVD       |
 | Captain Caveman Complete                                                                                            | DVD       |
+| Caroline in the City The First Season                                                                               | DVD       |
 | Clerks Animated                                                                                                     | DVD       |
 | Community Season 1                                                                                                  | DVD       |
 | Criminal Minds: Season 2                                                                                            | DVD       |
@@ -68,6 +69,7 @@
 | Queen's Blade The Exiled Virgin 2                                                                                   | DVD       |
 | Queen's Blade The Exiled Virgin 3                                                                                   | DVD       |
 | Reader's Digest America's Great Road Trips and Scenic Drives                                                        | DVD       |
+| Reign The Complete First Season                                                                                     | DVD       |
 | Rumpole of the Bailey Season  2                                                                                     | DVD       |
 | Rumpole of the Bailey Season 1                                                                                      | DVD       |
 | Rumpole of the Bailey Season 3                                                                                      | DVD       |
