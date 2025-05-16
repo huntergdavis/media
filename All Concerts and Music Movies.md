@@ -37,6 +37,7 @@
 | Radiohead 7 Televion Commercials                               | DVD       |
 | Ramones: It's Alive 1974-1996                                  | DVD       |
 | Rock and Roll High School                                      | DVD       |
+| Seattle Grand Poetry Slam                                      | DVD       |
 | Shania Twain The Platinum Collection                           | DVD       |
 | South Pacific                                                  | Laserdisc |
 | Stone Temple Pilots: Live in the Windy City                    | DVD       |
