@@ -129,6 +129,7 @@
 | Love.Angel.Music.Baby.                                                                                              | Gwen Stefani                                                                                |
 | Beyond Rangoon (Original Motion Picture Soundtrack)                                                                 | Hans Zimmer                                                                                 |
 | Zombies! Aliens! Vampires! Dinosaurs!                                                                               | Hellogoodbye                                                                                |
+| Mario and Chill                                                                                                     | Helynt                                                                                      |
 | White: Melodies Of Final Fantasy Tactics Advance                                                                    | Hitoshi Sakimoto, Nobuo Uematsu, 大越香里, Ayako Saso                                           |
 | Celebrity Skin                                                                                                      | Hole (2)                                                                                    |
 | Dogma: Music From The Motion Picture                                                                                | Howard Shore                                                                                |
