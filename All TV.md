@@ -17,6 +17,7 @@
 | Boston Legal Season 3                                                                                               | DVD       |
 | Captain Caveman Complete                                                                                            | DVD       |
 | Caroline in the City The First Season                                                                               | DVD       |
+| Chris Elliot in... GET A LIFE: Volume 1                                                                             | DVD       |
 | Clerks Animated                                                                                                     | DVD       |
 | Community Season 1                                                                                                  | DVD       |
 | Criminal Minds: Season 2                                                                                            | DVD       |
@@ -70,6 +71,7 @@
 | Queen's Blade The Exiled Virgin 3                                                                                   | DVD       |
 | Reader's Digest America's Great Road Trips and Scenic Drives                                                        | DVD       |
 | Reign The Complete First Season                                                                                     | DVD       |
+| Rick and Morty: Season 1                                                                                            | Blu-Ray   |
 | Rumpole of the Bailey Season  2                                                                                     | DVD       |
 | Rumpole of the Bailey Season 1                                                                                      | DVD       |
 | Rumpole of the Bailey Season 3                                                                                      | DVD       |
@@ -84,6 +86,8 @@
 | Stan Lee's Mighty 7 Beginnings                                                                                      | DVD       |
 | Stan Lee's Mutants Monsters and Marvels                                                                             | DVD       |
 | Star Trek Deep Space Nine Episodes 27 and 28                                                                        | Laserdisc |
+| Star Trek Voyager: Season 1                                                                                         | DVD       |
+| Star Trek Voyager: Season 4                                                                                         | DVD       |
 | Star Trek: Deep Space Nine The Chosen Collection (All Seasons)                                                      | DVD       |
 | Stephen King's The Stand                                                                                            | VHS       |
 | Strangers With Candy Season 3                                                                                       | DVD       |
@@ -111,6 +115,7 @@
 | Tin Man Collectors Edition                                                                                          | DVD       |
 | Tom and Jerry Spotlight Collection                                                                                  | DVD       |
 | Veronica Mars Season 1                                                                                              | DVD       |
+| Warehouse 13: Season 1                                                                                              | DVD       |
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
 | Will Ferrell SNL Collection                                                                                         | DVD       |
 | Workaholics Season 1 and 2                                                                                          | Blu-Ray   |
