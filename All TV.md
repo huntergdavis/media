@@ -36,6 +36,7 @@
 | Game of Thrones Season 1                                                                                            | Blu Ray   |
 | Garfield and Friends Dreams and Schemes                                                                             | DVD       |
 | Gargoyles: Season 1                                                                                                 | DVD       |
+| Get Smart (1995 Andy Dick Reboot): The Complete Series                                                              | DVD       |
 | Gilmore Girls Complete                                                                                              | DVD       |
 | Glitch Season One                                                                                                   | DVD       |
 | Good Eats - More Juicy Meats                                                                                        | DVD       |
