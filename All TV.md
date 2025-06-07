@@ -31,6 +31,8 @@
 | Ducktails Volume 1 Episodes 1-27                                                                                    | DVD       |
 | Farscape 15th anniversary collection 1-4                                                                            | Blu-Ray   |
 | Farscape Season 1-4 15th Anniversary                                                                                | Blu-Ray   |
+| Firefly: The Complete Series                                                                                        | DVD       |
+| Friday Night Lights The First Season                                                                                | DVD       |
 | Friends Season 1                                                                                                    | Blu-Ray   |
 | Friends Season 2                                                                                                    | Blu-Ray   |
 | Game of Thrones Season 1                                                                                            | Blu Ray   |
@@ -47,6 +49,7 @@
 | Hot in Cleveland Season 1                                                                                           | DVD       |
 | How I Met Your Mother Season 7 Duckie Tie Edition                                                                   | DVD       |
 | It's Always Sunny In Philadelphia A Very Sunny Christmas                                                            | DVD       |
+| Jeremiah: The Complete First Season                                                                                 | DVD       |
 | La Bande Apicsou (Ducktales)                                                                                        | DVD       |
 | Laguna Beach Season One                                                                                             | DVD       |
 | Law and Order: Special Victims Unit - Season 1                                                                      | DVD       |
@@ -102,6 +105,8 @@
 | The Legend of Neil The Complete Series                                                                              | DVD       |
 | The Muppet Show with Emotion John                                                                                   | VHS       |
 | The Muppet show with Mark Hamil                                                                                     | VHS       |
+| The Office Seasons 1-5                                                                                              | DVD       |
+| The Office Seasons 6-9                                                                                              | DVD       |
 | The Real World Season 1 New York                                                                                    | DVD       |
 | The Three Stooges & WC Fields                                                                                       | DVD       |
 | The Three Stooges 1934-1948 Collection                                                                              | DVD       |
