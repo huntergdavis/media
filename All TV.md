@@ -63,6 +63,7 @@
 | Moribito Guardian of the Spirit Volume 1                                                                            | DVD       |
 | Nip/Tuck Season 1                                                                                                   | DVD       |
 | Northern Exposure Season 2                                                                                          | DVD       |
+| Paddington Bear: Marmalade Madness (28 Episode Set)                                                                 | DVD       |
 | Party of Five Season 1                                                                                              | DVD       |
 | Peanuts Emmy Nominated Collection                                                                                   | DVD       |
 | Penny Arcade The Series Season 1                                                                                    | DVD       |
