@@ -15,6 +15,8 @@
 | Boston Legal Season 1                                                                                               | DVD       |
 | Boston Legal Season 2                                                                                               | DVD       |
 | Boston Legal Season 3                                                                                               | DVD       |
+| Boston Legal Season 4                                                                                               | DVD       |
+| Boston Legal Season 5                                                                                               | DVD       |
 | Captain Caveman Complete                                                                                            | DVD       |
 | Caroline in the City The First Season                                                                               | DVD       |
 | Chris Elliot in... GET A LIFE: Volume 1                                                                             | DVD       |
@@ -29,6 +31,7 @@
 | Dr Horrible's Sing Along Blog                                                                                       | DVD       |
 | Dragon Ball Super: Full Collection                                                                                  | Blu-Ray   |
 | Ducktails Volume 1 Episodes 1-27                                                                                    | DVD       |
+| ER Season 1                                                                                                         | DVD       |
 | Farscape 15th anniversary collection 1-4                                                                            | Blu-Ray   |
 | Farscape Season 1-4 15th Anniversary                                                                                | Blu-Ray   |
 | Firefly: The Complete Series                                                                                        | DVD       |
