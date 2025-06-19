@@ -54,6 +54,9 @@
 | It's Always Sunny In Philadelphia A Very Sunny Christmas                                                            | DVD       |
 | Jeremiah: The Complete First Season                                                                                 | DVD       |
 | La Bande Apicsou (Ducktales)                                                                                        | DVD       |
+| La Femme Nikita Season 1                                                                                            | DVD       |
+| La Femme Nikita Season 2                                                                                            | DVD       |
+| La Femme Nikita Season 4                                                                                            | DVD       |
 | Laguna Beach Season One                                                                                             | DVD       |
 | Law and Order: Special Victims Unit - Season 1                                                                      | DVD       |
 | Lipstick Jungle Season One                                                                                          | DVD       |
@@ -123,6 +126,7 @@
 | The Witches of Eastwick Season 1                                                                                    | DVD       |
 | The X-Files 2x20 and 2x25                                                                                           | Laserdisc |
 | The X-Files 3x01 and 3x02                                                                                           | Laserdisc |
+| This is Us Season 1                                                                                                 | DVD       |
 | Tin Man Collectors Edition                                                                                          | DVD       |
 | Tom and Jerry Spotlight Collection                                                                                  | DVD       |
 | Veronica Mars Season 1                                                                                              | DVD       |
