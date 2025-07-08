@@ -6,6 +6,7 @@
 | Adele Live at the Royal Albert Hall.                           | DVD       |
 | All Eyez on Me                                                 | Blu-Ray   |
 | Bob Dylan 1966 World Tour (The House Movies)                   | DVD       |
+| Bob Dylan Unplugged                                            | DVD       |
 | Bone Thugs and Harmony Live and Uncut                          | DVD       |
 | Bony M Holiday Fireplace                                       | DVD       |
 | Christina Aguilera : Genie Gets Her Wish                       | DVD       |
@@ -13,6 +14,7 @@
 | Dave Matthews Band the Videos 1994-2001                        | DVD       |
 | Elton John Live in Australia with the melbourne symphony       | VHS       |
 | Eminem AKA                                                     | DVD       |
+| HellFest Syracuse NY, Summer 2000                              | DVD       |
 | Incubus: Alive at Red Rocks                                    | DVD       |
 | Laser Karaoke  60's Hits vol 18                                | Laserdisc |
 | Laser Karaoke  70's Hits vol 8                                 | Laserdisc |
@@ -36,6 +38,7 @@
 | Radio Disney Greatest Hits Volume 1-6                          | DVD       |
 | Radiohead 7 Televion Commercials                               | DVD       |
 | Ramones: It's Alive 1974-1996                                  | DVD       |
+| Richard Simmons: Sweatin to the Oldies                         | DVD       |
 | Rock and Roll High School                                      | DVD       |
 | Seattle Grand Poetry Slam                                      | DVD       |
 | Shania Twain The Platinum Collection                           | DVD       |
@@ -47,6 +50,7 @@
 | The Beatles HELP!                                              | DVD       |
 | The Best of Mandy Moore                                        | DVD       |
 | The Best of the Johnny Cash TV Show                            | DVD       |
+| The Concert for Bangladesh: George Harrison and Friends        | DVD       |
 | The Darkness Permission To Land ... Again                      | Blu-Ray   |
 | The Doors The Soft Parade A Retrospective                      | Laserdisc |
 | The Grateful Dead Movie                                        | DVD       |

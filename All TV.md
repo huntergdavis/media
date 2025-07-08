@@ -6,6 +6,7 @@
 | A Town Called Panic                                                                                                 | Blu-Ray   |
 | America's Automotive Museum Collection 1-4                                                                          | DVD       |
 | American Gladiators (2009) Ultimate Workout                                                                         | DVD       |
+| Anne of Green Gables                                                                                                | DVD       |
 | Are you being served? Vol 1                                                                                         | DVD       |
 | Avatar and Korra Complete Series                                                                                    | Blu Ray   |
 | Batman the Brave and the Bold 4 Episodes                                                                            | DVD       |
@@ -27,6 +28,7 @@
 | Darrin's Dance Grooves (MTV)                                                                                        | DVD       |
 | Dave Attel's Insomniac Tour Uncensored! Presents Sean Rouse, Greg Giraldo and Dane Cook                             | DVD       |
 | DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray  | Blu Ray   |
+| Dirt: Season 1                                                                                                      | DVD       |
 | Doctor Who The Complete Second Series                                                                               | DVD       |
 | Dr Horrible's Sing Along Blog                                                                                       | DVD       |
 | Dragon Ball Super: Full Collection                                                                                  | Blu-Ray   |
@@ -67,6 +69,8 @@
 | Midsomer Murders Series 9                                                                                           | DVD       |
 | Midsomer Murders Series 10                                                                                          | DVD       |
 | Moribito Guardian of the Spirit Volume 1                                                                            | DVD       |
+| Mr Bill Christmas Special                                                                                           | DVD       |
+| Mr Bill Does Vegas                                                                                                  | DVD       |
 | Nip/Tuck Season 1                                                                                                   | DVD       |
 | Northern Exposure Season 2                                                                                          | DVD       |
 | Paddington Bear: Marmalade Madness (28 Episode Set)                                                                 | DVD       |
@@ -134,4 +138,3 @@
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
 | Will Ferrell SNL Collection                                                                                         | DVD       |
 | Workaholics Season 1 and 2                                                                                          | Blu-Ray   |
-| Anne of Green Gables                                                                                                | DVD       |
