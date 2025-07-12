@@ -2,6 +2,7 @@
 | Title                                                                                                               | Format    |
 | ------------------------------------------------------------------------------------------------------------------- | --------- |
 | 30 Rock Complete                                                                                                    | Blu-Ray   |
+| 150 Cartoon Classics (Betty Boop, Woody Woodpecker, Three Stooges, Popeye, Felix)                                   | DVD       |
 | 1001 classic commercials                                                                                            | DVD       |
 | A Town Called Panic                                                                                                 | Blu-Ray   |
 | America's Automotive Museum Collection 1-4                                                                          | DVD       |
@@ -37,6 +38,7 @@
 | Farscape 15th anniversary collection 1-4                                                                            | Blu-Ray   |
 | Farscape Season 1-4 15th Anniversary                                                                                | Blu-Ray   |
 | Firefly: The Complete Series                                                                                        | DVD       |
+| Fosters Home for Imaginary Friends Season 1                                                                         | DVD       |
 | Friday Night Lights The First Season                                                                                | DVD       |
 | Friends Season 1                                                                                                    | Blu-Ray   |
 | Friends Season 2                                                                                                    | Blu-Ray   |
@@ -71,8 +73,10 @@
 | Moribito Guardian of the Spirit Volume 1                                                                            | DVD       |
 | Mr Bill Christmas Special                                                                                           | DVD       |
 | Mr Bill Does Vegas                                                                                                  | DVD       |
+| Mythbusters: 3 Pilot Episodes                                                                                       | DVD       |
 | Nip/Tuck Season 1                                                                                                   | DVD       |
 | Northern Exposure Season 2                                                                                          | DVD       |
+| Orphan Black Season 2                                                                                               | DVD       |
 | Paddington Bear: Marmalade Madness (28 Episode Set)                                                                 | DVD       |
 | Party of Five Season 1                                                                                              | DVD       |
 | Peanuts Emmy Nominated Collection                                                                                   | DVD       |
@@ -84,6 +88,7 @@
 | Queen's Blade The Exiled Virgin 1                                                                                   | DVD       |
 | Queen's Blade The Exiled Virgin 2                                                                                   | DVD       |
 | Queen's Blade The Exiled Virgin 3                                                                                   | DVD       |
+| Race for your life Charlie Brown                                                                                    | DVD       |
 | Reader's Digest America's Great Road Trips and Scenic Drives                                                        | DVD       |
 | Reign The Complete First Season                                                                                     | DVD       |
 | Rick and Morty: Season 1                                                                                            | Blu-Ray   |
@@ -117,6 +122,7 @@
 | The Legend of Neil The Complete Series                                                                              | DVD       |
 | The Muppet Show with Emotion John                                                                                   | VHS       |
 | The Muppet show with Mark Hamil                                                                                     | VHS       |
+| The New Guy                                                                                                         | DVD       |
 | The Office Seasons 1-5                                                                                              | DVD       |
 | The Office Seasons 6-9                                                                                              | DVD       |
 | The Real World Season 1 New York                                                                                    | DVD       |

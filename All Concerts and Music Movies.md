@@ -33,6 +33,7 @@
 | Muse: Manic Depression                                         | DVD       |
 | Nirvana MTV Unplugged in New York                              | DVD       |
 | Paramore: The Final Riot                                       | Blu-Ray   |
+| Permanent Record: Violent Femmes Live                          | DVD       |
 | Pink Floyd The Wall                                            | DVD       |
 | Punk Rock Summer Camp                                          | DVD       |
 | Radio Disney Greatest Hits Volume 1-6                          | DVD       |
@@ -55,6 +56,7 @@
 | The Doors The Soft Parade A Retrospective                      | Laserdisc |
 | The Grateful Dead Movie                                        | DVD       |
 | The Smashing Pumpkins 1991-2000 Greatest Hits Video Collection | DVD       |
+| VH1 Diva's Live                                                | DVD       |
 | Weezer Video Capture Device Treasures from the Vault 1992-2002 | DVD       |
 | Welcome to The Darkness                                        | Blu-Ray   |
 | Yeah Yeah Yeah's Tell Me What Rockets to Swallow               | DVD       |
