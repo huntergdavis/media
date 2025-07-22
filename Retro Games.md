@@ -125,6 +125,7 @@
 | The Lord of the Rings Aragorn's Quest                     | yes  | yes     | Wii               |
 | Assassins Creed Odyssey                                   | Yes  | Yes     | Xbox One          |
 | Batman Arkhan Knight                                      | Yes  | Yes     | Xbox One          |
+| Dying Light                                               | Yes  | Yes     | Xbox One          |
 | Fallout 4                                                 | Yes  | Yes     | Xbox One          |
 | Hogwarts Legacy                                           | Yes  | Yes     | Xbox One          |
 | Megaman 11                                                | Yes  | Yes     | Xbox One          |

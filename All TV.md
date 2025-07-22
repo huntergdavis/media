@@ -33,6 +33,8 @@
 | Doctor Who The Complete Second Series                                                                               | DVD       |
 | Dr Horrible's Sing Along Blog                                                                                       | DVD       |
 | Dragon Ball Super: Full Collection                                                                                  | Blu-Ray   |
+| Dragon Ball Z Season 8                                                                                              | DVD       |
+| DragonBall Z Season 4                                                                                               | DVD       |
 | Ducktails Volume 1 Episodes 1-27                                                                                    | DVD       |
 | ER Season 1                                                                                                         | DVD       |
 | Farscape 15th anniversary collection 1-4                                                                            | Blu-Ray   |
@@ -119,6 +121,7 @@
 | The Best of the Colbert Report                                                                                      | DVD       |
 | The IT Crowd Season 1                                                                                               | DVD       |
 | The Jeff Foxworthy Show Season 1                                                                                    | DVD       |
+| The kids in the Hall Season 2                                                                                       | DVD       |
 | The Legend of Neil The Complete Series                                                                              | DVD       |
 | The Muppet Show with Emotion John                                                                                   | VHS       |
 | The Muppet show with Mark Hamil                                                                                     | VHS       |
@@ -139,6 +142,7 @@
 | This is Us Season 1                                                                                                 | DVD       |
 | Tin Man Collectors Edition                                                                                          | DVD       |
 | Tom and Jerry Spotlight Collection                                                                                  | DVD       |
+| Underdog Volume 1                                                                                                   | DVD       |
 | Veronica Mars Season 1                                                                                              | DVD       |
 | Warehouse 13: Season 1                                                                                              | DVD       |
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
