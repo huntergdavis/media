@@ -5,6 +5,7 @@
 | 150 Cartoon Classics (Betty Boop, Woody Woodpecker, Three Stooges, Popeye, Felix)                                   | DVD       |
 | 1001 classic commercials                                                                                            | DVD       |
 | A Town Called Panic                                                                                                 | Blu-Ray   |
+| America By Rail: The West Coast                                                                                     | DVD       |
 | America's Automotive Museum Collection 1-4                                                                          | DVD       |
 | American Gladiators (2009) Ultimate Workout                                                                         | DVD       |
 | Anne of Green Gables                                                                                                | DVD       |
@@ -20,18 +21,23 @@
 | Boston Legal Season 4                                                                                               | DVD       |
 | Boston Legal Season 5                                                                                               | DVD       |
 | Captain Caveman Complete                                                                                            | DVD       |
+| Carmen Electra's Aerobic Striptease 1                                                                               | DVD       |
 | Caroline in the City The First Season                                                                               | DVD       |
+| Cartoon Network's Cartoon Crack-Ups                                                                                 | DVD       |
 | Chris Elliot in... GET A LIFE: Volume 1                                                                             | DVD       |
 | Clerks Animated                                                                                                     | DVD       |
 | Community Season 1                                                                                                  | DVD       |
+| Community The Complete 2nd Season                                                                                   | DVD       |
 | Criminal Minds: Season 2                                                                                            | DVD       |
 | Crossing Jordan Complete                                                                                            | DVD       |
 | Darrin's Dance Grooves (MTV)                                                                                        | DVD       |
 | Dave Attel's Insomniac Tour Uncensored! Presents Sean Rouse, Greg Giraldo and Dane Cook                             | DVD       |
+| Dawson's Creek Season 1                                                                                             | DVD       |
 | DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray  | Blu Ray   |
 | Dirt: Season 1                                                                                                      | DVD       |
 | Doctor Who The Complete Second Series                                                                               | DVD       |
 | Dr Horrible's Sing Along Blog                                                                                       | DVD       |
+| Dragon Ball GT The Lost Episodes 1 : Reaction                                                                       | DVD       |
 | Dragon Ball Super: Full Collection                                                                                  | Blu-Ray   |
 | Dragon Ball Z Season 8                                                                                              | DVD       |
 | DragonBall Z Season 4                                                                                               | DVD       |
@@ -44,6 +50,8 @@
 | Friday Night Lights The First Season                                                                                | DVD       |
 | Friends Season 1                                                                                                    | Blu-Ray   |
 | Friends Season 2                                                                                                    | Blu-Ray   |
+| Friends: The Complete Third Season                                                                                  | DVD       |
+| Friends: The Series Finale                                                                                          | DVD       |
 | Game of Thrones Season 1                                                                                            | Blu Ray   |
 | Garfield and Friends Dreams and Schemes                                                                             | DVD       |
 | Gargoyles: Season 1                                                                                                 | DVD       |
@@ -51,6 +59,8 @@
 | Gilmore Girls Complete                                                                                              | DVD       |
 | Glitch Season One                                                                                                   | DVD       |
 | Good Eats - More Juicy Meats                                                                                        | DVD       |
+| Good Eats With Alton Brown: Super Sweets                                                                            | DVD       |
+| Grey's Anatomy Season 1                                                                                             | DVD       |
 | Grey's Anatomy Season 1                                                                                             | DVD       |
 | Happily Divorced Season 1                                                                                           | DVD       |
 | Heroes Complete Series                                                                                              | Blu-Ray   |
@@ -58,6 +68,7 @@
 | Hot in Cleveland Season 1                                                                                           | DVD       |
 | How I Met Your Mother Season 7 Duckie Tie Edition                                                                   | DVD       |
 | It's Always Sunny In Philadelphia A Very Sunny Christmas                                                            | DVD       |
+| It's Always Sunny in Philadelphia Seasons 1 and 2                                                                   | DVD       |
 | Jeremiah: The Complete First Season                                                                                 | DVD       |
 | La Bande Apicsou (Ducktales)                                                                                        | DVD       |
 | La Femme Nikita Season 1                                                                                            | DVD       |
@@ -85,6 +96,8 @@
 | Penny Arcade The Series Season 1                                                                                    | DVD       |
 | Poirot - The TV Movie Collection 3                                                                                  | DVD       |
 | Pride and Prejudice (1997) Special Edition                                                                          | DVD       |
+| Psych Season 3                                                                                                      | DVD       |
+| Psych Season 4                                                                                                      | DVD       |
 | Punked Season 1                                                                                                     | DVD       |
 | Pushing Daisey's Season 1                                                                                           | DVD       |
 | Queen's Blade The Exiled Virgin 1                                                                                   | DVD       |
@@ -136,6 +149,8 @@
 | The Trailer Park Boys Season 1 and 2                                                                                | DVD       |
 | The Trailer Park Boys Season 3                                                                                      | DVD       |
 | The Trailer Park Boys Season 4                                                                                      | DVD       |
+| The Trailer Park Boys: Season 6                                                                                     | DVD       |
+| The Trailer Park Boys: Season 7                                                                                     | DVD       |
 | The Witches of Eastwick Season 1                                                                                    | DVD       |
 | The X-Files 2x20 and 2x25                                                                                           | Laserdisc |
 | The X-Files 3x01 and 3x02                                                                                           | Laserdisc |
