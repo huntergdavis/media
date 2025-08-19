@@ -8,6 +8,7 @@
 | America By Rail: The West Coast                                                                                     | DVD       |
 | America's Automotive Museum Collection 1-4                                                                          | DVD       |
 | American Gladiators (2009) Ultimate Workout                                                                         | DVD       |
+| Angry Birds Toons Season 1 Volume 1                                                                                 | DVD       |
 | Anne of Green Gables                                                                                                | DVD       |
 | Are you being served? Vol 1                                                                                         | DVD       |
 | Avatar and Korra Complete Series                                                                                    | Blu Ray   |
@@ -64,6 +65,13 @@
 | Grey's Anatomy Season 1                                                                                             | DVD       |
 | Happily Divorced Season 1                                                                                           | DVD       |
 | Heroes Complete Series                                                                                              | Blu-Ray   |
+| Highlander : The Best of the Best Ultimate Collection                                                               | DVD       |
+| Highlander Season 1                                                                                                 | DVD       |
+| Highlander Season 4                                                                                                 | DVD       |
+| Highlander Season 5                                                                                                 | DVD       |
+| Highlander Season 6                                                                                                 | DVD       |
+| Highlander The Raven Complete Series                                                                                | DVD       |
+| Homeland Season 1                                                                                                   | DVD       |
 | Horatio Hornblower The New Adventures                                                                               | DVD       |
 | Hot in Cleveland Season 1                                                                                           | DVD       |
 | How I Met Your Mother Season 7 Duckie Tie Edition                                                                   | DVD       |
@@ -76,17 +84,21 @@
 | La Femme Nikita Season 4                                                                                            | DVD       |
 | Laguna Beach Season One                                                                                             | DVD       |
 | Law and Order: Special Victims Unit - Season 1                                                                      | DVD       |
+| Legion of Superheroes Vol 2                                                                                         | DVD       |
 | Lipstick Jungle Season One                                                                                          | DVD       |
 | Love Comes Softly Series                                                                                            | DVD       |
 | Mad Men Season 1                                                                                                    | DVD       |
 | Magilla Gorilla The complete series                                                                                 | DVD       |
+| Marple Series 2                                                                                                     | DVD       |
 | Midsomer Murders Series 8                                                                                           | DVD       |
 | Midsomer Murders Series 9                                                                                           | DVD       |
 | Midsomer Murders Series 10                                                                                          | DVD       |
+| Midsomer Murders Set 23                                                                                             | DVD       |
 | Moribito Guardian of the Spirit Volume 1                                                                            | DVD       |
 | Mr Bill Christmas Special                                                                                           | DVD       |
 | Mr Bill Does Vegas                                                                                                  | DVD       |
 | Mythbusters: 3 Pilot Episodes                                                                                       | DVD       |
+| Neverwhere the complete series                                                                                      | DVD       |
 | Nip/Tuck Season 1                                                                                                   | DVD       |
 | Northern Exposure Season 2                                                                                          | DVD       |
 | Orphan Black Season 2                                                                                               | DVD       |
@@ -95,6 +107,7 @@
 | Peanuts Emmy Nominated Collection                                                                                   | DVD       |
 | Penny Arcade The Series Season 1                                                                                    | DVD       |
 | Poirot - The TV Movie Collection 3                                                                                  | DVD       |
+| Poirot Set 2                                                                                                        | DVD       |
 | Pride and Prejudice (1997) Special Edition                                                                          | DVD       |
 | Psych Season 3                                                                                                      | DVD       |
 | Psych Season 4                                                                                                      | DVD       |
@@ -110,6 +123,8 @@
 | Rumpole of the Bailey Season  2                                                                                     | DVD       |
 | Rumpole of the Bailey Season 1                                                                                      | DVD       |
 | Rumpole of the Bailey Season 3                                                                                      | DVD       |
+| Ruroni Kenshin Legend of Kyoto: Innocense and Experience (ep 53-57)                                                 | DVD       |
+| Saturday Night Live: The Best of Steve Martin                                                                       | DVD       |
 | Schoolhouse Rock science Rock                                                                                       | VHS       |
 | Schoolhouse Rock!                                                                                                   | DVD       |
 | Scooby Do Meets Wrestlemania                                                                                        | DVD       |
@@ -132,10 +147,12 @@
 | The babysitter's club video #1                                                                                      | VHS       |
 | The Best of Ray Bradbury Theatre Volume Two                                                                         | Laserdisc |
 | The Best of the Colbert Report                                                                                      | DVD       |
+| The It Crowd Final Episode Version 5                                                                                | DVD       |
 | The IT Crowd Season 1                                                                                               | DVD       |
 | The Jeff Foxworthy Show Season 1                                                                                    | DVD       |
 | The kids in the Hall Season 2                                                                                       | DVD       |
 | The Legend of Neil The Complete Series                                                                              | DVD       |
+| The Mighty Boosh Live                                                                                               | DVD       |
 | The Muppet Show with Emotion John                                                                                   | VHS       |
 | The Muppet show with Mark Hamil                                                                                     | VHS       |
 | The New Guy                                                                                                         | DVD       |

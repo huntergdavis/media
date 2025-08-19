@@ -51,6 +51,7 @@
 | The Beatles HELP!                                              | DVD       |
 | The Best of Mandy Moore                                        | DVD       |
 | The Best of the Johnny Cash TV Show                            | DVD       |
+| The Best of Tom Jones Duets by Invitation                      | DVD       |
 | The Concert for Bangladesh: George Harrison and Friends        | DVD       |
 | The Darkness Permission To Land ... Again                      | Blu-Ray   |
 | The Doors The Soft Parade A Retrospective                      | Laserdisc |
