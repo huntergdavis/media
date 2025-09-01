@@ -132,3 +132,4 @@
 | Race with Ryan                                            | Yes  | Yes     | Xbox One          |
 | Rare Replay                                               | Yes  | Yes     | Xbox One          |
 | The Witcher 3: Wild Hunt                                  | Yes  | Yes     | Xbox One          |
+| Borderlands 3                                             | Yes  | Yes     | Xbox One          |
