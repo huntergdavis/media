@@ -123,6 +123,7 @@
 | Indiana Jones and the Staff of Kings                      | yes  | yes     | Wii               |
 | Sonic Unleashed                                           | Yes  | Yes     | Wii               |
 | The Lord of the Rings Aragorn's Quest                     | yes  | yes     | Wii               |
+| Captain Toad Treasure Tracker                             | Yes  | Yes     | Wii U             |
 | Assassins Creed Odyssey                                   | Yes  | Yes     | Xbox One          |
 | Batman Arkhan Knight                                      | Yes  | Yes     | Xbox One          |
 | Dying Light                                               | Yes  | Yes     | Xbox One          |
