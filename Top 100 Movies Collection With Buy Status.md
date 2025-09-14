@@ -1,0 +1,104 @@
+- [x] 12 Monkeys
+- [x] 1408
+- [x] A Bug's Life
+- [x] Along Came a Spider
+- [x] alien
+- [x] Anaconda
+- [x] Apocalypse Now
+- [x] Armageddon
+- [x] Avatar
+- [x] Avatar: The Last Airbender
+- [x] Back to the Future
+- [x] Bad Boys
+- [x] blade runner
+- [x] Bohemian Rhapsody
+- [x] Bonnie and Clyde
+- [x] Captain America: The First Avenger
+- [x] Casablanca
+- [x] City Lights
+- [x] Crank
+- [x] Die Hard
+- [x] Dr. No
+- [x] Fast and Furious
+- [x] Forrest Gump
+- [x] G.I. Jane
+- [x] Godzilla
+- [x] Goodfellas
+- [x] Harry Potter
+- [x] hachi a dogs story
+- [x] Home Alone
+- [x] Inception
+- [x] it
+- [x] Indiana Jones
+- [x] Iron Man
+- [x] Jaws
+- [x] Jurassic Park
+- [x] Kill Bill
+- [x] King Kong
+- [x] L.A. Confidential
+- [x] Limitless
+- [x] Leon
+- [x] Machete
+- [x] Madagascar
+- [x] Mission: Impossible
+- [x] National Treasure
+- [x] Ocean's Eleven
+- [x] Pirates of the Caribbean
+- [x] Platoon
+- [x] Predator
+- [x] Psycho
+- [x] Pulp Fiction
+- [x] pet cemetery 2019
+- [x] Rambo: First Blood
+- [x] Rear Window
+- [x] Resident Evil
+- [x] Rocky
+- [x] Saving Private Ryan
+- [x] Saw
+- [x] Schindler's List
+- [x] Scream
+- [x] Seven
+- [x] Sherlock Holmes
+- [x] Some Like It Hot
+- [x] Spartacus
+- [x] Spider-Man
+- [x] Star Wars
+- [x] Superman
+- [x] The 36th Chamber of Shaolin
+- [x] The Avengers
+- [x] The Big Lebowski
+- [x] The Butterfly Effect
+- [x] The Chronicles of Narnia
+- [x] The Da Vinci Code
+- [x] The Dark Knight
+- [x] The Expendables
+- [x] The Fifth Element
+- [x] The Godfather
+- [x] The Great Gatsby
+- [x] The Green Mile
+- [x] The Hangover
+- [x] The Hunger Games
+- [x] The Illusionist
+- [x] The Lion King
+- [x] The Lord of the Rings
+- [x] The Matrix
+- [x] The Maze Runner
+- [x] The Mist
+- [x] The Number 23
+- [x] the professional 
+- [x] The Searchers
+- [x] The Shawshank Redemption
+- [x] The Shining
+- [x] The Silence of the Lambs
+- [x] The Terminator
+- [x] The Thing
+- [x] The Whole Nine Yards
+- [x] The Wizard of Oz
+- [x] The Wolf of Wall Street
+- [x] Titanic
+- [x] Tomb Raider
+- [x] Transformers
+- [x] Twilight
+- [x] Vertigo
+- [x] War of the Worlds
+- [x] X-Men
