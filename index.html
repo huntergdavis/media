@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Collections (and Markdown Renderer)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #url-input {
+            width: 80%;
+            padding: 8px;
+        }
+        .action-button {
+            padding: 8px 12px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        #output-table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        #output-table th, #output-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        #output-table th {
+            background-color: #f2f2f2;
+        }
+        #url-section {
+            display: none; /* Initially hidden */
+            margin-bottom: 20px;
+        }
+        #search-box {
+            margin-bottom: 20px;
+            padding: 8px;
+            width: 100%;
+            display: none; /* Initially hidden */
+        }
+        #random-button {
+            display: none; /* Initially hidden */
+            padding: 8px 12px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Media Collections</h2>
+    <h3>(And Markdown Table Renderer)</h3>
+
+    <button id="toggle-url-button" class="action-button">URL</button>
+    <button id="tv-button" class="action-button">TV</button>
+    <button id="concerts-button" class="action-button">Concerts and Music Movies</button>
+    <button id="movies-button" class="action-button">Movies</button>
+    <button id="board-games-button" class="action-button">Board Games</button>
+    <button id="cds-button" class="action-button">CDs</button>
+    <button id="vinyls-button" class="action-button">Vinyls</button>
+    <button id="retro-games-button" class="action-button">Retro Games</button>
+    <button id="random-button" class="action-button">Random</button>
+
+    <div id="url-section">
+        <input type="text" id="url-input" placeholder="Enter the URL of the Markdown file"/>
+        <button id="render-button" class="action-button">Render</button>
+    </div>
+
+    <!-- Search box for filtering the table -->
+    <input type="text" id="search-box" placeholder="Search..."/>
+
+    <div id="table-container"></div>
+
+    <script>
+        let currentEntries = [];
+
+        // Toggle the visibility of the URL section
+        document.getElementById('toggle-url-button').addEventListener('click', function() {
+            const urlSection = document.getElementById('url-section');
+            urlSection.style.display = urlSection.style.display === 'none' || urlSection.style.display === '' ? 'block' : 'none';
+        });
+
+        // Function to fetch and render Markdown table
+        function fetchAndRenderMarkdown(url) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) throw new Error('Network response was not ok');
+                    return response.text();
+                })
+                .then(markdownText => {
+                    clearSearchAndResults();
+                    const tableHtml = markdownToHtmlTable(markdownText);
+                    document.getElementById('table-container').innerHTML = tableHtml;
+
+                    const tableExists = document.getElementById('output-table');
+                    if (tableExists) {
+                        document.getElementById('search-box').style.display = 'block'; // Show search box if table exists
+                        document.getElementById('random-button').style.display = 'inline-block'; // Show random button if table exists
+                        currentEntries = extractTableEntries(); // Extract entries for random selection
+                        addSearchFunctionality(); // Add search functionality after rendering table
+                    } else {
+                        document.getElementById('search-box').style.display = 'none'; // Hide search box if no table
+                        document.getElementById('random-button').style.display = 'none'; // Hide random button if no table
+                    }
+                })
+                .catch(error => {
+                    alert('Failed to load the markdown file: ' + error.message);
+                    document.getElementById('search-box').style.display = 'none'; // Hide search box if error occurs
+                    document.getElementById('random-button').style.display = 'none'; // Hide random button if error occurs
+                });
+        }
+
+        // Attach event listeners to buttons with corresponding URLs
+        document.getElementById('tv-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/main/All%20TV.md');
+        });
+
+        document.getElementById('concerts-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/main/All%20Concerts%20and%20Music%20Movies.md');
+        });
+
+        document.getElementById('movies-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/main/All%20Movies.md');
+        });
+
+        document.getElementById('cds-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/main/All%20CDs.md');
+        });
+
+        document.getElementById('board-games-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/refs/heads/main/All%20Board%20and%20Card%20Games.md');
+        });
+
+        document.getElementById('vinyls-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/refs/heads/main/Vinyl.md');
+        });
+
+        document.getElementById('retro-games-button').addEventListener('click', function() {
+            fetchAndRenderMarkdown('https://raw.githubusercontent.com/huntergdavis/media/refs/heads/main/Retro%20Games.md');
+        });
+
+        document.getElementById('render-button').addEventListener('click', function() {
+            const url = document.getElementById('url-input').value;
+            if (!url) {
+                alert('Please enter a URL');
+                return;
+            }
+            fetchAndRenderMarkdown(url);
+        });
+
+        // Function to convert Markdown table to HTML table
+        function markdownToHtmlTable(markdownText) {
+            const tableRegex = /\|(.+?)\|\n\|([-:|\s]+)\|\n((\|.+?\|\n)+)/;
+            const match = markdownText.match(tableRegex);
+
+            if (!match) {
+                return '<p>No table found in the markdown file.</p>';
+            }
+
+            const headerRow = match[1].trim().split('|').map(cell => cell.trim());
+            const rows = match[3].trim().split('\n').map(row =>
+                row.trim().split('|').map(cell => cell.trim())
+            );
+
+            const cleanedRows = rows.map(row => row.filter(cell => cell.length > 0));
+            const cleanedHeader = headerRow.filter(cell => cell.length > 0);
+
+            let tableHtml = '<table id="output-table">';
+            tableHtml += '<thead><tr>';
+            cleanedHeader.forEach(cell => {
+                tableHtml += `<th>${cell}</th>`;
+            });
+            tableHtml += '</tr></thead><tbody>';
+
+            cleanedRows.forEach(row => {
+                tableHtml += '<tr>';
+                row.forEach(cell => {
+                    tableHtml += `<td>${cell}</td>`;
+                });
+                tableHtml += '</tr>';
+            });
+
+            tableHtml += '</tbody></table>';
+
+            return tableHtml;
+        }
+
+        // Function to extract entries from the table for random selection
+        function extractTableEntries() {
+            const rows = document.querySelectorAll('#output-table tbody tr');
+            const entries = [];
+            rows.forEach(row => {
+                const cells = row.querySelectorAll('td');
+                const entry = Array.from(cells).map(cell => cell.innerText).join(' | ');
+                entries.push(entry);
+            });
+            return entries;
+        }
+
+        // Function to show a random entry from the table
+        document.getElementById('random-button').addEventListener('click', function() {
+            if (currentEntries.length > 0) {
+                const randomIndex = Math.floor(Math.random() * currentEntries.length);
+                const searchBox = document.getElementById('search-box');
+                searchBox.value = currentEntries[randomIndex].split('|')[0];
+                applySearchFilter(searchBox.value.toLowerCase());
+            } else {
+                alert('No entries to select from.');
+            }
+        });
+
+        // Function to filter table based on search query
+        function addSearchFunctionality() {
+            const searchBox = document.getElementById('search-box');
+
+            // Reapply search filter if there's already text in the search box
+            if (searchBox.value) {
+                applySearchFilter(searchBox.value.toLowerCase());
+            }
+
+            searchBox.addEventListener('input', function() {
+                applySearchFilter(searchBox.value.toLowerCase());
+            });
+        }
+
+        // Function to clear search filter
+        function clearSearchAndResults(){
+            const searchBox = document.getElementById('search-box');
+            searchBox.value = "";
+        }
+
+        // Function to apply search filter
+        function applySearchFilter(filter) {
+            const table = document.getElementById('output-table');
+            const rows = table.getElementsByTagName('tr');
+
+            // Loop through all table rows, and hide those that don't match the search query
+            for (let i = 1; i < rows.length; i++) { // Start from 1 to skip the header row
+                let row = rows[i];
+                let cells = row.getElementsByTagName('td');
+                let rowText = Array.from(cells).map(cell => cell.textContent.toLowerCase()).join(' ');
+                if (rowText.indexOf(filter) > -1) {
+                    row.style.display = '';
+                } else {
+                    row.style.display = 'none';
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>
