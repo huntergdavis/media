@@ -39,6 +39,7 @@
 | Dawson's Creek Season 1                                                                                             | DVD       |
 | DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray  | Blu Ray   |
 | Dirt: Season 1                                                                                                      | DVD       |
+| Doctor Who Series 12 Complete                                                                                       | DVD       |
 | Doctor Who The Complete Second Series                                                                               | DVD       |
 | Downton Abbey Season 1, 2 and 3                                                                                     | DVD       |
 | Dr Horrible's Sing Along Blog                                                                                       | DVD       |

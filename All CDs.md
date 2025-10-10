@@ -9,6 +9,7 @@
 | Our Time In Eden                                                                                                    | 10,000 Maniacs                                                                              |
 | The Wishing Chair                                                                                                   | 10,000 Maniacs                                                                              |
 | Mamma Mia                                                                                                           | A*Teens                                                                                     |
+| The Sign                                                                                                            | Ace of Base                                                                                 |
 | What's Your Name?                                                                                                   | Adam Sandler                                                                                |
 | Big Ones                                                                                                            | Aerosmith                                                                                   |
 | Greatest Hits                                                                                                       | Aerosmith                                                                                   |
@@ -24,6 +25,7 @@
 | MTV Unplugged                                                                                                       | Alice In Chains                                                                             |
 | Gourmandises                                                                                                        | Alizée                                                                                      |
 | Psychédélices                                                                                                       | Alizée                                                                                      |
+| All Saints                                                                                                          | All Saints                                                                                  |
 | The Radius Preview                                                                                                  | Allen Stone (2)                                                                             |
 | I'm Outta Love                                                                                                      | Anastacia                                                                                   |
 | Pool Of Radiance: Ruins Of Myth Drannor (Original Game Soundtrack)                                                  | Andrew Boyd (2), Robb Mills                                                                 |
@@ -74,6 +76,7 @@
 | Stripped                                                                                                            | Christina Aguilera                                                                          |
 | Tubthumper                                                                                                          | Chumbawamba                                                                                 |
 | ¡Viva La Cobra!                                                                                                     | Cobra Starship                                                                              |
+| Nightshades                                                                                                         | Cobra Starship                                                                              |
 | Stage Heroes                                                                                                        | Colm Wilkinson, London Philharmonic Orchestra                                               |
 | SiriusXM: Comedy Records Presents 10 Year                                                                           | Comedy Records                                                                              |
 | The Gift Of Game                                                                                                    | Crazy Town                                                                                  |
@@ -130,6 +133,7 @@
 | Beyond Rangoon (Original Motion Picture Soundtrack)                                                                 | Hans Zimmer                                                                                 |
 | Zombies! Aliens! Vampires! Dinosaurs!                                                                               | Hellogoodbye                                                                                |
 | Mario and Chill                                                                                                     | Helynt                                                                                      |
+| Mario and Chill                                                                                                     | Helynt                                                                                      |
 | White: Melodies Of Final Fantasy Tactics Advance                                                                    | Hitoshi Sakimoto, Nobuo Uematsu, 大越香里, Ayako Saso                                           |
 | Celebrity Skin                                                                                                      | Hole (2)                                                                                    |
 | Dogma: Music From The Motion Picture                                                                                | Howard Shore                                                                                |
@@ -168,6 +172,7 @@
 | Step Back In time: The Best of Kylie Minogue                                                                        | Kylie Minogue                                                                               |
 | SOS                                                                                                                 | La Bouche                                                                                   |
 | Mayhem                                                                                                              | Lady Gaga                                                                                   |
+| The Fame Monster                                                                                                    | Lady Gaga                                                                                   |
 | Born To Die                                                                                                         | Lana Del Rey                                                                                |
 | Born To Die (The Paradise Edition)                                                                                  | Lana Del Rey                                                                                |
 | Chemtrails Over The Country Club                                                                                    | Lana Del Rey                                                                                |
@@ -191,6 +196,7 @@
 | Smoke And Fire                                                                                                      | Lord Sutch And Heavy Friends                                                                |
 | Drunk At The Stone Balloon                                                                                          | Love Seed Mama Jump                                                                         |
 | The Secret Garden - The Original Broadway Cast Album                                                                | Lucy Simon, Marsha Norman                                                                   |
+| The Heist                                                                                                           | Macklemore and Ryan Lewis                                                                   |
 | Madonna                                                                                                             | Madonna                                                                                     |
 | The Immaculate Collection                                                                                           | Madonna                                                                                     |
 | The Legend Of Zelda: Breath Of The Wild Sound Selection                                                             | Manaka Kataoka, Yasuaki Iwata, Hajime Wakai                                                 |
@@ -242,6 +248,8 @@
 | Sherlock Holmes (Original Score From The Granada TV Series)                                                         | Patrick Gowers, St. Paul's Cathedral Choir, The Gabrieli String Quartet, The Wren Orchestra |
 | Chaos And Creation In The Backyard                                                                                  | Paul McCartney                                                                              |
 | Memory Almost Full                                                                                                  | Paul McCartney                                                                              |
+| Memory almost full                                                                                                  | Paul McCartney                                                                              |
+| Pure                                                                                                                | Paul McCartney                                                                              |
 | Live At The Gorge 05/06                                                                                             | Pearl Jam                                                                                   |
 | Vitalogy (生命学)                                                                                                      | Pearl Jam                                                                                   |
 | Haunted                                                                                                             | Poe                                                                                         |
@@ -272,11 +280,13 @@
 | S Club                                                                                                              | S Club 7                                                                                    |
 | Find It On The Wings                                                                                                | Sandi Patty                                                                                 |
 | Afterglow Live                                                                                                      | Sarah McLachlan                                                                             |
+| Fumbling Towards Extasy                                                                                             | Sarah McLachlan                                                                             |
 | Songs Of The Sarah Silverman Program - From Our Rears To Your Ears!                                                 | Sarah Silverman                                                                             |
 | Savage Garden                                                                                                       | Savage Garden                                                                               |
 | Carmina Burana                                                                                                      | Seattle Choral Company & Orchestra                                                          |
 | A Year Without Rain                                                                                                 | Selena Gomez and the Scene                                                                  |
 | Freakin' At The Freakers Ball                                                                                       | Shel Silverstein                                                                            |
+| The Very Best of Sheryl Crow                                                                                        | Sheryl Crow                                                                                 |
 | Live From Central Park                                                                                              | Sheryl Crow And Friends Of Sheryl Crow                                                      |
 | Vol. 3: (The Subliminal Verses)                                                                                     | Slipknot                                                                                    |
 | The Music Of Smash                                                                                                  | SMASH Cast                                                                                  |
@@ -297,6 +307,7 @@
 | Reputation                                                                                                          | Taylor Swift                                                                                |
 | Speak Now                                                                                                           | Taylor Swift                                                                                |
 | Speak Now (Taylor's Version)                                                                                        | Taylor Swift                                                                                |
+| The Life of a Showgirl                                                                                              | Taylor Swift                                                                                |
 | Cosmic Thing                                                                                                        | The B-52's                                                                                  |
 | A Hard Day's Night                                                                                                  | The Beatles                                                                                 |
 | Abbey Road                                                                                                          | The Beatles                                                                                 |
@@ -628,6 +639,16 @@
 | The Chronicles of Narnia: Prince Caspian Abridged                                                                   | Various Artists                                                                             |
 | The Mountain Summer 2000 CD Sampler                                                                                 | Various Artists                                                                             |
 | World Wrestling Federation The Music                                                                                | Various Artists                                                                             |
+| Chef Original Motion Picture Soundtrack                                                                             | Various Artists                                                                             |
+| Mexican Dinner Party Music                                                                                          | Various Artists                                                                             |
+| ABC Soap Love Affair                                                                                                | Various Artists                                                                             |
+| Opera for people who hate Opera                                                                                     | Various Artists                                                                             |
+| Classics at the Movies 1-3                                                                                          | Various Artists                                                                             |
+| Pokemon the first Movie Soundtrack                                                                                  | Various Artists                                                                             |
+| 2015 Grammy Nominees                                                                                                | Various Artists                                                                             |
+| Now That's What I call Music 31                                                                                     | Various Artists                                                                             |
+| 12 Disney Favorites Doggone Fun Songs                                                                               | Various Artists                                                                             |
+| Dragon Ball Soundtrack                                                                                              | Various Artists                                                                             |
 | Heavy Metal: Motion Picture Soundtrack                                                                              | Various Artists, Sammy Hagar, Devo                                                          |
 | The Thomas Crown Affair (Music From The MGM Motion Picture)                                                         | Various, Bill Conti                                                                         |
 | The Hitchhiker's Guide To The Galaxy (Original Soundtrack)                                                          | Various, Joby Talbot                                                                        |
