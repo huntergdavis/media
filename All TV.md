@@ -48,6 +48,7 @@
 | Dragon Ball Z Season 8                                                                                              | DVD       |
 | DragonBall Z Season 4                                                                                               | DVD       |
 | Ducktails Volume 1 Episodes 1-27                                                                                    | DVD       |
+| Earth 2 The complete Series                                                                                         | DVD       |
 | ER Season 1                                                                                                         | DVD       |
 | Farscape 15th anniversary collection 1-4                                                                            | Blu-Ray   |
 | Farscape Season 1-4 15th Anniversary                                                                                | Blu-Ray   |
@@ -182,6 +183,7 @@
 | Tom and Jerry Spotlight Collection                                                                                  | DVD       |
 | Underdog Volume 1                                                                                                   | DVD       |
 | Veronica Mars Season 1                                                                                              | DVD       |
+| Veronica Mars Season 2                                                                                              | DVD       |
 | Warehouse 13: Season 1                                                                                              | DVD       |
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
 | Will Ferrell SNL Collection                                                                                         | DVD       |
