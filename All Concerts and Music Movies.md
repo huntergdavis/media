@@ -56,6 +56,7 @@
 | The Best of Tom Jones Duets by Invitation                      | DVD       |
 | The Concert for Bangladesh: George Harrison and Friends        | DVD       |
 | The Darkness Permission To Land ... Again                      | Blu-Ray   |
+| The Doors Live in Europe 1968                                  | DVD       |
 | The Doors The Soft Parade A Retrospective                      | Laserdisc |
 | The Grateful Dead Movie                                        | DVD       |
 | The Smashing Pumpkins 1991-2000 Greatest Hits Video Collection | DVD       |

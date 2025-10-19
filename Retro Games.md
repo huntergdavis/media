@@ -96,12 +96,14 @@
 | Total Eclipse                                             | yes  | yes     | PS1               |
 | Triple Play 97                                            | yes  | yes     | PS1               |
 | Worms World Party                                         | Yes  | Yes     | PS1               |
+| Interactive Sampler CD Volume 2                           | No   | No      | PS1               |
 | Final Fantasy Tactics: War of the Lion                    | no   | no      | PSP               |
 | Grand Theft Auto Liberty City Stories                     | yes  | yes     | PSP               |
 | Little Man UMD                                            | yes  | yes     | PSP               |
 | Nick and Nora's Infinite Playlist (UMD VIdeo)             | Yes  | no      | PSP               |
 | Sin City (UMD Video)                                      | Yes  | No      | PSP               |
 | The Secret of Monkey Island                               | yes  | yes     | Sega CD           |
+| Sewer Shark                                               | No   | No      | Sega CD           |
 | Dream Passport Premier                                    | no   | no      | Sega Dreamcast    |
 | Sydney 2000                                               | yes  | yes     | Sega Dreamcast    |
 | World Series Baseball 2k1                                 | yes  | yes     | Sega Dreamcast    |

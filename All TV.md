@@ -54,6 +54,7 @@
 | Farscape Season 1-4 15th Anniversary                                                                                | Blu-Ray   |
 | Firefly: The Complete Series                                                                                        | DVD       |
 | Fosters Home for Imaginary Friends Season 1                                                                         | DVD       |
+| Fresh off the Boat: The Complete First Season                                                                       | DVD       |
 | Friday Night Lights The First Season                                                                                | DVD       |
 | Friends Season 1                                                                                                    | Blu-Ray   |
 | Friends Season 2                                                                                                    | Blu-Ray   |
@@ -92,6 +93,7 @@
 | Law and Order: Special Victims Unit - Season 1                                                                      | DVD       |
 | Legion of Superheroes Vol 2                                                                                         | DVD       |
 | Lipstick Jungle Season One                                                                                          | DVD       |
+| Live from New York: The First Five Years Collection                                                                 | DVD       |
 | Love Comes Softly Series                                                                                            | DVD       |
 | Mad Men Season 1                                                                                                    | DVD       |
 | Magilla Gorilla The complete series                                                                                 | DVD       |
@@ -134,7 +136,13 @@
 | Schoolhouse Rock science Rock                                                                                       | VHS       |
 | Schoolhouse Rock!                                                                                                   | DVD       |
 | Scooby Do Meets Wrestlemania                                                                                        | DVD       |
-| Scrubs Season 3                                                                                                     | DVD       |
+| Scrubs: The Complete 1st Season                                                                                     | DVD       |
+| Scrubs: The Complete 2nd Season                                                                                     | DVD       |
+| Scrubs: The Complete 3rd Season                                                                                     | DVD       |
+| Scrubs: The Complete 4th Season                                                                                     | DVD       |
+| Scrubs: The Complete 5th Season                                                                                     | DVD       |
+| Scrubs: The Complete 6th Season                                                                                     | DVD       |
+| Scrubs: The Complete 8th Season                                                                                     | DVD       |
 | Seattle Mariners Classic Commercials                                                                                | DVD       |
 | Son of the Beach Season 1                                                                                           | DVD       |
 | Spawn Season 3 (HBO)                                                                                                | DVD       |
