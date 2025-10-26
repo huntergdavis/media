@@ -105,6 +105,7 @@
 | Moribito Guardian of the Spirit Volume 1                                                                            | DVD       |
 | Mr Bill Christmas Special                                                                                           | DVD       |
 | Mr Bill Does Vegas                                                                                                  | DVD       |
+| My Name Is Earl: Season 1                                                                                           | DVD       |
 | Mythbusters: 3 Pilot Episodes                                                                                       | DVD       |
 | Neverwhere the complete series                                                                                      | DVD       |
 | Nip/Tuck Season 1                                                                                                   | DVD       |
@@ -113,6 +114,7 @@
 | Paddington Bear: Marmalade Madness (28 Episode Set)                                                                 | DVD       |
 | Party of Five Season 1                                                                                              | DVD       |
 | Peanuts Emmy Nominated Collection                                                                                   | DVD       |
+| Penn and Teller's Bullshit Complete Season 2                                                                        | DVD       |
 | Penny Arcade The Series Season 1                                                                                    | DVD       |
 | Poirot - The TV Movie Collection 3                                                                                  | DVD       |
 | Poirot Set 2                                                                                                        | DVD       |
@@ -160,6 +162,7 @@
 | That 70s Show Season 5                                                                                              | DVD       |
 | The babysitter's club video #1                                                                                      | VHS       |
 | The Best of Ray Bradbury Theatre Volume Two                                                                         | Laserdisc |
+| The Best of Sci Fi and Comedy Bloopers                                                                              | DVD       |
 | The Best of the Colbert Report                                                                                      | DVD       |
 | The It Crowd Final Episode Version 5                                                                                | DVD       |
 | The IT Crowd Season 1                                                                                               | DVD       |
