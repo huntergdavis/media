@@ -12,6 +12,7 @@
 | Anne of Green Gables                                                                                                | DVD       |
 | Are you being served? Vol 1                                                                                         | DVD       |
 | Avatar and Korra Complete Series                                                                                    | Blu Ray   |
+| Batman the Animated Series Volume 1                                                                                 | DVD       |
 | Batman the Brave and the Bold 4 Episodes                                                                            | DVD       |
 | Batman: The Animated Series Complete                                                                                | Blu-Ray   |
 | Battlestar Galactica Complete Series (2000s)                                                                        | DVD       |
@@ -169,6 +170,7 @@
 | The Jeff Foxworthy Show Season 1                                                                                    | DVD       |
 | The kids in the Hall Season 2                                                                                       | DVD       |
 | The Legend of Neil The Complete Series                                                                              | DVD       |
+| The Magic School Bus The Complete Series                                                                            | DVD       |
 | The Mighty Boosh Live                                                                                               | DVD       |
 | The Muppet Show with Emotion John                                                                                   | VHS       |
 | The Muppet show with Mark Hamil                                                                                     | VHS       |
