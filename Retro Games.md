@@ -118,6 +118,7 @@
 | Super Game Boy                                            | no   | no      | Super Nintendo    |
 | Super Mario World                                         | no   | no      | Super Nintendo    |
 | Tiny Toon Adventures Buster Bunny Busts Loose             | no   | no      | Super Nintendo    |
+| Shantae Advance: Risky Revolution                         | Yes  | Yes     | Switch            |
 | Donkey Kong Country Returns                               | Yes  | Yes     | Wii               |
 | Game Party 2                                              | Yes  | Yes     | Wii               |
 | Goldeneye 007                                             | yes  | yes     | Wii               |
