@@ -54,6 +54,7 @@
 | Farscape 15th anniversary collection 1-4                                                                            | Blu-Ray   |
 | Farscape Season 1-4 15th Anniversary                                                                                | Blu-Ray   |
 | Firefly: The Complete Series                                                                                        | DVD       |
+| Flight of the Conchords Season 1                                                                                    | DVD       |
 | Fosters Home for Imaginary Friends Season 1                                                                         | DVD       |
 | Fresh off the Boat: The Complete First Season                                                                       | DVD       |
 | Friday Night Lights The First Season                                                                                | DVD       |
