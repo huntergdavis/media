@@ -187,6 +187,7 @@
 | The Trailer Park Boys Season 1 and 2                                                                                | DVD       |
 | The Trailer Park Boys Season 3                                                                                      | DVD       |
 | The Trailer Park Boys Season 4                                                                                      | DVD       |
+| The Trailer Park Boys Seasons 1-9 Dressed All Over                                                                  | DVD       |
 | The Trailer Park Boys: Season 6                                                                                     | DVD       |
 | The Trailer Park Boys: Season 7                                                                                     | DVD       |
 | The Witches of Eastwick Season 1                                                                                    | DVD       |
