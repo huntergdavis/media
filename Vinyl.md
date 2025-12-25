@@ -108,6 +108,7 @@
 | Spice World 25                                                          | Spice Girls                                             |
 | Star Trek Beyond Soundtrack                                             | Various Artsits                                         |
 | Star Wars: The Force Awakes Soundtrack                                  | John Williams                                           |
+| Steven Universe 4x Vinyl                                                | Various Artists                                         |
 | Still More Stuff: Rarities 1981-1989                                    | The Ramones                                             |
 | Streets of Rage the Definitive Soundtrack                               | Various Artists                                         |
 | Strong Bad Sings and Other Type Hits                                    | Strong Bad and Friends                                  |

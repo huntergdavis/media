@@ -71,6 +71,11 @@
 | Teenage Mutant Ninja Turtles: The Cowabunga Collection    | yes  | yes     | Nintendo Switch   |
 | The Legend of Zelda: Echos of Wisdom                      | yes  | yes     | Nintendo Switch   |
 | The Legend of Zelda: Tears of the Kingdom                 | yes  | yes     | Nintendo Switch   |
+| Shantae Advance: Risky Revolution                         | Yes  | Yes     | Nintendo Switch   |
+| Mario Galaxy 1 and 2                                      | Yes  | Yes     | Nintendo Switch   |
+| Donkey Kong Bananaza                                      | Yes  | Yes     | Nintendo Switch 2 |
+| Star Wars Outlaws                                         | Yes  | Yes     | Nintendo Switch 2 |
+| Metroid Prime 4                                           | Yes  | Yes     | Nintendo Switch 2 |
 | American Mcgee's Alice                                    | yes  | yes     | PC                |
 | Law and Order Double or Nothing                           | Yes  | Yes     | PC                |
 | The Secret of Monkey Island Full Collection Super Box Set | yes  | yes     | PC                |
@@ -118,7 +123,6 @@
 | Super Game Boy                                            | no   | no      | Super Nintendo    |
 | Super Mario World                                         | no   | no      | Super Nintendo    |
 | Tiny Toon Adventures Buster Bunny Busts Loose             | no   | no      | Super Nintendo    |
-| Shantae Advance: Risky Revolution                         | Yes  | Yes     | Switch            |
 | Donkey Kong Country Returns                               | Yes  | Yes     | Wii               |
 | Game Party 2                                              | Yes  | Yes     | Wii               |
 | Goldeneye 007                                             | yes  | yes     | Wii               |

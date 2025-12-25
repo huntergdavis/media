@@ -86,6 +86,7 @@
 | Music Of Pink Floyd (Orchestral Maneuvers)                                                                          | David Palmer (2) And Royal Philharmonic Orchestra                                           |
 | Shadow Of The Beast - The Soundtracks                                                                               | David Whittaker, Tim & Lee Wright                                                           |
 | World Clique                                                                                                        | Deee-Lite                                                                                   |
+| Revamped                                                                                                            | Demi Lovato                                                                                 |
 | Star Trek: Deep Space Nine - From The Original Episode The Emissary (Music From The Original Television Soundtrack) | Dennis McCarthy                                                                             |
 | Star Trek: The Next Generation Volume Three (Music From The Original Television Soundtrack)                         | Dennis McCarthy                                                                             |
 | The Writing's On The Wall                                                                                           | Destiny's Child                                                                             |
@@ -352,6 +353,7 @@
 | Reckoning                                                                                                           | The Grateful Dead                                                                           |
 | The Best Of: Skeletons From The Closet                                                                              | The Grateful Dead                                                                           |
 | Workingman's Dead                                                                                                   | The Grateful Dead                                                                           |
+| From the Pyre                                                                                                       | The Last Dinner Party                                                                       |
 | Amputechture                                                                                                        | The Mars Volta                                                                              |
 | De-Loused In The Comatorium                                                                                         | The Mars Volta                                                                              |
 | Frances The Mute                                                                                                    | The Mars Volta                                                                              |
