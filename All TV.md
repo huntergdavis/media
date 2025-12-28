@@ -84,6 +84,7 @@
 | Horatio Hornblower The New Adventures                                                                               | DVD       |
 | Hot in Cleveland Season 1                                                                                           | DVD       |
 | How I Met Your Mother Season 7 Duckie Tie Edition                                                                   | DVD       |
+| How I Met Your Mother Season 7 Duckie Tie Edition (New, Sealed)                                                     | DVD       |
 | It's Always Sunny In Philadelphia A Very Sunny Christmas                                                            | DVD       |
 | It's Always Sunny in Philadelphia Seasons 1 and 2                                                                   | DVD       |
 | Jeremiah: The Complete First Season                                                                                 | DVD       |
@@ -187,7 +188,8 @@
 | The Trailer Park Boys Season 1 and 2                                                                                | DVD       |
 | The Trailer Park Boys Season 3                                                                                      | DVD       |
 | The Trailer Park Boys Season 4                                                                                      | DVD       |
-| The Trailer Park Boys Seasons 1-9 Dressed All Over                                                                  | DVD       |
+| The Trailer Park Boys Season 5                                                                                      | DVD       |
+| The Trailer Park Boys Season 1-9 Dressed All Over                                                                   | DVD       |
 | The Trailer Park Boys: Season 6                                                                                     | DVD       |
 | The Trailer Park Boys: Season 7                                                                                     | DVD       |
 | The Witches of Eastwick Season 1                                                                                    | DVD       |
