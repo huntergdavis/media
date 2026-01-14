@@ -86,6 +86,7 @@
 | Music Of Pink Floyd (Orchestral Maneuvers)                                                                          | David Palmer (2) And Royal Philharmonic Orchestra                                           |
 | Shadow Of The Beast - The Soundtracks                                                                               | David Whittaker, Tim & Lee Wright                                                           |
 | World Clique                                                                                                        | Deee-Lite                                                                                   |
+| Deltron Event 2 (4010)                                                                                              | Del the Funky Homosapien                                                                    |
 | Revamped                                                                                                            | Demi Lovato                                                                                 |
 | Star Trek: Deep Space Nine - From The Original Episode The Emissary (Music From The Original Television Soundtrack) | Dennis McCarthy                                                                             |
 | Star Trek: The Next Generation Volume Three (Music From The Original Television Soundtrack)                         | Dennis McCarthy                                                                             |

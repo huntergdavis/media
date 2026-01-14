@@ -186,10 +186,10 @@
 | The Three Stooges Complete                                                                                          | DVD       |
 | The Three Stooges Goofs On The Loose (Colorized Men in Black, The Sitter Downers, Punch Drunks, Playing the ponies) | DVD       |
 | The Trailer Park Boys Season 1 and 2                                                                                | DVD       |
+| The Trailer Park Boys Season 1-9 Dressed All Over                                                                   | DVD       |
 | The Trailer Park Boys Season 3                                                                                      | DVD       |
 | The Trailer Park Boys Season 4                                                                                      | DVD       |
 | The Trailer Park Boys Season 5                                                                                      | DVD       |
-| The Trailer Park Boys Season 1-9 Dressed All Over                                                                   | DVD       |
 | The Trailer Park Boys: Season 6                                                                                     | DVD       |
 | The Trailer Park Boys: Season 7                                                                                     | DVD       |
 | The Witches of Eastwick Season 1                                                                                    | DVD       |
@@ -199,9 +199,11 @@
 | Tin Man Collectors Edition                                                                                          | DVD       |
 | Tom and Jerry Spotlight Collection                                                                                  | DVD       |
 | Underdog Volume 1                                                                                                   | DVD       |
+| V The Original Miniseries                                                                                           | DVD       |
 | Veronica Mars Season 1                                                                                              | DVD       |
 | Veronica Mars Season 2                                                                                              | DVD       |
 | Warehouse 13: Season 1                                                                                              | DVD       |
 | Whitest Kids You Know Season 1 and 2                                                                                | DVD       |
 | Will Ferrell SNL Collection                                                                                         | DVD       |
 | Workaholics Season 1 and 2                                                                                          | Blu-Ray   |
+| Yes, Prime Minister: Complete Series                                                                                | DVD       |
