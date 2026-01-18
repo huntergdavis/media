@@ -113,6 +113,7 @@
 | Neverwhere the complete series                                                                                      | DVD       |
 | Nip/Tuck Season 1                                                                                                   | DVD       |
 | Northern Exposure Season 2                                                                                          | DVD       |
+| One Punch Man Season 1                                                                                              | DVD       |
 | Orphan Black Season 2                                                                                               | DVD       |
 | Paddington Bear: Marmalade Madness (28 Episode Set)                                                                 | DVD       |
 | Party of Five Season 1                                                                                              | DVD       |
