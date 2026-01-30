@@ -67,6 +67,8 @@
 | Gargoyles: Season 1                                                                                                 | DVD       |
 | Get Smart (1995 Andy Dick Reboot): The Complete Series                                                              | DVD       |
 | Gilmore Girls Complete                                                                                              | DVD       |
+| Girls - The Complete 1st Season                                                                                     | Blu-Ray   |
+| Girls - The Complete Second Season                                                                                  | Blu-Ray   |
 | Glitch Season One                                                                                                   | DVD       |
 | Good Eats - More Juicy Meats                                                                                        | DVD       |
 | Good Eats With Alton Brown: Super Sweets                                                                            | DVD       |
@@ -101,6 +103,7 @@
 | Mad Men Season 1                                                                                                    | DVD       |
 | Magilla Gorilla The complete series                                                                                 | DVD       |
 | Marple Series 2                                                                                                     | DVD       |
+| Midsomer Murders - Death of a Stranger                                                                              | DVD       |
 | Midsomer Murders Series 8                                                                                           | DVD       |
 | Midsomer Murders Series 9                                                                                           | DVD       |
 | Midsomer Murders Series 10                                                                                          | DVD       |
@@ -115,6 +118,7 @@
 | Northern Exposure Season 2                                                                                          | DVD       |
 | One Punch Man Season 1                                                                                              | DVD       |
 | Orphan Black Season 2                                                                                               | DVD       |
+| Outlander Season 1                                                                                                  | Blu-Ray   |
 | Paddington Bear: Marmalade Madness (28 Episode Set)                                                                 | DVD       |
 | Party of Five Season 1                                                                                              | DVD       |
 | Peanuts Emmy Nominated Collection                                                                                   | DVD       |
@@ -151,6 +155,7 @@
 | Scrubs: The Complete 8th Season                                                                                     | DVD       |
 | Seattle Mariners Classic Commercials                                                                                | DVD       |
 | Son of the Beach Season 1                                                                                           | DVD       |
+| Sons of Anarchy Season 1                                                                                            | DVD       |
 | Spawn Season 3 (HBO)                                                                                                | DVD       |
 | Spawn: The Ultimate Collection                                                                                      | DVD       |
 | Stan Lee's Mighty 7 Beginnings                                                                                      | DVD       |
