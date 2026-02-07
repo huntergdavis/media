@@ -74,6 +74,7 @@
 | Good Eats With Alton Brown: Super Sweets                                                                            | DVD       |
 | Grey's Anatomy Season 1                                                                                             | DVD       |
 | Grey's Anatomy Season 1                                                                                             | DVD       |
+| Grey's Anatomy Season 2 Uncut                                                                                       | DVD       |
 | Happily Divorced Season 1                                                                                           | DVD       |
 | Heroes Complete Series                                                                                              | Blu-Ray   |
 | Highlander : The Best of the Best Ultimate Collection                                                               | DVD       |
@@ -156,6 +157,7 @@
 | Seattle Mariners Classic Commercials                                                                                | DVD       |
 | Son of the Beach Season 1                                                                                           | DVD       |
 | Sons of Anarchy Season 1                                                                                            | DVD       |
+| South Park: Ghouls, Ghosts and Underpants Gnomes                                                                    | DVD       |
 | Spawn Season 3 (HBO)                                                                                                | DVD       |
 | Spawn: The Ultimate Collection                                                                                      | DVD       |
 | Stan Lee's Mighty 7 Beginnings                                                                                      | DVD       |
