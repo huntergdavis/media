@@ -39,6 +39,7 @@
 | Dave Attel's Insomniac Tour Uncensored! Presents Sean Rouse, Greg Giraldo and Dane Cook                             | DVD       |
 | Dawson's Creek Season 1                                                                                             | DVD       |
 | DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray  | Blu Ray   |
+| Detectorists Series 2                                                                                               | DVD       |
 | Dirt: Season 1                                                                                                      | DVD       |
 | Doctor Who Series 12 Complete                                                                                       | DVD       |
 | Doctor Who The Complete Second Series                                                                               | DVD       |
@@ -118,8 +119,10 @@
 | Nip/Tuck Season 1                                                                                                   | DVD       |
 | Northern Exposure Season 2                                                                                          | DVD       |
 | One Punch Man Season 1                                                                                              | DVD       |
+| One Punch Man Season 2                                                                                              | DVD       |
 | Orphan Black Season 2                                                                                               | DVD       |
 | Outlander Season 1                                                                                                  | Blu-Ray   |
+| Outlander Season 2                                                                                                  | Blu-Ray   |
 | Paddington Bear: Marmalade Madness (28 Episode Set)                                                                 | DVD       |
 | Party of Five Season 1                                                                                              | DVD       |
 | Peanuts Emmy Nominated Collection                                                                                   | DVD       |
