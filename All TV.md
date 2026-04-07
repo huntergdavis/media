@@ -45,6 +45,7 @@
 | Doctor Who The Complete Second Series                                                                               | DVD       |
 | Downton Abbey Season 1, 2 and 3                                                                                     | DVD       |
 | Dr Horrible's Sing Along Blog                                                                                       | DVD       |
+| Dr Quinn, Medicine Woman Season 1                                                                                   | DVD       |
 | Dragon Ball GT The Lost Episodes 1 : Reaction                                                                       | DVD       |
 | Dragon Ball Super: Full Collection                                                                                  | Blu-Ray   |
 | Dragon Ball Z Season 8                                                                                              | DVD       |
@@ -218,3 +219,4 @@
 | Will Ferrell SNL Collection                                                                                         | DVD       |
 | Workaholics Season 1 and 2                                                                                          | Blu-Ray   |
 | Yes, Prime Minister: Complete Series                                                                                | DVD       |
+| The Marlow Murder Club Season 1                                                                                     | DVD       |

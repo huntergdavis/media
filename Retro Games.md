@@ -73,6 +73,8 @@
 | The Legend of Zelda: Tears of the Kingdom                 | yes  | yes     | Nintendo Switch   |
 | Shantae Advance: Risky Revolution                         | Yes  | Yes     | Nintendo Switch   |
 | Mario Galaxy 1 and 2                                      | Yes  | Yes     | Nintendo Switch   |
+| Super Mario 3d World + Bowser's Fury                      | Yes  | Yes     | Nintendo Switch   |
+| Sonic Frontiers                                           | no   | no      | Nintendo Switch   |
 | Donkey Kong Bananaza                                      | Yes  | Yes     | Nintendo Switch 2 |
 | Star Wars Outlaws                                         | Yes  | Yes     | Nintendo Switch 2 |
 | Metroid Prime 4                                           | Yes  | Yes     | Nintendo Switch 2 |

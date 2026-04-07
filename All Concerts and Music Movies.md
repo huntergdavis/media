@@ -13,6 +13,7 @@
 | Concert for George: A Tribute to George Harrison               | DVD       |
 | Cypress Hill: Still Smokin - The Ultimate Video Collection     | DVD       |
 | Dave Matthews Band the Videos 1994-2001                        | DVD       |
+| Dixie Chicks Top of the World Tour Live                        | DVD       |
 | Elton John Live in Australia with the melbourne symphony       | VHS       |
 | Eminem AKA                                                     | DVD       |
 | HellFest Syracuse NY, Summer 2000                              | DVD       |
@@ -41,6 +42,7 @@
 | Radiohead 7 Televion Commercials                               | DVD       |
 | Ramones: It's Alive 1974-1996                                  | DVD       |
 | Richard Simmons: Sweatin to the Oldies                         | DVD       |
+| Rick Steve's Europe: A Symphonic Journey                       | DVD       |
 | Robin Williams: Live on Broadway                               | DVD       |
 | Rock and Roll High School                                      | DVD       |
 | Seattle Grand Poetry Slam                                      | DVD       |
