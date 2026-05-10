@@ -184,7 +184,9 @@
 | The Jeff Foxworthy Show Season 1                                                                                    | DVD       |
 | The kids in the Hall Season 2                                                                                       | DVD       |
 | The Legend of Neil The Complete Series                                                                              | DVD       |
+| The Legend of Zelda Full Series                                                                                     | VHS       |
 | The Magic School Bus The Complete Series                                                                            | DVD       |
+| The Marlow Murder Club Season 1                                                                                     | DVD       |
 | The Mighty Boosh Live                                                                                               | DVD       |
 | The Muppet Show with Emotion John                                                                                   | VHS       |
 | The Muppet show with Mark Hamil                                                                                     | VHS       |
@@ -219,4 +221,3 @@
 | Will Ferrell SNL Collection                                                                                         | DVD       |
 | Workaholics Season 1 and 2                                                                                          | Blu-Ray   |
 | Yes, Prime Minister: Complete Series                                                                                | DVD       |
-| The Marlow Murder Club Season 1                                                                                     | DVD       |

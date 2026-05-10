@@ -93,6 +93,7 @@
 | Black and White Night                                                                                               | Roy Orbison                                                                                 |
 | Blade Runner                                                                                                        | Vangelis                                                                                    |
 | Blind Man's Zoo                                                                                                     | 10,000 Maniacs                                                                              |
+| Blue Banisters                                                                                                      | Lana Del Rey                                                                                |
 | Blues For Allah                                                                                                     | The Grateful Dead                                                                           |
 | Boogie Nights - Music From The Original Motion Picture                                                              | Various                                                                                     |
 | Borders Rock Essentials Volume 4                                                                                    | Various                                                                                     |
@@ -151,6 +152,7 @@
 | Dead Man On Campus (Music From The Motion Picture)                                                                  | Various                                                                                     |
 | Deadpool 2 (Original Motion Picture Soundtrack)                                                                     | Various                                                                                     |
 | Death Becomes Her                                                                                                   | Alan Silvestri                                                                              |
+| Deltron 3030                                                                                                        | Deltron                                                                                     |
 | Deltron Event 2 (4010)                                                                                              | Del the Funky Homosapien                                                                    |
 | Deluxe                                                                                                              | Better Than Ezra                                                                            |
 | Deluxe                                                                                                              | Better Than Ezra                                                                            |
@@ -299,6 +301,7 @@
 | Lesbian Favorites: Women Like Us                                                                                    | Various                                                                                     |
 | Let Go                                                                                                              | Avril Lavigne                                                                               |
 | Let It Be... Naked                                                                                                  | The Beatles                                                                                 |
+| Let's Talk About Love                                                                                               | Celine Dion                                                                                 |
 | Lexx: The Series                                                                                                    | Marty Simon                                                                                 |
 | Like A Girl, I Want You To Keep Coming                                                                              | Various                                                                                     |
 | Lilith Fair (A Celebration Of Women In Music)                                                                       | Various                                                                                     |
@@ -444,6 +447,7 @@
 | Reckoning                                                                                                           | The Grateful Dead                                                                           |
 | Red Dirt Girl                                                                                                       | Emmylou Harris                                                                              |
 | Reflections From Broadway                                                                                           | John Barrowman                                                                              |
+| Reggae Gold 1999                                                                                                    | Various Artists                                                                             |
 | Regions Of Light And Sound Of God                                                                                   | Jim James                                                                                   |
 | Ren & Stimpy - Radio Daze                                                                                           | Ren & Stimpy (2)                                                                            |
 | Rent - Original Broadway Cast Recording                                                                             | Jonathan Larson                                                                             |
@@ -632,6 +636,7 @@
 | Trigun: The 2nd Donut Happy Pack                                                                                    | Tsuneo Imahori                                                                              |
 | Trio                                                                                                                | Dolly Parton, Linda Ronstadt, Emmylou Harris                                                |
 | Triple J's Hottest 100 Volume 23                                                                                    | Various                                                                                     |
+| Tron Legacy R3C0NF1GUR3D                                                                                            | Daft Punk                                                                                   |
 | Tubthumper                                                                                                          | Chumbawamba                                                                                 |
 | Un-Led-Ed                                                                                                           | Dread Zeppelin                                                                              |
 | Unplugged                                                                                                           | Eric Clapton                                                                                |

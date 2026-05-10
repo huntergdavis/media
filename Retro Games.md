@@ -1,6 +1,7 @@
 
 | Title                                                     | Box? | Manual? | Platform          |
 | --------------------------------------------------------- | ---- | ------- | ----------------- |
+| Doom                                                      | Yes  | Yes     | Super Nintendo    |
 | Blue Lightning                                            | yes  | no      | Atari Lynx        |
 | California Games                                          | no   | no      | Atari Lynx        |
 | KLAX                                                      | yes  | yes     | Atari Lynx        |
@@ -75,6 +76,7 @@
 | Mario Galaxy 1 and 2                                      | Yes  | Yes     | Nintendo Switch   |
 | Super Mario 3d World + Bowser's Fury                      | Yes  | Yes     | Nintendo Switch   |
 | Sonic Frontiers                                           | no   | no      | Nintendo Switch   |
+| Final Fantasy 1-6 Pixel Remaster Collection               | Yes  | Yes     | Nintendo Switch   |
 | Donkey Kong Bananaza                                      | Yes  | Yes     | Nintendo Switch 2 |
 | Star Wars Outlaws                                         | Yes  | Yes     | Nintendo Switch 2 |
 | Metroid Prime 4                                           | Yes  | Yes     | Nintendo Switch 2 |
