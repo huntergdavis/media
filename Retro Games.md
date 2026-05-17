@@ -1,7 +1,7 @@
 
 | Title                                                     | Box? | Manual? | Platform          |
 | --------------------------------------------------------- | ---- | ------- | ----------------- |
-| Doom                                                      | Yes  | Yes     | Super Nintendo    |
+| Burnout 3 Takedown                                        | Yes  | Yes     | Xbox              |
 | Blue Lightning                                            | yes  | no      | Atari Lynx        |
 | California Games                                          | no   | no      | Atari Lynx        |
 | KLAX                                                      | yes  | yes     | Atari Lynx        |
@@ -121,6 +121,7 @@
 | Jurassic Park                                             | no   | no      | Sega Game Gear    |
 | Sonic the Hedgehog 2                                      | no   | no      | Sega Game Gear    |
 | Super 30-In-1                                             | no   | no      | SNES              |
+| Doom                                                      | Yes  | Yes     | Super Nintendo    |
 | Mario Paint + Mouse                                       | no   | no      | Super Nintendo    |
 | Sim City                                                  | no   | no      | Super Nintendo    |
 | Super 49-in-1                                             | no   | no      | Super Nintendo    |

@@ -16,6 +16,7 @@
 | Batman the Brave and the Bold 4 Episodes                                                                            | DVD       |
 | Batman: The Animated Series Complete                                                                                | Blu-Ray   |
 | Battlestar Galactica Complete Series (2000s)                                                                        | DVD       |
+| Beavis and Butt-Head The Mike Judge Collection Vol. 1                                                               | DVD       |
 | Beyond the Movie: National Geographic Presents The Lord of the Rings the Fellowship of the Ring                     | DVD       |
 | Boomtown Season 1                                                                                                   | DVD       |
 | Boston Legal Season 1                                                                                               | DVD       |
@@ -48,8 +49,9 @@
 | Dr Quinn, Medicine Woman Season 1                                                                                   | DVD       |
 | Dragon Ball GT The Lost Episodes 1 : Reaction                                                                       | DVD       |
 | Dragon Ball Super: Full Collection                                                                                  | Blu-Ray   |
+| Dragon Ball The Saga of Goku Vol 1 and 2 Complete Ep 1-13                                                           | DVD       |
+| Dragon Ball Z Season 4                                                                                              | DVD       |
 | Dragon Ball Z Season 8                                                                                              | DVD       |
-| DragonBall Z Season 4                                                                                               | DVD       |
 | Ducktails Volume 1 Episodes 1-27                                                                                    | DVD       |
 | Earth 2 The complete Series                                                                                         | DVD       |
 | ER Season 1                                                                                                         | DVD       |
