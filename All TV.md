@@ -133,6 +133,7 @@
 | Penny Arcade The Series Season 1                                                                                    | DVD       |
 | Poirot - The TV Movie Collection 3                                                                                  | DVD       |
 | Poirot Set 2                                                                                                        | DVD       |
+| Police Squad! In Color                                                                                              | DVD       |
 | Pride and Prejudice (1997) Special Edition                                                                          | DVD       |
 | Psych Season 3                                                                                                      | DVD       |
 | Psych Season 4                                                                                                      | DVD       |
