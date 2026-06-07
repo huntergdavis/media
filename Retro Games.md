@@ -1,7 +1,6 @@
 
 | Title                                                     | Box? | Manual? | Platform          |
 | --------------------------------------------------------- | ---- | ------- | ----------------- |
-| Burnout 3 Takedown                                        | Yes  | Yes     | Xbox              |
 | Blue Lightning                                            | yes  | no      | Atari Lynx        |
 | California Games                                          | no   | no      | Atari Lynx        |
 | KLAX                                                      | yes  | yes     | Atari Lynx        |
@@ -57,29 +56,29 @@
 | Animal Crossing: New Horizons                             | yes  | yes     | Nintendo Switch   |
 | Bloodstained: Ritual of the Night                         | yes  | yes     | Nintendo Switch   |
 | Dragon's Lair Trilogy Box Set                             | yes  | yes     | Nintendo Switch   |
+| Final Fantasy 1-6 Pixel Remaster Collection               | Yes  | Yes     | Nintendo Switch   |
 | Just Dance 2024                                           | yes  | yes     | Nintendo Switch   |
+| Mario Galaxy 1 and 2                                      | Yes  | Yes     | Nintendo Switch   |
 | Ring Fit Adventure                                        | yes  | yes     | Nintendo Switch   |
 | Scott Pilgrim vs the World Complete Edition               | yes  | yes     | Nintendo Switch   |
 | Shantae                                                   | yes  | yes     | Nintendo Switch   |
+| Shantae Advance: Risky Revolution                         | Yes  | Yes     | Nintendo Switch   |
 | Shantae and the Pirate's Cursees                          | yes  | yes     | Nintendo Switch   |
 | Shantae and the Seven Sirens                              | yes  | yes     | Nintendo Switch   |
 | Shantae and the Seven Sirens                              | yes  | yes     | Nintendo Switch   |
 | Shantae: Half genie Hero Ultimate Edition                 | yes  | yes     | Nintendo Switch   |
 | Shantae: Risky's Revenge                                  | yes  | yes     | Nintendo Switch   |
+| Sonic Frontiers                                           | no   | no      | Nintendo Switch   |
 | Star Wars: Jedi Knight 2                                  | yes  | yes     | Nintendo Switch   |
 | Star Wars: Jedi Knight 3                                  | yes  | yes     | Nintendo Switch   |
+| Super Mario 3d World + Bowser's Fury                      | Yes  | Yes     | Nintendo Switch   |
 | Super Mario RPG                                           | yes  | yes     | Nintendo Switch   |
 | Teenage Mutant Ninja Turtles: The Cowabunga Collection    | yes  | yes     | Nintendo Switch   |
 | The Legend of Zelda: Echos of Wisdom                      | yes  | yes     | Nintendo Switch   |
 | The Legend of Zelda: Tears of the Kingdom                 | yes  | yes     | Nintendo Switch   |
-| Shantae Advance: Risky Revolution                         | Yes  | Yes     | Nintendo Switch   |
-| Mario Galaxy 1 and 2                                      | Yes  | Yes     | Nintendo Switch   |
-| Super Mario 3d World + Bowser's Fury                      | Yes  | Yes     | Nintendo Switch   |
-| Sonic Frontiers                                           | no   | no      | Nintendo Switch   |
-| Final Fantasy 1-6 Pixel Remaster Collection               | Yes  | Yes     | Nintendo Switch   |
 | Donkey Kong Bananaza                                      | Yes  | Yes     | Nintendo Switch 2 |
-| Star Wars Outlaws                                         | Yes  | Yes     | Nintendo Switch 2 |
 | Metroid Prime 4                                           | Yes  | Yes     | Nintendo Switch 2 |
+| Star Wars Outlaws                                         | Yes  | Yes     | Nintendo Switch 2 |
 | American Mcgee's Alice                                    | yes  | yes     | PC                |
 | Law and Order Double or Nothing                           | Yes  | Yes     | PC                |
 | The Secret of Monkey Island Full Collection Super Box Set | yes  | yes     | PC                |
@@ -91,6 +90,7 @@
 | Driver                                                    | yes  | yes     | PS1               |
 | Eternal Eyes                                              | yes  | yes     | PS1               |
 | Frogger                                                   | yes  | yes     | PS1               |
+| Interactive Sampler CD Volume 2                           | No   | No      | PS1               |
 | Jeopardy 2nd Edition                                      | yes  | yes     | PS1               |
 | Lemmings                                                  | No   | No      | Ps1               |
 | Miss Spider's Tea Party                                   | yes  | yes     | PS1               |
@@ -105,14 +105,13 @@
 | Total Eclipse                                             | yes  | yes     | PS1               |
 | Triple Play 97                                            | yes  | yes     | PS1               |
 | Worms World Party                                         | Yes  | Yes     | PS1               |
-| Interactive Sampler CD Volume 2                           | No   | No      | PS1               |
 | Final Fantasy Tactics: War of the Lion                    | no   | no      | PSP               |
 | Grand Theft Auto Liberty City Stories                     | yes  | yes     | PSP               |
 | Little Man UMD                                            | yes  | yes     | PSP               |
 | Nick and Nora's Infinite Playlist (UMD VIdeo)             | Yes  | no      | PSP               |
 | Sin City (UMD Video)                                      | Yes  | No      | PSP               |
-| The Secret of Monkey Island                               | yes  | yes     | Sega CD           |
 | Sewer Shark                                               | No   | No      | Sega CD           |
+| The Secret of Monkey Island                               | yes  | yes     | Sega CD           |
 | Dream Passport Premier                                    | no   | no      | Sega Dreamcast    |
 | Sydney 2000                                               | yes  | yes     | Sega Dreamcast    |
 | World Series Baseball 2k1                                 | yes  | yes     | Sega Dreamcast    |
@@ -136,13 +135,17 @@
 | Sonic Unleashed                                           | Yes  | Yes     | Wii               |
 | The Lord of the Rings Aragorn's Quest                     | yes  | yes     | Wii               |
 | Captain Toad Treasure Tracker                             | Yes  | Yes     | Wii U             |
+| Burnout 3 Takedown                                        | Yes  | Yes     | Xbox              |
+| Star Wars: The Force Unleashed 2                          | Yes  | Yes     | Xbox 360          |
+| Tron Evolution                                            | Yes  | Yes     | Xbox 360          |
 | Assassins Creed Odyssey                                   | Yes  | Yes     | Xbox One          |
 | Batman Arkhan Knight                                      | Yes  | Yes     | Xbox One          |
+| Borderlands 3                                             | Yes  | Yes     | Xbox One          |
 | Dying Light                                               | Yes  | Yes     | Xbox One          |
 | Fallout 4                                                 | Yes  | Yes     | Xbox One          |
 | Hogwarts Legacy                                           | Yes  | Yes     | Xbox One          |
 | Megaman 11                                                | Yes  | Yes     | Xbox One          |
 | Race with Ryan                                            | Yes  | Yes     | Xbox One          |
 | Rare Replay                                               | Yes  | Yes     | Xbox One          |
+| Star Wars Jedi Fallen Order                               | Yes  | Yes     | Xbox One          |
 | The Witcher 3: Wild Hunt                                  | Yes  | Yes     | Xbox One          |
-| Borderlands 3                                             | Yes  | Yes     | Xbox One          |

@@ -24,6 +24,7 @@
 | Boston Legal Season 3                                                                                               | DVD       |
 | Boston Legal Season 4                                                                                               | DVD       |
 | Boston Legal Season 5                                                                                               | DVD       |
+| Brothers and Sisters The Complete First Season                                                                      | DVD       |
 | Captain Caveman Complete                                                                                            | DVD       |
 | Carmen Electra's Aerobic Striptease 1                                                                               | DVD       |
 | Caroline in the City The First Season                                                                               | DVD       |
