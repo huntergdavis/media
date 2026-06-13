@@ -196,7 +196,6 @@ class MediaEditor(App[None]):
         ("2", "sort_column_2", "Sort Col 2"),
         ("3", "sort_column_3", "Sort Col 3"),
         ("4", "sort_column_4", "Sort Col 4"),
-        ("s", "toggle_sort_mode", "Sort Mode"),
     ]
 
     current_file: reactive[str] = reactive("")
@@ -301,7 +300,6 @@ class MediaEditor(App[None]):
             "A: Add entry",
             "D: Delete row",
             "1-4: Sort by column",
-            "S: Toggle sort",
             "R: Reload",
             "Ctrl+Q: Quit"
         ]
@@ -322,24 +320,6 @@ class MediaEditor(App[None]):
     def action_sort_column_4(self) -> None:
         """Sort by fourth column."""
         self.sort_by_column_index(3)
-
-    def action_toggle_sort_mode(self) -> None:
-        """Toggle sort direction or reset to original."""
-        if self.sort_column >= 0:
-            if not self.sort_reverse:
-                self.sort_reverse = True
-                self.sort_data()
-                direction = "Z-A" if self.sort_reverse else "A-Z"
-                self.notify(f"Sorting {self.headers[self.sort_column]} ({direction})")
-            else:
-                # Reset to original order
-                self.sort_column = -1
-                self.sort_reverse = False
-                self.update_table()
-                self.update_info_bar()
-                self.notify("Reset to original order")
-        else:
-            self.notify("Select a column first (1-4)")
 
     def sort_by_column_index(self, column_index: int) -> None:
         """Sort by specific column index."""
