@@ -383,6 +383,7 @@
 | Smash                                                                                                               | The Offspring                                                                               |
 | In The Meantime, In Between Time                                                                                    | The Party                                                                                   |
 | Kellogg's Classic Rock                                                                                              | The Police / Bryan Adams                                                                    |
+| Seattle Supersonics                                                                                                 | The Presidents of the United States of America                                              |
 | Music For The Jilted Generation                                                                                     | The Prodigy                                                                                 |
 | The Producers - The New Mel Brooks Musical (Original Broadway Cast Recording)                                       | The Producers Original Broadway Cast                                                        |
 | Forty Licks                                                                                                         | The Rolling Stones                                                                          |
