@@ -471,6 +471,8 @@ class MediaEditor(App[None]):
                 return (1, str(value).lower())
 
         self.data = sorted(self.data, key=sort_key, reverse=self.sort_reverse)
+        if self.data != self.original_data:
+            self.modified = True
         self.update_table()
         self.update_info_bar()
 
@@ -511,11 +513,6 @@ class MediaEditor(App[None]):
         separators = ['-' * max(3, len(h)) for h in self.headers]
         markdown += '| ' + ' | '.join(separators) + ' |\n'
 
-        # Data rows - use original order for saving
-        save_data = self.original_data[:]
-
-        # Update original data with current data
-        # This is a simple approach - in practice you might want more sophisticated merging
         self.original_data = [row[:] for row in self.data]
 
         for row in self.original_data:
