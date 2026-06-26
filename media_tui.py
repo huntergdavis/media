@@ -351,13 +351,11 @@ class MediaEditor(App[None]):
 
             self.parse_markdown_table(content)
             self.current_file = str(file_path)
-            self.original_data = [row[:] for row in self.data]  # Deep copy
             self.modified = False
-            self.sort_column = -1
+            self.sort_column = 0
             self.sort_reverse = False
-
-            self.update_table()
-            self.update_info_bar()
+            self.sort_data()
+            self.original_data = [row[:] for row in self.data]  # Deep copy after sort
 
             self.notify(f"Loaded {file_path.name} ({len(self.data)} entries)", severity="success")
 
@@ -472,7 +470,7 @@ class MediaEditor(App[None]):
             except (ValueError, TypeError):
                 return (1, str(value).lower())
 
-        self.data.sort(key=sort_key, reverse=self.sort_reverse)
+        self.data = sorted(self.data, key=sort_key, reverse=self.sort_reverse)
         self.update_table()
         self.update_info_bar()
 
@@ -486,13 +484,9 @@ class MediaEditor(App[None]):
         self.data.append(new_row)
         self.modified = True
 
-        # Re-sort if we have an active sort
-        if self.sort_column >= 0:
-            self.sort_data()
-        else:
-            self.update_table()
-
-        self.update_info_bar()
+        if self.sort_column < 0:
+            self.sort_column = 0
+        self.sort_data()
 
     def delete_entry(self, row_index: int) -> None:
         """Delete entry at given index."""
