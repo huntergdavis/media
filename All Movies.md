@@ -1,30 +1,30 @@
 
 | Movie Title | Format |
 | ----------- | ------ |
+| 9 | DVD |
+| 10 | Laserdisc |
+| 51 | DVD |
+| 300 | DVD |
+| 1408 | Blu -Ray |
+| 10 Things I Hate about You | DVD |
+| 101 Dalmations (Glen Close) | Laserdisc |
+| 12 Monkeys | DVD |
+| 12 Monkeys | HD-DVD |
+| 20,000 Leagues Under The Sea | Laserdisc |
+| 2002: A Space Travesty | DVD |
+| 28 Days | DVD |
+| 28 Days Later | DVD |
+| 28 Weeks Later | DVD |
 | 3 From Hell | Blu-Ray |
+| 30 Days of Night | DVD |
 | 5 Children and It | DVD |
+| 50 First Dates | DVD |
 | 6 Ben Affleck and Matt Damon movies, Phantoms, Net Force, Existenze, Gerry, Spy, and Road Killers. | DVD |
 | 8 Heads in a Duffel Bag | DVD |
 | 8 Horror Movies ( Locked in a Room, Tangled, Teaching Miss Tingle, The Boys Club, The Sacred, Legacy, Wages of Sin, Summer School) | DVD |
 | 8 Seconds | DVD |
-| 9 | DVD |
-| 9 to 5 Sexist Egotistical Lying Hypocritical Bigot Edition | DVD |
-| 10 | Laserdisc |
-| 10 Things I Hate about You | DVD |
-| 12 Monkeys | DVD |
-| 12 Monkeys | HD-DVD |
-| 20,000 Leagues Under The Sea | Laserdisc |
-| 28 Days | DVD |
-| 28 Days Later | DVD |
-| 28 Weeks Later | DVD |
-| 30 Days of Night | DVD |
-| 50 First Dates | DVD |
-| 51 | DVD |
-| 101 Dalmations (Glen Close) | Laserdisc |
-| 300 | DVD |
 | 800 Bullets | DVD |
-| 1408 | Blu -Ray |
-| 2002: A Space Travesty | DVD |
+| 9 to 5 Sexist Egotistical Lying Hypocritical Bigot Edition | DVD |
 | A Bug's Life | DVD |
 | A Charlie Brown Christmas | DVD |
 | A Few Good Men | Laserdisc |
@@ -40,6 +40,7 @@
 | A Simple Twist of Fate | Laserdisc |
 | A Town Called Panic | Blu-Ray |
 | A Town Called Panic | Blu-Ray |
+| A Troll in Central Park | VHS |
 | A very Harold and Kumar Christmas | DVD |
 | A View To A Kill | Laserdisc |
 | A Walk to Remember | DVD |
@@ -572,8 +573,8 @@
 | I Am Legend | DVD |
 | I am Wrath | DVD |
 | I love you, Man | DVD |
-| I, Tonya | DVD |
 | I'm Not Ashamed (Columbine High School Story) | DVD |
+| I, Tonya | DVD |
 | Ice Princess | DVD |
 | Idiocracy | DVD |
 | If It's Tuesday it must be Belgium | DVD |
@@ -706,6 +707,7 @@
 | Lethal Weapon 3 | Laserdisc |
 | Lethal Weapon Director's Cut, The Lost Boys, Blade Runner: The Final Cut, Risky Business, The Shining, Lean on Me, CaddyShack, Purple Rain, Vision Quest, A nightmare on Elm Street | DVD |
 | Life of the Party | DVD |
+| Life or Something Like It | DVD |
 | Lifestyles of the Ramones | VHS |
 | Limelight | Laserdisc |
 | Limitless | DVD |
@@ -818,6 +820,7 @@
 | My Neighbor Totoro | DVD |
 | My Side of the Mountain | DVD |
 | My Vida Loca My Crazy Life | Laserdisc |
+| Mystery Alaska | DVD |
 | Mystery Men | HD-DVD |
 | Mystery Men | VHS |
 | Mystery Science Theater 3000 The Movie | DVD |
@@ -871,6 +874,7 @@
 | Ong-Bak The Thai Warrior | DVD |
 | Opportunity Knocks | Laserdisc |
 | Orange County | DVD |
+| Original Sin | DVD |
 | Our Idiot Brother | Blu-Ray |
 | Out of the Blue | Laserdisc |
 | Outbreak | Laserdisc |
@@ -1012,6 +1016,7 @@
 | Schindler's List | DVD |
 | School for Scoundrels | DVD |
 | School of Rock | DVD |
+| School Ties | VHS |
 | Scoob! | Blu-Ray |
 | Scoop | DVD |
 | Scott Pilgrem vs the World | DVD |
@@ -1171,12 +1176,12 @@
 | Terminator Salvation the Machinima Series | DVD |
 | That Awkward moment | DVD |
 | That's my Boy | DVD |
-| The 5th Wave | DVD |
-| The 6th Day | DVD |
 | The 13th Warrior | DVD |
 | The 36th Chamber of Shaolin | DVD |
 | The 40 Year Old Virgin, Knocked Up, and Forgetting Sarah Marshall | DVD |
 | The 41-year-old virgin who knocked up Sarah Marshall and felt superbad. | Blu-Ray |
+| The 5th Wave | DVD |
+| The 6th Day | DVD |
 | The Addams Family (Animated/CG) | Blu-Ray |
 | The Adventures of TINTIN | DVD |
 | The Amateurs | DVD |
@@ -1373,6 +1378,7 @@
 | The Muppets | DVD |
 | The Musketeer | DVD |
 | The Naked Gun | DVD |
+| The Net | VHS |
 | The Night Before | DVD |
 | The Nines | DVD |
 | The Number 23 | DVD |
@@ -1621,9 +1627,3 @@
 | Zoolander | DVD |
 | Zoolander No 2 | DVD |
 | Zoom: Academy for Superheroes | DVD |
-| The Net | VHS |
-| Life or Something Like It | DVD |
-| A Troll in Central Park | VHS |
-| School Ties | VHS |
-| Mystery Alaska | DVD |
-| Original Sin | DVD |
