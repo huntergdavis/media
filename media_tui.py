@@ -467,11 +467,10 @@ class MediaEditor(App[None]):
 
         def sort_key(row):
             value = row[self.sort_column] if self.sort_column < len(row) else ""
-            # Try to convert to number for numeric sorting
             try:
-                return float(value)
+                return (0, float(value))
             except (ValueError, TypeError):
-                return value.lower()
+                return (1, str(value).lower())
 
         self.data.sort(key=sort_key, reverse=self.sort_reverse)
         self.update_table()
