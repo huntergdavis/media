@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import List, Optional, Tuple
 
 from textual.app import App, ComposeResult
-from textual.containers import Container, Horizontal, Vertical
+from textual.containers import Container, Horizontal, Vertical, VerticalScroll
 from textual.widgets import (
     DataTable, Footer, Header, Static, Input, Label,
     Button, DirectoryTree, ListView, ListItem
@@ -26,21 +26,25 @@ from textual.reactive import reactive
 from textual.coordinate import Coordinate
 
 
-class AddEntryScreen(ModalScreen[Optional[Tuple[str, str]]]):
+class AddEntryScreen(ModalScreen[Optional[List[str]]]):
     """Modal screen for adding new entries."""
 
-    def __init__(self, field1_name: str = "Field 1", field2_name: str = "Field 2"):
+    def __init__(self, field_names: List[str]):
         super().__init__()
-        self.field1_name = field1_name
-        self.field2_name = field2_name
+        # Ensure we always have at least one field to fill in
+        self.field_names = field_names if field_names else ["Field 1"]
 
     def compose(self) -> ComposeResult:
+        inputs = []
+        for i, name in enumerate(self.field_names):
+            inputs.append(Label(f"{name}:"))
+            inputs.append(
+                Input(placeholder=f"Enter {name.lower()}...", id=f"field{i}")
+            )
+
         yield Container(
-            Static(f"Add New Entry", classes="dialog-title"),
-            Label(f"{self.field1_name}:"),
-            Input(placeholder=f"Enter {self.field1_name.lower()}...", id="field1"),
-            Label(f"{self.field2_name}:"),
-            Input(placeholder=f"Enter {self.field2_name.lower()}...", id="field2"),
+            Static("Add New Entry", classes="dialog-title"),
+            VerticalScroll(*inputs, classes="dialog-fields"),
             Horizontal(
                 Button("Add", variant="primary", id="add"),
                 Button("Cancel", variant="default", id="cancel"),
@@ -49,24 +53,39 @@ class AddEntryScreen(ModalScreen[Optional[Tuple[str, str]]]):
             classes="dialog"
         )
 
+    def _collect_values(self) -> List[str]:
+        return [
+            self.query_one(f"#field{i}", Input).value.strip()
+            for i in range(len(self.field_names))
+        ]
+
+    def _submit(self) -> None:
+        values = self._collect_values()
+        # Require at least the first field (the primary/sort column)
+        if values[0]:
+            self.dismiss(values)
+        else:
+            self.notify(
+                f"Please fill in {self.field_names[0]}", severity="warning"
+            )
+
     def on_button_pressed(self, event: Button.Pressed) -> None:
         if event.button.id == "add":
-            field1 = self.query_one("#field1", Input).value.strip()
-            field2 = self.query_one("#field2", Input).value.strip()
-
-            if field1 and field2:
-                self.dismiss((field1, field2))
-            else:
-                self.notify("Please fill in both fields", severity="warning")
+            self._submit()
         else:
             self.dismiss(None)
 
     def on_input_submitted(self, event: Input.Submitted) -> None:
-        if event.input.id == "field1":
-            self.query_one("#field2", Input).focus()
-        elif event.input.id == "field2":
-            # Trigger add button
-            self.query_one("#add", Button).press()
+        # Move focus to the next field, or submit if on the last one
+        try:
+            current = int(event.input.id.replace("field", ""))
+        except (AttributeError, ValueError):
+            return
+
+        if current + 1 < len(self.field_names):
+            self.query_one(f"#field{current + 1}", Input).focus()
+        else:
+            self._submit()
 
 
 class FilePickerScreen(ModalScreen[Optional[str]]):
@@ -142,6 +161,11 @@ class MediaEditor(App[None]):
         text-style: bold;
         color: $accent;
         margin-bottom: 1;
+    }
+
+    .dialog-fields {
+        height: auto;
+        max-height: 20;
     }
 
     .dialog-buttons {
@@ -258,13 +282,11 @@ class MediaEditor(App[None]):
             self.notify("No file loaded", severity="error")
             return
 
-        def on_entry_added(entry: Optional[Tuple[str, str]]) -> None:
+        def on_entry_added(entry: Optional[List[str]]) -> None:
             if entry:
-                self.add_entry(entry[0], entry[1])
+                self.add_entry(entry)
 
-        field1 = self.headers[0] if len(self.headers) > 0 else "Field 1"
-        field2 = self.headers[1] if len(self.headers) > 1 else "Field 2"
-        self.push_screen(AddEntryScreen(field1, field2), on_entry_added)
+        self.push_screen(AddEntryScreen(list(self.headers)), on_entry_added)
 
     def action_delete_entry(self) -> None:
         """Delete selected entry."""
@@ -478,12 +500,14 @@ class MediaEditor(App[None]):
         self.update_table()
         self.update_info_bar()
 
-    def add_entry(self, field1: str, field2: str) -> None:
+    def add_entry(self, values: List[str]) -> None:
         """Add new entry to the table."""
-        new_row = [field1, field2]
+        new_row = list(values)
         # Pad to match header count
         while len(new_row) < len(self.headers):
             new_row.append('')
+        # Trim in case more values than headers were provided
+        new_row = new_row[:len(self.headers)] if self.headers else new_row
 
         self.data.append(new_row)
         self.modified = True
