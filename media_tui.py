@@ -9,6 +9,7 @@ Usage: python media_tui.py [filename.md]
 import sys
 import os
 import re
+import subprocess
 from pathlib import Path
 from typing import List, Optional, Tuple
 
@@ -209,6 +210,7 @@ class MediaEditor(App[None]):
         super().__init__()
         self.initial_file = filename
         self.original_data = []
+        self.saved_files: List[str] = []  # files saved this session, in order, deduped
 
     def compose(self) -> ComposeResult:
         yield Header()
@@ -526,9 +528,59 @@ class MediaEditor(App[None]):
         self.modified = False
         self.update_info_bar()
 
+        # Track for git commit on exit
+        saved = Path(self.current_file).name
+        if saved not in self.saved_files:
+            self.saved_files.append(saved)
+
     def watch_modified(self, modified: bool) -> None:
         """React to modification state changes."""
         self.update_info_bar()
+
+
+def friendly_name(filename: str) -> str:
+    """Turn a media filename into a short label, e.g. 'All TV.md' -> 'tv'."""
+    name = Path(filename).stem
+    if name.startswith("All "):
+        name = name[4:]
+    return name.lower().strip()
+
+
+def git_commit_push(saved_files: List[str], cwd: str) -> None:
+    """Commit and push saved changes. Designed to never crash the program."""
+    if not saved_files:
+        return
+
+    message = ". ".join(f"updating {friendly_name(f)}" for f in saved_files)
+
+    try:
+        commit = subprocess.run(
+            ["git", "commit", "-a", "-m", message],
+            cwd=cwd, capture_output=True, text=True, timeout=30,
+        )
+        if commit.returncode != 0:
+            # Nothing to commit, or a git error — report briefly and stop.
+            detail = (commit.stdout or commit.stderr).strip().splitlines()
+            print(f"git commit: nothing pushed ({detail[0] if detail else 'no changes'})")
+            return
+
+        print(f"Committed: {message}")
+
+        push = subprocess.run(
+            ["git", "push", "origin", "main"],
+            cwd=cwd, capture_output=True, text=True, timeout=60,
+        )
+        if push.returncode == 0:
+            print("Pushed to origin/main.")
+        else:
+            detail = (push.stderr or push.stdout).strip().splitlines()
+            print(f"git push failed (commit is saved locally): {detail[-1] if detail else 'unknown error'}")
+    except FileNotFoundError:
+        print("git not found; skipping commit/push.")
+    except subprocess.TimeoutExpired:
+        print("git timed out; skipping commit/push.")
+    except Exception as e:
+        print(f"git step skipped due to error: {e}")
 
 
 def main():
@@ -539,6 +591,9 @@ def main():
 
     app = MediaEditor(filename)
     app.run()
+
+    # After the TUI exits, commit & push anything that was saved this session.
+    git_commit_push(app.saved_files, cwd=os.getcwd())
 
 
 if __name__ == "__main__":
