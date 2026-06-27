@@ -405,6 +405,7 @@
 | Falling Down (Burnt Academy Version?) | DVD-R |
 | Fantasia | Laserdisc |
 | Fantastic 4 Rise of the Silver Surfer | DVD |
+| Fantastic 4 Rise of the Silver Surfer Marvel Digital Comic | DVD |
 | Far Out Man | DVD |
 | Farce of the Penguins | DVD |
 | Farce of the Penguins | DVD |
