@@ -1,0 +1,11 @@
+{
+  "name": "media",
+  "description": "A Textual TUI for browsing/editing your physical media collections (movies, CDs, vinyl, games). Runs offline in the browser.",
+  "offline": true,
+  "bundle": "webtui-bundle.tar.gz",
+  "env": {
+    "PYTHONPATH": "vendor"
+  },
+  "run": "python3 media_tui.py",
+  "workdir": "media"
+}
