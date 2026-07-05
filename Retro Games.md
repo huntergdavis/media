@@ -151,6 +151,7 @@
 | Tiny Toon Adventures Buster Bunny Busts Loose | no | no | Super Nintendo |
 | Todd's Adventures in Slime World | no | no | Atari Lynx |
 | Tony Hawk's American Skateland | no | no | Game Boy Advance |
+| Tony Hawk's Pro Skater 2 | No | No | PS1 |
 | Total Eclipse | yes | yes | PS1 |
 | Triple Play 97 | yes | yes | PS1 |
 | Tron Evolution | Yes | Yes | Xbox 360 |
