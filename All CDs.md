@@ -84,6 +84,7 @@
 | Bend It Like Beckham (Music From The Motion Picture) | Various |
 | Benny & Joon (Music From The Original Motion Picture Soundtrack) | Rachel Portman |
 | Bernadette Peters Loves Rodgers & Hammerstein | Bernadette Peters |
+| Better Man Original Motion Picture Soundtrack | Robbie Williams |
 | Beverly Hills, 90210 - The Soundtrack | Various |
 | Beyond Rangoon (Original Motion Picture Soundtrack) | Hans Zimmer |
 | Big Ones | Aerosmith |
@@ -401,8 +402,10 @@
 | Now That's What I Call Music! 8 | Various |
 | NOW That's What I Call Music! 87 | Various |
 | NOW That's What I Call Music! 88 | Various |
+| Now That's What I Call Shrek | Various Artists |
 | Now That’s What I Call Music! ‘90s Pop | Various |
 | Number One Hits | Tim McGraw |
+| O Brother, Where Art Thou? | Various Artists |
 | Odelay | Beck |
 | Office Space (The Motion Picture Soundtrack) | Various |
 | OK Go | OK Go |
@@ -476,6 +479,7 @@
 | Search & Destroy (15 Explosive Tracks By Bands Who Were Punk Before Punk) | Various |
 | Seattle Music Scene Volume One | Various |
 | Seattle Supersonics | The Presidents of the United States of America |
+| Sentimental Journeys | Emmy Rossum |
 | Sesame Street: Bert And Ernie's Greatest Hits | Bert & Ernie |
 | Sex And The City (Music From The HBO Series) | Various |
 | Sgt. Pepper's Lonely Hearts Club Band | The Beatles |
@@ -501,6 +505,7 @@
 | Songs Of Anarchy: Music From Sons Of Anarchy Seasons 1-4 | Various |
 | Songs Of The Sarah Silverman Program - From Our Rears To Your Ears! | Sarah Silverman |
 | Songs That Got Us Through WWII | Various |
+| Songs You Know By Heart | Jimmy Buffet |
 | SOS | La Bouche |
 | Sounds Of Portland | Various |
 | Space Ghost's Surf & Turf | Space Ghost |
@@ -522,6 +527,7 @@
 | Star Trek: First Contact (Original Motion Picture Soundtrack) | Jerry Goldsmith |
 | Star Trek: The Next Generation Volume Three (Music From The Original Television Soundtrack) | Dennis McCarthy |
 | Star Wars: A New Hope Sountrack | John Williams |
+| Stardust | Willy Nelson |
 | Starlight Express - Deutsche Originalaufnahme | Andrew Lloyd Webber |
 | Starship Troopers (Original Motion Picture Soundtrack) | Basil Poledouris |
 | Starship Troopers (Original Motion Picture Soundtrack) | Basil Poledouris |
@@ -567,10 +573,12 @@
 | The Chronicles Of Riddick (Original Motion Picture Soundtrack) | Graeme Revell |
 | The Colour of Love | Celine Dion |
 | The Complete Tom Jones | Tom Jones |
+| The Complete Trio Collection | Trio (Dolly, EmmyLou, Linda) |
 | The coulour of my love | Celine Dion |
 | The Crow (Original Motion Picture Soundtrack) | Various |
 | The Cubbies Are Rockin' | Various |
 | The Distance To Here | Live |
+| The Distance to Here | Live |
 | The Distant Future | Flight Of The Conchords |
 | The Distant Future | Flight of the Conchords |
 | The Downward Spiral | Nine Inch Nails |
@@ -666,6 +674,7 @@
 | When Bush Comes to Shove | Capitol Steps |
 | When Folk Meets Rock: The Saga Of A Sound | Various |
 | Where Music Meets Film (Live From Sundance Film Festival) | Various |
+| Where Music Meets Film: Live From Sundance Film Festival | Various Artists |
 | Whip-Smart | Liz Phair |
 | White: Melodies Of Final Fantasy Tactics Advance | Hitoshi Sakimoto, Nobuo Uematsu, 大越香里, Ayako Saso |
 | Whitechocolatespaceegg | Liz Phair |

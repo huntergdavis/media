@@ -26,7 +26,9 @@
 | 800 Bullets | DVD |
 | 9 to 5 Sexist Egotistical Lying Hypocritical Bigot Edition | DVD |
 | A Bug's Life | DVD |
+| A Cat in Paris | DVD |
 | A Charlie Brown Christmas | DVD |
+| A Charlie Brown Thanksgiving | DVD |
 | A Few Good Men | Laserdisc |
 | A Fistful of Dollars | DVD |
 | A Fistful of Dollars | DVD |
@@ -60,6 +62,7 @@
 | Aladdin | DVD |
 | Ali G In Da House Da Movie | DVD |
 | Alice in Wonderland | Laserdisc |
+| Alice in Wonderland: Masterpiece Edition | DVD |
 | Alice Through the Looking Glass | Blu-Ray |
 | Alien | DVD |
 | Alien 3 | DVD |
@@ -101,6 +104,7 @@
 | Arthur and George | DVD |
 | As Good As It Gets | DVD |
 | Assassins Creed Lineage | DVD |
+| Assault on Precinct 13 | HD-DVD |
 | Asteroid Vs Earth | DVD |
 | Astro Boy | DVD |
 | Atlantis The Lost Empire | DVD |
@@ -225,6 +229,7 @@
 | Caveman | DVD |
 | Chain Reaction | Laserdisc |
 | Charlie Bartlett | DVD |
+| Charlie Brown's Christmas Tales | DVD |
 | Charlie's Angels Full Throttle Unrated | DVD |
 | Chasing Amy: Criterion Collection | DVD |
 | Cheats | DVD |
@@ -381,6 +386,7 @@
 | Envy | DVD |
 | Equilibrium | DVD |
 | Eraser | DVD |
+| Ernest and Celestine | DVD |
 | Ernest goes to Camp | DVD |
 | Ernest Goes to Camp | DVD |
 | Escaflowne | DVD |
@@ -451,6 +457,7 @@
 | Frost Nixon | Blu-Ray |
 | Full Metal Jacket | DVD |
 | Full Metal Jacket | Laserdisc |
+| Furry Vengeance | DVD |
 | Futurama: Bender's Big Score | DVD |
 | G.I. Jane | DVD |
 | Galaxy Quest | Blu-Ray |
@@ -548,6 +555,7 @@
 | Hobo With a Shotgun | DVD |
 | Hockey Night | DVD |
 | Hocus Pocus | DVD |
+| Holiday Inn | DVD |
 | Home Alone | Blu-Ray |
 | Homeward Bound 1 and 2 | DVD |
 | honey | DVD |
@@ -605,6 +613,7 @@
 | Independence Day | Laserdisc |
 | Independence Day | VHS |
 | Independence Day | Blu-Ray |
+| Indiana Jones and the Kingdom of the Crystal Skull | Blu-Ray |
 | Indiana Jones and the Temple of Doom | DVD |
 | Indiana Jones and the Temple of Doom | Laserdisc |
 | Indiana Jones Collection | DVD |
@@ -628,6 +637,7 @@
 | It Might Get Loud | DVD |
 | It Takes Two | VHS |
 | It's a Mad Mad Mad Mad World | DVD |
+| It's the Easter Beagle Charlie Brown | DVD |
 | It's the Great Pumpkin Charlie Brown | DVD |
 | Jackass (Unrated) | DVD |
 | Jackie Chan 8 Film Collection {Police Story, Police Story 2, Crime Story, Battle Creek Brawl, City Hunter, Magnificent Bodyguards, Dragon Fist, The Protector} | DVD |
@@ -766,6 +776,7 @@
 | Max Payne Unrated | DVD |
 | Me Myself and Irene | DVD |
 | Mean Girls | DVD |
+| Meet the Fockers | HD-DVD |
 | Meet the Parents, Meet the Fockers, Little Fockers | DVD |
 | Megamind | Blu-Ray |
 | Memento | DVD |
@@ -841,6 +852,7 @@
 | National Treasure 1 | Blu-Ray |
 | National Treasure 2 | Blu Ray |
 | National Treasure 2 | Blu-Ray |
+| Necessary Evil Super-Villians of DC Comics | DVD |
 | Need for Speed | DVD |
 | Never Been Kissed | DVD |
 | Neverending Story | Blu-Ray |
@@ -897,6 +909,7 @@
 | PCU | DVD |
 | Peaceful Warrior | DVD |
 | Peanuts (Happiness is a Warm Blanket, Happiness is Team Snoopy, Snoopy's Adventures) | DVD |
+| Peanuts School Days | DVD |
 | Penelope | DVD |
 | Penguin Pool Murder | Laserdisc |
 | Permanent | DVD |
@@ -1048,6 +1061,7 @@
 | Shrek | DVD |
 | Sidewalks of New York | DVD |
 | Simply Irresistible | DVD |
+| SIN | DVD |
 | Sin City | DVD |
 | Sin City | Blu-Ray |
 | Singles and Empire Records | DVD |
@@ -1060,8 +1074,10 @@
 | Sleepless in Seattle | DVD |
 | Slither | DVD |
 | Slums of Beverly Hills | DVD |
+| Smokin Aces | HD-DVD |
 | Snakes on a Plan | DVD |
 | Sneakers | DVD |
+| Snoopy's Reunion | DVD |
 | Snow White and the Huntsman | Blu-Ray |
 | Snow White and the Seven Dwarfs | DVD |
 | Snowpiercer | DVD |
@@ -1269,6 +1285,7 @@
 | The Gambler (Kenny Rogers) | DVD |
 | The Ghost and Mr. Chicken | DVD |
 | The Girl Next Door | DVD |
+| The Girl Who Leapt Through Time | DVD |
 | The Glass Bottom Boat | DVD |
 | The Godfather | DVD |
 | The Gods Must Be Crazy | DVD |
@@ -1332,6 +1349,7 @@
 | The Lion King | Blu-Ray |
 | The Lion King | Laserdisc |
 | The little mermaid | VHS |
+| The Little Prince | DVD |
 | The Living Daylights | Laserdisc |
 | The long kiss goodnight | DVD |
 | the longest yard | DVD |
@@ -1462,6 +1480,7 @@
 | The War With Grandpa | Blu-Ray |
 | The Warriors | Blu-Ray |
 | The Watch | Blu-Ray |
+| The Watcher In the Woods | DVD |
 | The Wedding Singer | DVD |
 | The Wedding Singer (Totally Awesome Edition) | DVD |
 | The Whole Nine Yards | DVD |
@@ -1620,6 +1639,7 @@
 | Year One | DVD |
 | Yogi Bear | DVD |
 | You Don't Mess With the Zohan | DVD |
+| You're a good man, Charlie Brown | DVD |
 | You've Got Mail | DVD |
 | Young Man with a Horn | DVD |
 | Your Highness (Unrated) | DVD |

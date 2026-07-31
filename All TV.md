@@ -47,6 +47,9 @@
 | Doctor Who Series 12 Complete | DVD |
 | Doctor Who The Complete Second Series | DVD |
 | Downton Abbey Season 1, 2 and 3 | DVD |
+| Downton Abbey Season 3 | DVD |
+| Downton Abbey Season 4 | DVD |
+| Downton Abbey Season 5 | DVD |
 | Dr Horrible's Sing Along Blog | DVD |
 | Dr Quinn, Medicine Woman Season 1 | DVD |
 | Dragon Ball GT The Lost Episodes 1 : Reaction | DVD |
@@ -75,6 +78,7 @@
 | Gilmore Girls Complete | DVD |
 | Girls - The Complete 1st Season | Blu-Ray |
 | Girls - The Complete Second Season | Blu-Ray |
+| Glee Encore | DVD |
 | Glitch Season One | DVD |
 | Good Eats - More Juicy Meats | DVD |
 | Good Eats With Alton Brown: Super Sweets | DVD |
@@ -165,6 +169,7 @@
 | Scrubs: The Complete 6th Season | DVD |
 | Scrubs: The Complete 8th Season | DVD |
 | Seattle Mariners Classic Commercials | DVD |
+| Smallville Season 5 | HD-DVD |
 | Son of the Beach Season 1 | DVD |
 | Sons of Anarchy Season 1 | DVD |
 | South Park: Ghouls, Ghosts and Underpants Gnomes | DVD |

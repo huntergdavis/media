@@ -4,6 +4,7 @@
 | 600-in-1 | no | no | N64 |
 | A Defender of the Crown | no | no | Game Boy Advance |
 | Activision Classics | yes | yes | PS1 |
+| Aliens Colonial Marines | Yes | Yes | Xbox 360 |
 | American Mcgee's Alice | yes | yes | PC |
 | Animal Crossing: New Horizons | yes | yes | Nintendo Switch |
 | Assassins Creed III | Yes | Yes | Xbox 360 |
@@ -43,6 +44,7 @@
 | Eternal Eyes | yes | yes | PS1 |
 | Eye of the Beholder | no | no | Game Boy |
 | Eye of the Gods | yes | yes | Commodore 64/128 |
+| Fable | No | No | Xbox |
 | Fallout 4 | Yes | Yes | Xbox One |
 | Final Fantasy 1-6 Pixel Remaster Collection | Yes | Yes | Nintendo Switch |
 | Final Fantasy Tactics: War of the Lion | no | no | PSP |
