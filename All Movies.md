@@ -212,6 +212,7 @@
 | Cadallic Man | Laserdisc |
 | CaddyShack | DVD |
 | Cadillac Man | Laserdisc |
+| Cadillac Man | DVD |
 | Calamity Jane | DVD |
 | Camp Nowhere and Baby secret and My father the hero | DVD |
 | Captain America | DVD |
@@ -253,6 +254,7 @@
 | Clerks II (Clerks 2) | DVD |
 | Cliffhanger | DVD |
 | Clockers | DVD |
+| Cloud Atlas | DVD |
 | Cloudy with a chance of Meatballs | Blu-Ray |
 | Cloverfield: 3 Movie Collection (Cloverfield, 10 Cloverfield Lane, The Cloverfield Paradox) | Blu-Ray |
 | Club Dread | DVD |
@@ -494,6 +496,7 @@
 | Goodfellas | DVD |
 | Gosford Park | DVD |
 | Grandma's Boy | DVD |
+| Grandma's Boy Unrated | DVD |
 | Gravity | DVD |
 | Grease (Rockin' Rydell Edition) | DVD |
 | Green Lantern | DVD |
@@ -664,6 +667,7 @@
 | JRR Tolkien: Master of the Rings | DVD |
 | Judge Dread | DVD |
 | Jumanji | DVD |
+| Jumanji The Next Level | Blu-Ray |
 | Jumanji: Welcome to the Jungle | DVD |
 | Jumper | Blu-Ray |
 | Jurassic Park | Blu-Ray |
@@ -720,6 +724,7 @@
 | Life of the Party | DVD |
 | Life or Something Like It | DVD |
 | Lifestyles of the Ramones | VHS |
+| Lilo and Stitch | DVD |
 | Limelight | Laserdisc |
 | Limitless | DVD |
 | little black book | DVD |
@@ -775,6 +780,7 @@
 | Max Max The Road Warrior and Beyond Thunderdome | DVD |
 | Max Payne Unrated | DVD |
 | Me Myself and Irene | DVD |
+| Mean Girls | DVD |
 | Mean Girls | DVD |
 | Meet the Fockers | HD-DVD |
 | Meet the Parents, Meet the Fockers, Little Fockers | DVD |
@@ -885,6 +891,7 @@
 | Once upon a Mattress | DVD |
 | One Million Motorcycles - Sturgis Rally | DVD |
 | Ong-Bak The Thai Warrior | DVD |
+| Onward (pixar) | DVD |
 | Opportunity Knocks | Laserdisc |
 | Orange County | DVD |
 | Original Sin | DVD |
@@ -937,6 +944,9 @@
 | Platoon | DVD |
 | Please Don't Eat the Daisies | DVD |
 | Point Break | DVD |
+| Poirot Movie Collection 2 (Death in the Clouds, Murder on the Links, One Two Buckle my Shoe) | DVD |
+| Poirot Movie Collection 3 (Peril at End House, Dumb Witness, Hercule Poirot's Christmas) | DVD |
+| Poirot Movie Collection 4 (Cat among the pigeons, Super Sleuths: Poirot, Mrs McGinty's Dead) | DVD |
 | Police academo | dvd |
 | Pollyanna | DVD |
 | Ponyo | DVD |
@@ -991,6 +1001,7 @@
 | Return to me | VHS |
 | Return to the Blue Lagoon | DVD |
 | Revenge of the Nerds Panty Raid Edition | DVD |
+| Rhustler's Rhapsody | DVD |
 | Richard Simmons birthday blast off | VHS |
 | Richard Simmons sweating to the oldies | VHS |
 | Riddick | Blu-Ray |
@@ -1323,6 +1334,7 @@
 | The Incredible Mr Limpet | DVD |
 | The Incredible Mr Limpet | Laserdisc |
 | The Incredibles | DVD |
+| The Incredibles 2 | Blu-Ray |
 | The Intruder | DVD |
 | The Invincible Iron Man | DVD |
 | The Invisible Man | Blu-Ray |
@@ -1489,6 +1501,7 @@
 | The Wolf of Wall Street | DVD |
 | The World of Henry Orient | Laserdisc |
 | The World's Fastest Indian | DVD |
+| The Worlds End | Blu-Ray |
 | The X-File Fight the Future | DVD |
 | There Will Be Blood | DVD |
 | They All Saw a Cat | DVD |

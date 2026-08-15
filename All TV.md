@@ -98,6 +98,9 @@
 | Hot in Cleveland Season 1 | DVD |
 | How I Met Your Mother Season 7 Duckie Tie Edition | DVD |
 | How I Met Your Mother Season 7 Duckie Tie Edition (New, Sealed) | DVD |
+| Inspector Morse Set Eleven | DVD |
+| Inspector Morse Set Seven | DVD |
+| Inspector Morse Set Ten | DVD |
 | It's Always Sunny In Philadelphia A Very Sunny Christmas | DVD |
 | It's Always Sunny in Philadelphia Seasons 1 and 2 | DVD |
 | Jeremiah: The Complete First Season | DVD |
@@ -141,6 +144,12 @@
 | Poirot Set 2 | DVD |
 | Police Squad! In Color | DVD |
 | Pride and Prejudice (1997) Special Edition | DVD |
+| Prime Suspect 2 | DVD |
+| Prime Suspect 3 | DVD |
+| Prime Suspect 4 | DVD |
+| Prime Suspect 6 | DVD |
+| Project Runway The Complete 4th Season | DVD |
+| Project Runway The Complete Second Season | DVD |
 | Psych Season 3 | DVD |
 | Psych Season 4 | DVD |
 | Punked Season 1 | DVD |
@@ -201,6 +210,7 @@
 | The Mighty Boosh Live | DVD |
 | The Muppet Show with Emotion John | VHS |
 | The Muppet show with Mark Hamil | VHS |
+| The Nanny Season 1 | DVD |
 | The New Guy | DVD |
 | The Office Seasons 1-5 | DVD |
 | The Office Seasons 6-9 | DVD |
