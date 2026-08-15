@@ -14,6 +14,7 @@
 | 1989 (Taylor's Version) | Taylor Swift |
 | 1989 (Taylor's Version) | Taylor Swift |
 | 1989 (Taylor's Version) | Taylor Swift |
+| 1996 Grammy Nominees | Various Artists |
 | 1997 Sony Music Monthly Sampler Vol. 5 | Various |
 | 1999: Forward 'Til Death | Various |
 | 200 Cigarettes - Music From The Motion Picture | Various |
