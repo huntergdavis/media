@@ -157,7 +157,6 @@
 | Queen's Blade The Exiled Virgin 1 | DVD |
 | Queen's Blade The Exiled Virgin 2 | DVD |
 | Queen's Blade The Exiled Virgin 3 | DVD |
-| Race for your life Charlie Brown | DVD |
 | Reader's Digest America's Great Road Trips and Scenic Drives | DVD |
 | Reign The Complete First Season | DVD |
 | Rick and Morty: Season 1 | Blu-Ray |
