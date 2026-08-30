@@ -30,7 +30,6 @@
 | Carmen Electra's Aerobic Striptease 1 | DVD |
 | Caroline in the City The First Season | DVD |
 | Cartoon Network's Cartoon Crack-Ups | DVD |
-| Chris Elliot in... GET A LIFE: Volume 1 | DVD |
 | Clerks Animated | DVD |
 | Community Season 1 | DVD |
 | Community The Complete 2nd Season | DVD |

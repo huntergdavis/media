@@ -254,7 +254,6 @@
 | Clerks II (Clerks 2) | DVD |
 | Cliffhanger | DVD |
 | Clockers | DVD |
-| Cloud Atlas | DVD |
 | Cloudy with a chance of Meatballs | Blu-Ray |
 | Cloverfield: 3 Movie Collection (Cloverfield, 10 Cloverfield Lane, The Cloverfield Paradox) | Blu-Ray |
 | Club Dread | DVD |
@@ -307,7 +306,6 @@
 | Dear Mr Watterson | DVD |
 | Death Proof (Grindhouse) | DVD |
 | Death Race | DVD |
-| Death Race | DVD |
 | Death Race 2: Unrated | DVD |
 | Deep Blue Sea | DVD |
 | Deep Impact | DVD |
@@ -325,7 +323,6 @@
 | Dickie Roberts Child Star | DVD |
 | Die Hard Collection | Blu-Ray |
 | Die Hard with a Vengeance | Laserdisc |
-| Dinner for Schmucks | DVD |
 | Dirty Grandpa Unrated | Blu-Ray |
 | Dirty Rotten Scoundrels | DVD |
 | Dirty Work | DVD |
@@ -771,7 +768,6 @@
 | Man of Steel | Blu-Ray |
 | Man of the House | Laserdisc |
 | Marie Antoinette | DVD |
-| Marshall | DVD |
 | Martin Lawrence you so crazy | DVD |
 | Mary Poppins | Laserdisc |
 | Master and Commander the Far Side of the World | DVD |
@@ -873,7 +869,6 @@
 | No Country For Old Men | Blu-Ray |
 | Noah | DVD |
 | Nosferatu, The phantom of the Opera, Metropolis | DVD |
-| Not Another Teen Movie | DVD |
 | Not Another Teen Movie | DVD |
 | Notting Hill | HD-DVD |
 | Now and Then | DVD |
@@ -1390,7 +1385,6 @@
 | The Matrix | DVD |
 | The Matrix 1,2,3 and Animatrix | DVD |
 | The Matrix 4-Film Deja Vou Collection (Matrix 1-3 and Ressurection) | Blu-Ray |
-| The Maze Runner | DVD |
 | The Men Who Stare At Goats | DVD |
 | The mighty Ducks | DVD |
 | The Mikado | Laserdisc |
