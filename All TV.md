@@ -47,7 +47,7 @@
 | Doctor Who Series 12 Complete | DVD |
 | Doctor Who The Complete Second Series | DVD |
 | Downton Abbey Season 1, 2 and 3 | DVD |
-| Downton Abbey Season 3 | DVD |
+| Downton Abbey Season 1,2,3,4,5,6 | Blu-Ray |
 | Downton Abbey Season 4 | DVD |
 | Downton Abbey Season 5 | DVD |
 | Dr Horrible's Sing Along Blog | DVD |
@@ -138,7 +138,6 @@
 | Paddington Bear: Marmalade Madness (28 Episode Set) | DVD |
 | Party of Five Season 1 | DVD |
 | Peanuts Emmy Nominated Collection | DVD |
-| Penn and Teller's Bullshit Complete Season 2 | DVD |
 | Penny Arcade The Series Season 1 | DVD |
 | Poirot - The TV Movie Collection 3 | DVD |
 | Poirot Set 2 | DVD |
@@ -149,7 +148,6 @@
 | Prime Suspect 4 | DVD |
 | Prime Suspect 6 | DVD |
 | Project Runway The Complete 4th Season | DVD |
-| Project Runway The Complete Second Season | DVD |
 | Psych Season 3 | DVD |
 | Psych Season 4 | DVD |
 | Punked Season 1 | DVD |
@@ -190,7 +188,6 @@
 | Star Trek Voyager: Season 4 | DVD |
 | Star Trek: Deep Space Nine The Chosen Collection (All Seasons) | DVD |
 | Stephen King's The Stand | VHS |
-| Strangers With Candy Season 3 | DVD |
 | That 70s Show Season 3 | DVD |
 | That 70s Show Season 4 | DVD |
 | That 70s Show Season 5 | DVD |
@@ -211,8 +208,6 @@
 | The Muppet show with Mark Hamil | VHS |
 | The Nanny Season 1 | DVD |
 | The New Guy | DVD |
-| The Office Seasons 1-5 | DVD |
-| The Office Seasons 6-9 | DVD |
 | The Outer Limits: Fantastic Androids and Robots Collection | DVD |
 | The Real World Season 1 New York | DVD |
 | The Three Stooges & WC Fields | DVD |
@@ -231,7 +226,6 @@
 | The X-Files 3x01 and 3x02 | Laserdisc |
 | This is Us Season 1 | DVD |
 | Tin Man Collectors Edition | DVD |
-| Tom and Jerry Spotlight Collection | DVD |
 | Underdog Volume 1 | DVD |
 | V The Original Miniseries | DVD |
 | Veronica Mars Season 1 | DVD |
