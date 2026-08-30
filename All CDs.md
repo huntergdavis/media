@@ -77,6 +77,7 @@
 | Batman Forever (Music From The Motion Picture) | Various |
 | Batman Forever: Motion Picture Score Album | Elliot Goldenthal |
 | Baywatch | Various |
+| Beastie Boys Anthology The Sounds of Science | Beastie Boys |
 | Beatles For Sale | The Beatles |
 | Beauty And The Beast (An Original Walt Disney Records Soundtrack) | Alan Menken, Howard Ashman |
 | Beauty And The Beast (Original Motion Picture Soundtrack) | Alan Menken, Howard Ashman |
