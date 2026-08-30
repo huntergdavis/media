@@ -24,6 +24,7 @@ from textual.message import Message
 from textual import events
 from textual.reactive import reactive
 from textual.coordinate import Coordinate
+from rich.cells import cell_len
 
 
 class AddEntryScreen(ModalScreen[Optional[List[str]]]):
@@ -91,6 +92,8 @@ class AddEntryScreen(ModalScreen[Optional[List[str]]]):
 class FilePickerScreen(ModalScreen[Optional[str]]):
     """Modal screen for picking markdown files."""
 
+    AUTO_FOCUS = "#file-list"
+
     def __init__(self, directory: str = "."):
         super().__init__()
         self.directory = directory
@@ -142,6 +145,9 @@ class MediaEditor(App[None]):
     """Main TUI application for editing markdown tables."""
 
     TITLE = "Physical Media Editor"
+    AUTO_FOCUS = "#data-table"
+    MAX_PRIMARY_COLUMN_WIDTH = 48
+    MAX_OTHER_COLUMN_WIDTH = 24
     CSS = """
     .dialog {
         align: center middle;
@@ -189,8 +195,12 @@ class MediaEditor(App[None]):
         padding: 1;
     }
 
+    #search-input {
+        margin: 0 0 1 0;
+    }
+
     DataTable {
-        margin: 1 0;
+        margin: 0;
     }
 
     .info-bar {
@@ -212,6 +222,8 @@ class MediaEditor(App[None]):
     BINDINGS = [
         ("ctrl+o", "open_file", "Open File"),
         ("ctrl+s", "save_file", "Save"),
+        ("/", "focus_search", "Search"),
+        ("escape", "clear_search", "Clear Search"),
         ("a", "add_entry", "Add Entry"),
         ("d", "delete_entry", "Delete"),
         ("ctrl+q", "quit", "Quit"),
@@ -235,12 +247,18 @@ class MediaEditor(App[None]):
         self.initial_file = filename
         self.original_data = []
         self.saved_files: List[str] = []  # files saved this session, in order, deduped
+        self.search_query = ""
+        self._visible_row_indices: List[int] = []
 
     def compose(self) -> ComposeResult:
         yield Header()
         with Container(id="main-container"):
             yield Static("No file loaded. Press Ctrl+O to open a file.", id="info-bar", classes="info-bar")
-            yield DataTable(id="data-table")
+            yield Input(
+                placeholder="Search all columns (press / to focus)",
+                id="search-input",
+            )
+            yield DataTable(id="data-table", cursor_type="row")
         yield Static("Ready", id="status-bar")
         yield Footer()
 
@@ -297,8 +315,9 @@ class MediaEditor(App[None]):
             self.notify("No row selected", severity="warning")
             return
 
-        row_index = cursor_coord.row
-        if row_index < len(self.data):
+        visible_row_index = cursor_coord.row
+        if visible_row_index < len(self._visible_row_indices):
+            row_index = self._visible_row_indices[visible_row_index]
             # Get the values for confirmation
             row = self.data[row_index]
             preview = " | ".join(row[:2])  # Show first two columns
@@ -309,6 +328,36 @@ class MediaEditor(App[None]):
             # You could add a confirmation modal here if desired
             self.delete_entry(row_index)
             self.notify(f"Deleted: {preview}", severity="success")
+
+    def action_focus_search(self) -> None:
+        """Focus the search input."""
+        search_input = self.query_one("#search-input", Input)
+        search_input.focus()
+        search_input.cursor_position = len(search_input.value)
+
+    def action_clear_search(self) -> None:
+        """Clear the search query and return focus to the table."""
+        search_input = self.query_one("#search-input", Input)
+        if search_input.value:
+            search_input.value = ""
+        self.search_query = ""
+        self.update_table()
+        self.update_info_bar()
+        self.query_one("#data-table", DataTable).focus()
+
+    def on_input_changed(self, event: Input.Changed) -> None:
+        """Filter table rows as the search query changes."""
+        if event.input.id != "search-input":
+            return
+
+        self.search_query = event.value
+        self.update_table()
+        self.update_info_bar()
+
+    def on_input_submitted(self, event: Input.Submitted) -> None:
+        """Return focus to the results after submitting a search."""
+        if event.input.id == "search-input":
+            self.query_one("#data-table", DataTable).focus()
 
     def action_reload_file(self) -> None:
         """Reload current file."""
@@ -321,6 +370,8 @@ class MediaEditor(App[None]):
         help_text = [
             "Ctrl+O: Open file",
             "Ctrl+S: Save file",
+            "/: Search",
+            "Esc: Clear search",
             "A: Add entry",
             "D: Delete row",
             "1-4: Sort by column",
@@ -433,23 +484,81 @@ class MediaEditor(App[None]):
         """Update the DataTable widget."""
         table = self.query_one("#data-table", DataTable)
         table.clear(columns=True)
+        self._visible_row_indices = []
 
         if not self.headers:
             return
 
-        # Add columns with sort indicators
+        # Add columns with sort indicators. Explicit widths keep unusually long
+        # titles from pushing media type and other columns off-screen.
+        labels = []
         for i, header in enumerate(self.headers):
             label = header
             if self.sort_column == i:
                 label += " ↓" if self.sort_reverse else " ↑"
-            table.add_column(label, key=str(i))
+            labels.append(label)
 
-        # Add rows
-        if self.data:
-            for row in self.data:
+        column_widths = self._get_column_widths(table, labels)
+        for i, (label, width) in enumerate(zip(labels, column_widths)):
+            table.add_column(label, key=str(i), width=width)
+
+        # Add rows matching every search term, in any column.
+        query_terms = self.search_query.casefold().split()
+        for row_index, row in enumerate(self.data):
+            row_text = " ".join(row).casefold()
+            if all(term in row_text for term in query_terms):
+                self._visible_row_indices.append(row_index)
                 # Ensure row has enough columns
                 padded_row = row + [''] * (len(self.headers) - len(row))
                 table.add_row(*padded_row[:len(self.headers)])
+
+    def _get_column_widths(self, table: DataTable, labels: List[str]) -> List[int]:
+        """Return readable column widths that fit the current table viewport."""
+        natural_widths = []
+        for column_index, label in enumerate(labels):
+            content_width = max(
+                [cell_len(label)]
+                + [
+                    cell_len(str(row[column_index]))
+                    for row in self.data
+                    if column_index < len(row)
+                ]
+            )
+            maximum = (
+                self.MAX_PRIMARY_COLUMN_WIDTH
+                if column_index == 0
+                else self.MAX_OTHER_COLUMN_WIDTH
+            )
+            natural_widths.append(max(cell_len(label), min(content_width, maximum)))
+
+        column_count = len(labels)
+        viewport_width = table.size.width or max(20, self.size.width - 2)
+        padding_width = table.cell_padding * 2 * column_count
+        content_budget = max(1, viewport_width - padding_width - 2)
+
+        if sum(natural_widths) <= content_budget:
+            return natural_widths
+
+        # Keep every header visible first, then give non-primary columns enough
+        # room for their values before using the rest for the usually-long title.
+        widths = [cell_len(label) for label in labels]
+        remaining = max(0, content_budget - sum(widths))
+
+        while remaining and any(
+            widths[index] < natural_widths[index]
+            for index in range(1, column_count)
+        ):
+            for index in range(1, column_count):
+                if remaining == 0:
+                    break
+                if widths[index] < natural_widths[index]:
+                    widths[index] += 1
+                    remaining -= 1
+
+        if remaining:
+            widths[0] += min(remaining, natural_widths[0] - widths[0])
+
+        return widths
 
     def update_info_bar(self) -> None:
         """Update the info bar."""
@@ -467,7 +576,12 @@ class MediaEditor(App[None]):
             direction = "Z-A" if self.sort_reverse else "A-Z"
             sort_info = f" | Sorted by {self.headers[self.sort_column]} ({direction})"
 
-        info_text = f"File: {filename}{status} | {len(self.data)} entries{sort_info}"
+        if self.search_query.strip():
+            entry_info = f"{len(self._visible_row_indices)} of {len(self.data)} entries"
+        else:
+            entry_info = f"{len(self.data)} entries"
+
+        info_text = f"File: {filename}{status} | {entry_info}{sort_info}"
         info_bar.update(info_text)
 
     def on_data_table_header_selected(self, event: DataTable.HeaderSelected) -> None:
