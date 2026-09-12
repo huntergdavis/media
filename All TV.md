@@ -42,6 +42,7 @@
 | Dawson's Creek Season 1 | DVD |
 | DCs Legends of Tomorrow Full Series of Tomorrow Full Series                                               Blue Ray | Blu Ray |
 | Detectorists Series 2 | DVD |
+| Dinotopia The Series Season 1 | DVD |
 | Dirt: Season 1 | DVD |
 | Doctor Who Series 12 Complete | DVD |
 | Doctor Who The Complete Second Series | DVD |

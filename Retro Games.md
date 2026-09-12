@@ -126,6 +126,7 @@
 | Star Wars: Jedi Knight 2 | yes | yes | Nintendo Switch |
 | Star Wars: Jedi Knight 3 | yes | yes | Nintendo Switch |
 | Star Wars: The Force Unleashed 2 | Yes | Yes | Xbox 360 |
+| Sunset Overdrive | Yes | Yes | Xbox One |
 | Super 12 in 1 | no | no | Game Boy |
 | Super 15 in 1 | no | no | Game Boy |
 | Super 150 in 1 | no | no | Game Boy |

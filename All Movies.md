@@ -517,13 +517,17 @@
 | Hamlet 2 | DVD |
 | Hang em High | Blu-Ray |
 | Hanging Up | DVD |
+| Hangmen | DVD |
 | Hansel and Gretel Witch Hunters | DVD |
 | Happy Birthday Mr Bean | DVD |
 | Harold & Kumar Go To White Castle | DVD |
 | Harold and Kumar 1 and 2 | DVD |
 | Harold and Kumar go to Guantanamo Bay | DVD |
 | Harry Potter 2 | HD-DVD |
+| Harry Potter and the Chamber of Secrets | HD-DVD |
 | Harry Potter And The Deathly Hallows pt 1 | Blu-Ray |
+| Harry Potter and the Goblet of Fire | HD-DVD |
+| Harry Potter and the Order of the Phoenix | HD-DVD |
 | Harry Potter and the Philosopher's Stone | HD-DVD |
 | Harry Potter Collection | Blu-Ray |
 | Hatari! | DVD |
@@ -546,6 +550,7 @@
 | Highlander | DVD |
 | Highlander 2 | DVD |
 | Highlander Endgame | VHS |
+| Highlander Endgame | DVD |
 | Highlander the Source | DVD |
 | Highlander: 10th Anniversary Director's Cut | DVD |
 | Highlander: The Immortal Edition | DVD |
@@ -1199,6 +1204,7 @@
 | Terminator Salvation the Machinima Series | DVD |
 | That Awkward moment | DVD |
 | That's my Boy | DVD |
+| The 10th Kingdom | DVD |
 | The 13th Warrior | DVD |
 | The 36th Chamber of Shaolin | DVD |
 | The 40 Year Old Virgin, Knocked Up, and Forgetting Sarah Marshall | DVD |
@@ -1317,6 +1323,7 @@
 | The Hitchhiker's Guide to the Galaxy | DVD |
 | The Hitchhikers Guide to the Galaxy | DVD |
 | The Hobbit (Rankin Bass) | DVD |
+| The Hobbit: An Unexpected Journey Extended Edition | Blu-Ray |
 | The Hobbit: The Desolation of Smaug | DVD |
 | The Holiday | Blu-Ray |
 | The Hot Chick | DVD |
