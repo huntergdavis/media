@@ -77,6 +77,7 @@
 | Mario Galaxy 1 and 2 | Yes | Yes | Nintendo Switch |
 | Mario Kart 64 | no | no | N64 |
 | Mario Paint + Mouse | no | no | Super Nintendo |
+| Mario Party Superstars | No | No | Nintendo Switch |
 | Megaman 11 | Yes | Yes | Xbox One |
 | Metroid Prime 4 | Yes | Yes | Nintendo Switch 2 |
 | Mickey's Racing Adventure | no | no | Game Boy Color |

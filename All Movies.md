@@ -584,6 +584,7 @@
 | Hugh Grant Collection: Music and lyrics, Two Weeks Notice, Mickey Blue Eyes, An Awfully Big Adventure | DVD |
 | Hulk | DVD |
 | Hulk VS | DVD |
+| Hundreds of Beavers | Blu-Ray |
 | I Am Legend | DVD |
 | I am Wrath | DVD |
 | I love you, Man | DVD |
