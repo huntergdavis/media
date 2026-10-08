@@ -183,7 +183,6 @@
 | Spawn: The Ultimate Collection | DVD |
 | Stan Lee's Mighty 7 Beginnings | DVD |
 | Stan Lee's Mutants Monsters and Marvels | DVD |
-| Star Trek Deep Space Nine Episodes 27 and 28 | Laserdisc |
 | Star Trek Voyager: Season 1 | DVD |
 | Star Trek Voyager: Season 4 | DVD |
 | Star Trek: Deep Space Nine The Chosen Collection (All Seasons) | DVD |
@@ -192,7 +191,6 @@
 | That 70s Show Season 4 | DVD |
 | That 70s Show Season 5 | DVD |
 | The babysitter's club video #1 | VHS |
-| The Best of Ray Bradbury Theatre Volume Two | Laserdisc |
 | The Best of Sci Fi and Comedy Bloopers | DVD |
 | The Best of the Colbert Report | DVD |
 | The It Crowd Final Episode Version 5 | DVD |
@@ -222,8 +220,6 @@
 | The Trailer Park Boys: Season 6 | DVD |
 | The Trailer Park Boys: Season 7 | DVD |
 | The Witches of Eastwick Season 1 | DVD |
-| The X-Files 2x20 and 2x25 | Laserdisc |
-| The X-Files 3x01 and 3x02 | Laserdisc |
 | This is Us Season 1 | DVD |
 | Tin Man Collectors Edition | DVD |
 | Underdog Volume 1 | DVD |

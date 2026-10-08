@@ -2,15 +2,12 @@
 | Movie Title | Format |
 | ----------- | ------ |
 | 9 | DVD |
-| 10 | Laserdisc |
 | 51 | DVD |
 | 300 | DVD |
 | 1408 | Blu -Ray |
 | 10 Things I Hate about You | DVD |
-| 101 Dalmations (Glen Close) | Laserdisc |
 | 12 Monkeys | DVD |
 | 12 Monkeys | HD-DVD |
-| 20,000 Leagues Under The Sea | Laserdisc |
 | 2002: A Space Travesty | DVD |
 | 28 Days | DVD |
 | 28 Days Later | DVD |
@@ -29,31 +26,24 @@
 | A Cat in Paris | DVD |
 | A Charlie Brown Christmas | DVD |
 | A Charlie Brown Thanksgiving | DVD |
-| A Few Good Men | Laserdisc |
 | A Fistful of Dollars | DVD |
 | A Fistful of Dollars | DVD |
 | A Grand Deliverance | DVD |
 | A Guy Thing | DVD |
 | A Knight's Tale | DVD |
-| A League of Their Own | Laserdisc |
 | A Letter to Momo | DVD |
 | A Mighty Wind | DVD |
 | A Night at the Roxbury | DVD |
-| A Simple Twist of Fate | Laserdisc |
 | A Town Called Panic | Blu-Ray |
 | A Town Called Panic | Blu-Ray |
 | A Troll in Central Park | VHS |
 | A very Harold and Kumar Christmas | DVD |
-| A View To A Kill | Laserdisc |
 | A Walk to Remember | DVD |
 | A Wrinkle in Time | DVD |
 | A.I. Artificial Intelligence | DVD |
-| Abbott and Costollo Meet Frankenstein | Laserdisc |
 | Accepted | DVD |
 | Ace Ventura Pet Detective | DVD |
 | Across the Universe | DVD |
-| Addicted to Love | Laserdisc |
-| Adventures in Babysitting | Laserdisc |
 | Adventures in BabySitting | DVD |
 | Aeon Flux | DVD |
 | Africa Screams | DVD |
@@ -61,7 +51,6 @@
 | Airplane! Don't Call me Shirley Edition | DVD |
 | Aladdin | DVD |
 | Ali G In Da House Da Movie | DVD |
-| Alice in Wonderland | Laserdisc |
 | Alice in Wonderland: Masterpiece Edition | DVD |
 | Alice Through the Looking Glass | Blu-Ray |
 | Alien | DVD |
@@ -69,7 +58,6 @@
 | Alien Anthology Movie Set | Blu-Ray |
 | Aliens | DVD |
 | All About Eve | DVD |
-| All Dogs Go to Heaven | Laserdisc |
 | All Dogs Go to Heaven 1 and 2 | DVD |
 | Almost Famous | DVD |
 | Along Came a Spider | DVD |
@@ -80,7 +68,6 @@
 | American Grafitti | DVD |
 | American History X | Blu-Ray |
 | An American Werewolf in Paris | DVD |
-| An Officer and a Duck | Laserdisc |
 | Anaconda | DVD |
 | Anastasia | Blu-ray |
 | Anastasia | VHS |
@@ -115,15 +102,12 @@
 | Avengers: Age of Ultron | DVD |
 | AVP Alien vs Predator | DVD |
 | Babe, Beethoven, The cat in the Hat | DVD |
-| Babes in Toyland | Laserdisc |
 | Baby BOOM | DVD |
 | Baby Sitters Club | DVD |
 | Babylon A.D. | DVD |
 | Back to School | DVD |
-| Back to the Future | Laserdisc |
 | Back To the Future Trilogy | 4K Blu-Ray |
 | Backdraft | DVD |
-| Backdraft | Laserdisc |
 | Backdraft | VHS |
 | Bad Boys | DVD |
 | Bad Moms | Blu-Ray |
@@ -146,7 +130,6 @@
 | Batman: Mystery of the Batwoman | DVD |
 | Batman: Mystery of the Batwoman and Batman Beyond Return of the Joker | DVD |
 | Be Kind Rewind | DVD |
-| Beach Blanket Bingo | Laserdisc |
 | Beavis and Butthead Do America | DVD |
 | Becoming Jane | DVD |
 | Bedazzled | DVD |
@@ -160,7 +143,6 @@
 | Being Julia | DVD |
 | Beowulf Director's Cut | DVD |
 | Beverly Hills Ninja | DVD |
-| Beverly Hills Ninja | Laserdisc |
 | Beveryly Hills Ninja | DVD |
 | Bewitched | DVD |
 | Bewitched, Beverly Hills Ninja, The Cable Guy, So I Married an Axe Murderer, Mixed Nuts, The Pest (John Leguizamo) | DVD |
@@ -188,7 +170,6 @@
 | Blizzard of Aahhh's | DVD |
 | Blood from the Mummy's Tomb | Blu-Ray |
 | Blow | Blu-Ray |
-| Blue Planet | Laserdisc |
 | Blue Streak and National Security | DVD |
 | Bohenian Rhapsody | Blu-Ray |
 | Bolt | DVD |
@@ -209,9 +190,7 @@
 | Brotherhood of the Wolf | DVD |
 | Bruce Almighty | DVD |
 | Bruce Campbell VS Army of Darkness | DVD |
-| Cadallic Man | Laserdisc |
 | CaddyShack | DVD |
-| Cadillac Man | Laserdisc |
 | Cadillac Man | DVD |
 | Calamity Jane | DVD |
 | Camp Nowhere and Baby secret and My father the hero | DVD |
@@ -226,9 +205,7 @@
 | Cast Away | DVD |
 | Catfish in black bean sauce | DVD |
 | Cats | VHS |
-| Cave Girl | Laserdisc |
 | Caveman | DVD |
-| Chain Reaction | Laserdisc |
 | Charlie Bartlett | DVD |
 | Charlie Brown's Christmas Tales | DVD |
 | Charlie's Angels Full Throttle Unrated | DVD |
@@ -240,15 +217,10 @@
 | Children of Dune | DVD |
 | Children of Men | HD-DVD |
 | Children of Paradise (Criterion) | DVD |
-| China Sky | Laserdisc |
-| Chip N Dale Cartoon Classics | Laserdisc |
 | Chris Rock Never Scared | DVD |
 | Christy | VHS |
-| Cinderella | Laserdisc |
-| Circle of Friends | Laserdisc |
 | City Boy | DVD |
 | City Lights | DVD |
-| City Slickers | Laserdisc |
 | Clash of the Titans | DVD |
 | Clerks | DVD |
 | Clerks II (Clerks 2) | DVD |
@@ -267,11 +239,9 @@
 | Conan the destroyer | DVD |
 | Congo | DVD |
 | Connie and Carla | DVD |
-| Conspiracy Theory | Laserdisc |
 | Constantine | DVD |
 | Constantine | HD-DVD |
 | Cop Out | DVD |
-| Cops and Robbersons | Laserdisc |
 | Coraline, Paranorman, The Boxtrolls, Kubo and the Two Strings | DVD |
 | Cowboy Bebop The Movie | DVD |
 | Cradle 2 The Grave | DVD |
@@ -280,7 +250,6 @@
 | Crazy Rich Asians | Blu-Rary |
 | Cricket of the Hearth | DVD |
 | Criminal | Blu-Ray |
-| Crocodile Dundee | Laserdisc |
 | Crocodile Dundee 1 and 2 | DVD |
 | Crocodile Hunter collision course | VHS |
 | Crossroads | DVD |
@@ -293,7 +262,6 @@
 | Darby OGill and the Little People | DVD |
 | Daredevil | DVD |
 | Dark City | Blu-Ray |
-| Dave | Laserdisc |
 | Dave Chappelle Killin Them Softly | DVD |
 | Dawn of the Dead | Blu-Ray |
 | Day of the Dead | DVD |
@@ -315,18 +283,15 @@
 | Demon Knight (Tales from the Crypt) | DVD |
 | Denial | DVD |
 | Denis Leary and Friends | DVD |
-| Desiree | Laserdisc |
 | Detective Pikachu | DVD |
 | Detonator | DVD |
 | Detroit Rock City | DVD |
 | Dick Johnson is Dead (Criterion) | DVD |
 | Dickie Roberts Child Star | DVD |
 | Die Hard Collection | Blu-Ray |
-| Die Hard with a Vengeance | Laserdisc |
 | Dirty Grandpa Unrated | Blu-Ray |
 | Dirty Rotten Scoundrels | DVD |
 | Dirty Work | DVD |
-| Disney Cartoon Classics Mickey and the Gang and Chip n Dale | Laserdisc |
 | Disney Classic Cartoon Favorites Extreme Adventure Fun | DVD |
 | Do You Believe In Miracles: The 1980 US Hockey Team | DVD |
 | DOA Dead or Alive | DVD |
@@ -335,11 +300,9 @@
 | Doctor Strange (Animated) | DVD |
 | Dogma | DVD |
 | Dogma (Special Edition) | DVD |
-| Don Juan Demarco | Laserdisc |
 | Don Juan DeMarco | VHS |
 | Don't tell Mom the babysitter's dead | VHS |
 | Doom Unrated Extended Edition | DVD |
-| Double Indemnity | Laserdisc |
 | Double Jeopardy | DVD |
 | Doug's First Movie | DVD |
 | Down With Love | DVD |
@@ -374,7 +337,6 @@
 | Elvira Mistress of the Night | VHS |
 | Elvira's Movie Macabre Double Feature - Blue Sunshine, Monstroid | DVD |
 | Elysium | DVD |
-| Emma | Laserdisc |
 | Emma and Jane Eyre | DVD |
 | Empire Records | VHS |
 | Empire Records Remix Special Fan Edition | DVD |
@@ -402,13 +364,10 @@
 | Evil Dead 2 | VHS |
 | Evolution | DVD |
 | Ex Machina | DVD |
-| F.I.S.T. | Laserdisc |
-| F/X | Laserdisc |
 | Face/Off | DVD |
 | Fair Game | DVD |
 | Fakers | DVD |
 | Falling Down (Burnt Academy Version?) | DVD-R |
-| Fantasia | Laserdisc |
 | Fantastic 4 Rise of the Silver Surfer | DVD |
 | Fantastic 4 Rise of the Silver Surfer Marvel Digital Comic | DVD |
 | Far Out Man | DVD |
@@ -437,25 +396,19 @@
 | Flushed Away | DVD |
 | Fly Away Home | DVD |
 | For a Few Dollars More | DVD |
-| For Your Eyes Only | Laserdisc |
 | Forever Young | DVD |
 | Forgetting Sarah Marshall Unrated | DVD |
 | Forrest Gump | DVD |
-| Forrest Gump | Laserdisc |
-| Forrest Gump | Laserdisc |
 | Four Brothers | HD-DVD |
-| Four Weddings and a Funeral | Laserdisc |
 | Frankenstein | Blu-Ray |
 | Freaky Friday | DVD |
 | Freeloaders | DVD |
 | French Kiss | DVD |
 | Friday | DVD |
 | Friday After Next | DVD |
-| Fried Green Tomatoes | Laserdisc |
 | From up on Poppy Hill | DVD |
 | Frost Nixon | Blu-Ray |
 | Full Metal Jacket | DVD |
-| Full Metal Jacket | Laserdisc |
 | Furry Vengeance | DVD |
 | Futurama: Bender's Big Score | DVD |
 | G.I. Jane | DVD |
@@ -466,7 +419,6 @@
 | Gattaca | DVD |
 | Get Him to the Greek | DVD |
 | Get Rich or Die Tryin | DVD |
-| Get Shorty | Laserdisc |
 | Ghost In The Shell | DVD |
 | Ghost Rider | DVD |
 | Ghost Rider | DVD |
@@ -503,13 +455,11 @@
 | Grindhouse Planet Terror | DVD |
 | Gross Anatomy | DVD |
 | Gross Pointe Blank | DVD |
-| Grumpier Old Men | Laserdisc |
 | Grumpy Cat's Worst Christmas Ever | DVD |
 | Grumpy Old Men | DVD |
 | Guardians of the Galaxy | DVD |
 | Guardians of the Galaxy Volume 2 | BLu-Ray |
 | Hachi: A Dog's Story | DVD |
-| HAIR | Laserdisc |
 | Half Baked | DVD |
 | Half-Baked | DVD |
 | Halloween: 25 Years of Terror | DVD |
@@ -546,7 +496,6 @@
 | Hero (Jet Li) | DVD |
 | High Fidelity | DVD |
 | High Note | Blu-Ray |
-| Higher Learning | Laserdisc |
 | Highlander | DVD |
 | Highlander 2 | DVD |
 | Highlander Endgame | VHS |
@@ -575,7 +524,6 @@
 | House of 1000 Corpses | DVD |
 | How High | DVD |
 | How High 2 | DVD |
-| How The West Was Won 1933  - 1960 | Laserdisc |
 | How to Deal | DVD |
 | How to Eat Fried Worms | DVD |
 | How to train your Dragon | Blu-Ray |
@@ -616,12 +564,10 @@
 | IMAX: T-Rex Back to the Cretaceous | DVD |
 | IMAX: The Dream is Alive | DVD |
 | Inception | Blu-Ray |
-| Independence Day | Laserdisc |
 | Independence Day | VHS |
 | Independence Day | Blu-Ray |
 | Indiana Jones and the Kingdom of the Crystal Skull | Blu-Ray |
 | Indiana Jones and the Temple of Doom | DVD |
-| Indiana Jones and the Temple of Doom | Laserdisc |
 | Indiana Jones Collection | DVD |
 | Indiana Jones Trilogy | DVD |
 | Inglourious Basterds | DVD |
@@ -656,7 +602,6 @@
 | Jay and silent Bob strike back | VHS |
 | Jeff Who Lives At Home | DVD |
 | Jekyll+hyde | DVD |
-| Jewel of the Nile | Laserdisc |
 | Joe Dirt | DVD |
 | John Carpenter's Vampires | DVD |
 | John Carter | DVD |
@@ -693,7 +638,6 @@
 | Kingsmen: The Secret Service | Blu-Ray |
 | Kinsey | DVD |
 | Kiss Kiss Bang Bang | DVD |
-| Kiss the Girls | Laserdisc |
 | Kissing a Fool | DVD |
 | Kissing Jessica Stein | DVD |
 | Knock At The Cabin | Blu-Ray |
@@ -705,11 +649,9 @@
 | Kung Pow! Enter The Fist | DVD |
 | L.A. Confidential | DVD |
 | Labyrinth | DVD |
-| Lady and the Tramp | Laserdisc |
 | Lake Placid | DVD |
 | Land of the Lost | DVD |
 | Lars and the Real Girl | DVD |
-| Last Man Standing | Laserdisc |
 | Laws of Attraction | DVD |
 | Leap Year | DVD |
 | Leaves of Grass | DVD |
@@ -722,13 +664,11 @@
 | Les Miserables | VHS |
 | Les Miserables | DVD |
 | Let's Be Cops | Blu-Ray |
-| Lethal Weapon 3 | Laserdisc |
 | Lethal Weapon Director's Cut, The Lost Boys, Blade Runner: The Final Cut, Risky Business, The Shining, Lean on Me, CaddyShack, Purple Rain, Vision Quest, A nightmare on Elm Street | DVD |
 | Life of the Party | DVD |
 | Life or Something Like It | DVD |
 | Lifestyles of the Ramones | VHS |
 | Lilo and Stitch | DVD |
-| Limelight | Laserdisc |
 | Limitless | DVD |
 | little black book | DVD |
 | Little Man | DVD |
@@ -736,7 +676,6 @@
 | Little Miss Sunshine | DVD |
 | Little Nicky | DVD |
 | Little Women | DVD |
-| Little Women (Katherine Hepburn) | Laserdisc |
 | Logan Lucky | Blu-Ray |
 | Look Who's Talking and Look Who's Talking Too | DVD |
 | Looney Tunes Stranger than Fiction | DVD |
@@ -759,7 +698,6 @@
 | M-I III (Mission Impossible 3) | DVD |
 | M: A Film by Fritz Lang (Criterion) | DVD |
 | Mac and Devin Go to High School | DVD |
-| Macao | Laserdisc |
 | Macgruber | DVD |
 | Machete | DVD |
 | Machete | DVD |
@@ -767,15 +705,11 @@
 | Mad Max Fury Road | 4k |
 | Madascar | DVD |
 | Maid to Order | VHS |
-| Major League | Laserdisc |
-| Major League | Laserdisc |
 | Malibu's Most Wanted | DVD |
 | Man Cave House Party collection, including Fubar, Beer League, American Virgin, and Growing Op. | DVD |
 | Man of Steel | Blu-Ray |
-| Man of the House | Laserdisc |
 | Marie Antoinette | DVD |
 | Martin Lawrence you so crazy | DVD |
-| Mary Poppins | Laserdisc |
 | Master and Commander the Far Side of the World | DVD |
 | Material Girls | DVD |
 | Maverick and Wild Wild West | DVD |
@@ -792,14 +726,7 @@
 | Men in Black 2 | DVD |
 | Mercury Rising | DVD |
 | Merlin | DVD |
-| Miami Rhapsody | Laserdisc |
 | MIB Men in Black | DVD |
-| Michael Flatley's Feet of Flames | Laserdisc |
-| Mickey and the Beanstalk, The Reluctant Dragon | Laserdisc |
-| Mickey Knows Best and The Importance of Being Donald | Laserdisc |
-| Mickey Mouse and Donald Duck Cartoons Collection 1 | Laserdisc |
-| Mickey Mouse and Donald Duck Cartoons Collection 2 | Laserdisc |
-| Mickey Mouse and Donald Duck Cartoons Collection 3 | Laserdisc |
 | Midnight in the Garden of Good and Evil | DVD |
 | Might Morphin Power Rangers The Movie | DVD |
 | Mike and Dave need Wedding Dates | DVD |
@@ -819,7 +746,6 @@
 | Monty Python and the Life of Brian | DVD |
 | Monty Python's The Meaning of Life | DVD |
 | Moonfall | Blu-Ray |
-| Moonraker | Laserdisc |
 | Mother | Blu-Ray |
 | Moulin Rouge | DVD |
 | Mr Deeds | DVD |
@@ -839,7 +765,6 @@
 | My little pony | VHS |
 | My Neighbor Totoro | DVD |
 | My Side of the Mountain | DVD |
-| My Vida Loca My Crazy Life | Laserdisc |
 | Mystery Alaska | DVD |
 | Mystery Men | HD-DVD |
 | Mystery Men | VHS |
@@ -884,7 +809,6 @@
 | Ocean's Eleven | DVD |
 | Ocean's Thirteen | DVD |
 | Ocean's Twelve | DVD |
-| Octopussy | Laserdisc |
 | Office Space | Blu-Ray |
 | Old School | DVD |
 | Oliver and Company | DVD |
@@ -893,12 +817,9 @@
 | One Million Motorcycles - Sturgis Rally | DVD |
 | Ong-Bak The Thai Warrior | DVD |
 | Onward (pixar) | DVD |
-| Opportunity Knocks | Laserdisc |
 | Orange County | DVD |
 | Original Sin | DVD |
 | Our Idiot Brother | Blu-Ray |
-| Out of the Blue | Laserdisc |
-| Outbreak | Laserdisc |
 | Outlander | Blu-Ray |
 | Over Washington | VHS |
 | Overboard (Goldie Hawn) | DVD |
@@ -919,7 +840,6 @@
 | Peanuts (Happiness is a Warm Blanket, Happiness is Team Snoopy, Snoopy's Adventures) | DVD |
 | Peanuts School Days | DVD |
 | Penelope | DVD |
-| Penguin Pool Murder | Laserdisc |
 | Permanent | DVD |
 | Permanent | DVD |
 | Pet Cemetary (2019) | DVD |
@@ -970,10 +890,8 @@
 | Python | DVD |
 | Queen of the Damned | DVD |
 | Quest for Camalot | VHS |
-| Quiz Show | Laserdisc |
 | Race for your Life Charlie Brown, Bon Voyage Charlie Brown | DVD |
 | Racing Stripes | DVD |
-| Raiders of the Lost Ark | Laserdisc |
 | Raiders of the Lost ark | VHS |
 | Raise Your Voice | DVD |
 | Ralph Breaks The Internet | Blu-Ray |
@@ -1012,17 +930,14 @@
 | Road House | DVD |
 | Road Trip | DVD |
 | Robin Hood (disney) | DVD |
-| Robin Hood Prince of Thieves | Laserdisc |
 | Robots | DVD |
 | Rocky | DVD |
 | Rogue One a Star Wars Story | Blu-Ray |
 | Role Models (Unrated) | Blu-Ray |
 | Role Models Unrated | DVD |
 | Rollerball | DVD |
-| Romancing the Stone | Laserdisc |
 | Romeo Must Die | DVD |
 | Romeo+Juliet | DVD |
-| Room at the Top | Laserdisc |
 | Rounders | DVD |
 | Rumble in the Bronx and The Corruptor | DVD |
 | Run Lola Run | DVD |
@@ -1030,7 +945,6 @@
 | Rusty | VHS |
 | S Club 7 in Miami | VHS |
 | S1M0NE | DVD |
-| Sabrina | Laserdisc |
 | Sabrina (Harrison Ford) | DVD |
 | Saint Omar (Criterion) | DVD |
 | Saludos Amigos and The Three Caballeros | DVD |
@@ -1081,8 +995,6 @@
 | Sky Captain and the World of Tomorrow | DVD |
 | Sky High | DVD |
 | Sleeping Beauty | Blu-Ray |
-| Sleeping with the Enemy | Laserdisc |
-| Sleepless in Seattle | Laserdisc |
 | Sleepless in Seattle | DVD |
 | Slither | DVD |
 | Slums of Beverly Hills | DVD |
@@ -1093,7 +1005,6 @@
 | Snow White and the Huntsman | Blu-Ray |
 | Snow White and the Seven Dwarfs | DVD |
 | Snowpiercer | DVD |
-| So Dear to my Heart | Laserdisc |
 | So I Married an Axe Murderer | DVD |
 | Some Like it Hot | DVD |
 | Son In Law | DVD |
@@ -1159,7 +1070,6 @@
 | Street Fighter Alpha and Street Fighter Alpha Generations | DVD |
 | Street Fighter II: The Animated Movie | DVD |
 | Street Fighter: The Legend of Chun Li | DVD |
-| Striking Distance | Laserdisc |
 | Stripes | DVD |
 | Stuart Little 1+2 | DVD |
 | Stuart Little 2 | DVD |
@@ -1175,11 +1085,9 @@
 | Supercop | 4k |
 | Superfly | Blu-Ray |
 | Superman | DVD |
-| Superman 2 | Laserdisc |
 | Superman 5-film Collection (1-4 + Superman Returns) | DVD |
 | Superman IVlody Time (Walt Disney Classics)                                                                                                            DVD | DVD |
 | Superman Returns | HD-DVD |
-| Superman The Movie | Laserdisc |
 | SuperTroopers 2 | DVD |
 | Surf's Up | DVD |
 | Swan Lake | VHS |
@@ -1187,7 +1095,6 @@
 | Swimfan | DVD |
 | Swing Kids | DVD |
 | Swiss Family Robinson (Disney) | DVD |
-| Switching Channels | Laserdisc |
 | Taken | Blu-Ray |
 | Taken 2 | Blu-Ray |
 | Tales from Avonlea | VHS |
@@ -1198,7 +1105,6 @@
 | Ted | DVD |
 | Teenage Mutant Ninja Turtles Trilogy (1, 2, 3) | DVD |
 | Tenacious D and the Pick of Destiny | DVD |
-| Terminator 2 Judgement Day | Laserdisc |
 | Terminator 2: Judgement Day | DVD |
 | Terminator 3: Rise of the Machines | DVD |
 | Terminator 3: Rise of the Machines and Terminator Salvation | DVD |
@@ -1216,14 +1122,12 @@
 | The Adventures of TINTIN | DVD |
 | The Amateurs | DVD |
 | The Amazing Spider-Man 1 and 2 | DVD |
-| The American President | Laserdisc |
 | The Americanization of Emily | DVD |
 | The Animal, The Benchwarmers, Deuce Bigalo, European Gigolo, The House Bunny, Joe Dirt, The Master of Disguise | DVD |
 | The anniversary party | DVD |
 | The Apple Dumpling Gang | DVD |
 | The Apple Dumpling Gang Special Edition | DVD |
 | The Aristocats | DVD |
-| The Art Awareness Collection from the National Gallery of Art | Laserdisc |
 | The Avengers | DVD |
 | The Avengers Infinity War | Blu-Ray |
 | The Aviator | DVD |
@@ -1281,20 +1185,16 @@
 | The Doors (An Oliver Stone Film) | DVD |
 | The Dressmaker | DVD |
 | The Dukes of Hazzard | DVD |
-| The Enforcer | Laserdisc |
 | The Englishmen who went up a hill but came down a mountain | DVD |
 | The Evil Dead | Blu-Ray |
 | The Ex | DVD |
 | The Expendables | DVD |
 | The Fifth Element | DVD |
 | The Fifth Element | 4K Blu-Ray |
-| The Firm | Laserdisc |
 | The First Wives Club | DVD |
 | The Fountain | DVD |
 | The Freddie Mercury tribute concert | VHS |
 | The Frighteners | DVD |
-| The Fugitive | Laserdisc |
-| The Full Monty | Laserdisc |
 | The Gambler (Kenny Rogers) | DVD |
 | The Ghost and Mr. Chicken | DVD |
 | The Girl Next Door | DVD |
@@ -1315,10 +1215,8 @@
 | The Green Hornet | DVD |
 | The Green Mile | DVD |
 | The Grey | DVD |
-| The Grifters | Laserdisc |
 | The Guru | DVD |
 | The Hangover | DVD |
-| The Haunted Strangler and Corridors of Blood Boriz Karloff | Laserdisc |
 | The Heat | DVD |
 | The History Boys | DVD |
 | The Hitchhiker's Guide to the Galaxy | DVD |
@@ -1329,13 +1227,11 @@
 | The Holiday | Blu-Ray |
 | The Hot Chick | DVD |
 | The Hulk | DVD |
-| The Hunchback of Notre Dame (Disney) | Laserdisc |
 | The Hunger Games | DVD |
 | The Hurt Locker | Blu-Ray |
 | The Illusionist | DVD |
 | The Incredible Hulk | DVD |
 | The Incredible Mr Limpet | DVD |
-| The Incredible Mr Limpet | Laserdisc |
 | The Incredibles | DVD |
 | The Incredibles 2 | Blu-Ray |
 | The Intruder | DVD |
@@ -1347,10 +1243,8 @@
 | The Jerk | DVD |
 | The Jewel in the Crown | DVD |
 | The Joy Luck Club | Blu-Ray |
-| The Jungle Book (90s) | Laserdisc |
 | The Jungle Book 40th Anniversary Edition | DVD |
 | The Karate Kid 1, 2 and 3 | DVD |
-| The King and I | Laserdisc |
 | The Ladies Man | DVD |
 | The Land of Women | DVD |
 | The Last Samurai | HD-DVD |
@@ -1362,10 +1256,8 @@
 | The Life Aquatic Wit Steve Zissou (Criterion) | DVD |
 | The Life Aquatic with Steve Zissou | DVD |
 | The Lion King | Blu-Ray |
-| The Lion King | Laserdisc |
 | The little mermaid | VHS |
 | The Little Prince | DVD |
-| The Living Daylights | Laserdisc |
 | The long kiss goodnight | DVD |
 | the longest yard | DVD |
 | The longest Yard and Varsity Blues | DVD |
@@ -1375,13 +1267,10 @@
 | The Lord of the Rings Trilogy - Extended Edition | Blu-Ray |
 | The Lord of the Rings: The Two Towers (FullScreen Edition) | DVD |
 | The Lord of the RingsTrilogy | 4k Blu-Ray |
-| The Mad Miss Manton | Laserdisc |
-| The Madness of King George | Laserdisc |
 | The Magnificent Seven Collection | Blu-Ray |
 | The Magnificent Sevent | DVD |
 | The Maltese Falcon | Blu-Ray |
 | The Man in the Iron Mask | DVD |
-| The Man With The Golden Gun | Laserdisc |
 | The Man With The Iron Fists | DVD |
 | The Man With Two Brains | DVD |
 | The Many Adventures of Winnie the Pooh | DVD |
@@ -1395,7 +1284,6 @@
 | The Matrix 4-Film Deja Vou Collection (Matrix 1-3 and Ressurection) | Blu-Ray |
 | The Men Who Stare At Goats | DVD |
 | The mighty Ducks | DVD |
-| The Mikado | Laserdisc |
 | The Mist | DVD |
 | The Monster Squad | DVD |
 | The Monuments Men | DVD |
@@ -1415,20 +1303,15 @@
 | The Night Before | DVD |
 | The Nines | DVD |
 | The Number 23 | DVD |
-| The Nutcracker Prince | Laserdisc |
 | The One (Jet Li) | DVD |
 | The Other Side of Heaven | DVD |
 | The Others (2003) | DVD |
-| The Pallbearer | Laserdisc |
 | The Peanuts Movie | Blu-Ray |
-| The Pelican Brief | Laserdisc |
 | The People Vs Larry Flint | DVD |
 | The Pest | DVD |
 | The Phantom of the Opera at the Royal Albert Hall | DVD |
-| The Picture of Dorian Gray (1945) | Laserdisc |
 | The Pirates | DVD |
 | The Polar Express | HD-DVD |
-| The Postman | Laserdisc |
 | The Princess and the Frog | Blu-Ray |
 | The Princess Bride | DVD |
 | The Princess Bride | Blu-Ray |
@@ -1439,7 +1322,6 @@
 | The Prophecy | DVD |
 | The Prophesy 2 | DVD |
 | The Punisher (Dolf Lungren) | DVD |
-| The Raven and The Black Cat Boriz Karloff | Laserdisc |
 | The Reluctant Astronaut | DVD |
 | The Rental | DVD |
 | The Replacements | DVD |
@@ -1471,12 +1353,10 @@
 | The Spirit | DVD |
 | The Spirit | DVD |
 | The Spongebob Squarepants Movie | DVD |
-| The Spy Who Loved Me | Laserdisc |
 | The Stand (Stephen King's) | DVD |
 | The Surburbans | DVD |
 | The Sweetest Thing | DVD |
 | The Sword in the Stone | DVD |
-| The Ten Commandments | Laserdisc |
 | The Terminator | DVD |
 | The Thing | DVD |
 | The Thomas Crown Affair | DVD |
@@ -1488,7 +1368,6 @@
 | The Trouble With Angels | DVD |
 | The True Story of Puss in Boots (William Shatner) | DVD |
 | The Truth about Cats and Dogs | DVD |
-| The Usual Suspects | Laserdisc |
 | The Velveteen Rabbit | VHS |
 | The Village | DVD |
 | The War With Grandpa | Blu-Ray |
@@ -1501,7 +1380,6 @@
 | The Witches | DVD |
 | The Wizard of Oz | DVD |
 | The Wolf of Wall Street | DVD |
-| The World of Henry Orient | Laserdisc |
 | The World's Fastest Indian | DVD |
 | The Worlds End | Blu-Ray |
 | The X-File Fight the Future | DVD |
@@ -1519,7 +1397,6 @@
 | Timeline | DVD |
 | Titan A.E. | DVD |
 | Titanic | DVD |
-| To Wong Fu, Thanks for Everything Julie Newmar | Laserdisc |
 | Tom and Jerry Collection (Greatest Chases, The Movie, The Magic Ring) | DVD |
 | Tom and Jerry the Movie | DVD |
 | Tom and Joerry Movie The Fast and the Furry | DVD |
@@ -1529,13 +1406,11 @@
 | Tomorrow Never Dies 007 | Blu-Ray |
 | Too young to die? | DVD |
 | Top Gun | DVD |
-| Top Gun | Laserdisc |
 | Total Recall | DVD |
 | Touristas Unrated | DVD |
 | Toy Story 2 | DVD |
 | Toy Story 3 | DVD |
 | Toy Story: 10th Anniversary Edition | DVD |
-| Trading Places | Laserdisc |
 | Trailer Park Boys: Countdown to Liquor Day | DVD |
 | Trailer Park Boys: Say Goodnight to the Bad Guys | DVD |
 | Trailer Park Boys: The Countdown to Liquor Day | Blu-Ray |
@@ -1550,7 +1425,6 @@
 | Transformers | DVD |
 | Transformers | HD-DVD |
 | Treasure Planet | DVD |
-| Treasures of the Sierre Madre | Laserdisc |
 | Tremors | HD-DVD |
 | Tremors Collectors Edition Widescreen | DVD |
 | Triple Thread | Blu-Ray |
@@ -1590,7 +1464,6 @@
 | Vertigo | DVD |
 | Very Bad Things | DVD |
 | Vincent Price and Boris Karloff Collection (Eyes in the Night, The Kennel Murder Case, The Limping Man, The Spy in White, Dick Tracy, Detective, Doomed to Die, Mystery Liner, Shock!, Dishonored Lady, Nancy Drew, Reporter, The Black Raven, City of Missing Girls, Murder at the Baskervilles, The Sign of Four, The Man Who Disappeared, The Case of the Greystone Inscription, The Case of the Winthrop Legend, The Case of Harry Crocker, The Case of The Imposter Mystery, The Case of the Jolly Hangmen) | DVD |
-| Volcano | Laserdisc |
 | Waiting for Guffman | DVD |
 | Waiting... | DVD |
 | Waitress | DVD |
@@ -1604,14 +1477,12 @@
 | Wallace and Gromit: The complete Collection (A matter of loaf and death, A grand day out, The wrong trousers, A close shave) | DVD |
 | Wanted | DVD |
 | War of the Worlds | DVD |
-| Wargames | Laserdisc |
 | Warlock | VHS |
 | Watchmen Director's Cut | Blu-ray |
 | Wayne's World | 4K |
 | We Are Marshall | HD-DVD |
 | We're Back A Dinosaur's Story | DVD |
 | We're Back A Dinosaur's Story | VHS |
-| We're No Angels | Laserdisc |
 | We're No Angels | VHS |
 | Wedding Crashers | Blu-Ray |
 | Weekend at Bernies | DVD |
@@ -1633,10 +1504,8 @@
 | Win a Date with Tad Hamilton! | DVD |
 | Wing Commander | DVD |
 | Wish Upon | Blu-Ray |
-| With Honors | Laserdisc |
 | Without a Paddle | DVD |
 | Wives and Daughters | DVD |
-| Wolf | Laserdisc |
 | Wonder Woman | 4k Blu-Ray |
 | Wonder Woman | Blu-Ray |
 | Wonder Woman (Animated) | DVD |
