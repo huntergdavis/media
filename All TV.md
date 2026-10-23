@@ -60,6 +60,7 @@
 | Ducktails Volume 1 Episodes 1-27 | DVD |
 | Earth 2 The complete Series | DVD |
 | ER Season 1 | DVD |
+| ER Season 4 | DVD |
 | Farscape 15th anniversary collection 1-4 | Blu-Ray |
 | Farscape Season 1-4 15th Anniversary | Blu-Ray |
 | Firefly: The Complete Series | DVD |
@@ -139,6 +140,7 @@
 | Party of Five Season 1 | DVD |
 | Peanuts Emmy Nominated Collection | DVD |
 | Penny Arcade The Series Season 1 | DVD |
+| Planet Earth The Complete Series | HD-DVD |
 | Poirot - The TV Movie Collection 3 | DVD |
 | Poirot Set 2 | DVD |
 | Police Squad! In Color | DVD |

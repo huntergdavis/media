@@ -178,6 +178,7 @@
 | Boondock Saints | DVD |
 | Bordello of Blood (Tales from the Crypt) | Blu-Ray |
 | Born of the Fourth of July | HD-DVD |
+| Born on the Fourth of July | HD-DVD |
 | Bounce | VHS |
 | Boy Eats Girl | DVD |
 | Bram Stoker's Dracula | Blu-Ray |
@@ -350,6 +351,7 @@
 | Ernest and Celestine | DVD |
 | Ernest goes to Camp | DVD |
 | Ernest Goes to Camp | DVD |
+| Ernest Triple Feature (Ernest Goes to Camp, Ernest Scared Stupid, Earnest Goes to Jail) | DVD |
 | Escaflowne | DVD |
 | Escape from New York no | DVD |
 | Escape Plan | DVD |
@@ -706,6 +708,7 @@
 | Madascar | DVD |
 | Maid to Order | VHS |
 | Malibu's Most Wanted | DVD |
+| Mallrats (Arrow Video) | 4k Blu-Ray |
 | Man Cave House Party collection, including Fubar, Beer League, American Virgin, and Growing Op. | DVD |
 | Man of Steel | Blu-Ray |
 | Marie Antoinette | DVD |
@@ -1095,6 +1098,7 @@
 | Swimfan | DVD |
 | Swing Kids | DVD |
 | Swiss Family Robinson (Disney) | DVD |
+| Swordfish | HD-DVD |
 | Taken | Blu-Ray |
 | Taken 2 | Blu-Ray |
 | Tales from Avonlea | VHS |
@@ -1484,6 +1488,7 @@
 | We're Back A Dinosaur's Story | DVD |
 | We're Back A Dinosaur's Story | VHS |
 | We're No Angels | VHS |
+| We're No Angels (1989 cinematographe) | 4k Blu-Ray |
 | Wedding Crashers | Blu-Ray |
 | Weekend at Bernies | DVD |
 | Weird Science | DVD |

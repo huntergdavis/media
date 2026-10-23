@@ -195,6 +195,7 @@
 | Even More Dazed And Confused (Music From The Motion Picture) | Various |
 | Evil Dead - Original Motion Picture Soundtrack | Roque Baños |
 | Evil Dead The Musical (Original Cast Recording) | Various |
+| Extended Versions | Barenaked Ladies |
 | Falconaires | The United States Air Force Band of the Rockies |
 | Falling Into You | Céline Dion |
 | Fallout From The Phil Zone | The Grateful Dead |
@@ -274,6 +275,7 @@
 | Hot Cakes | The Darkness |
 | Hot Rod - Music From The Motion Picture | Various |
 | I'm Outta Love | Anastacia |
+| I've Been Expecting You | Robbie Williams |
 | In My Tribe | 10,000 Maniacs |
 | In The Dark | The Grateful Dead |
 | In The Heights: Original Broadway Cast Recording | Lin-Manuel Miranda |
@@ -434,6 +436,7 @@
 | Pancho, Lefty And Rudolph | Merle Haggard And Willie Nelson |
 | Party Tyme Karaoke - Super Hits 3 | Unknown Artist |
 | PDX Pop Now! 2005 | Various |
+| PDX Pop Now! Volume 23 | Various Artists |
 | Pebbles Vol. 1 Original 60s Punk and Psych Classics | Various |
 | Permission To Land | The Darkness |
 | Personal File | Johnny Cash |
@@ -553,6 +556,7 @@
 | Sweet Home Alabama (Original Motion Picture Soundtrack) | Various |
 | Sweet Valley High (Songs From The TV Series) | Various |
 | Sweetheart (Love Songs) | Various |
+| Swing When You're Winning | Robbie Williams |
 | Tails | Lisa Loeb & Nine Stories |
 | Take Offs And Landings | Rilo Kiley |
 | Tales From The Crypt Presents: Demon Knight (Original Motion Picture Soundtrack) | Various |
@@ -671,6 +675,7 @@
 | Video Games Live (Volume One) | Various |
 | Vitalogy (生命学) | Pearl Jam |
 | Vol. 3: (The Subliminal Verses) | Slipknot |
+| Walt Disney's Fantasia Vol 1 | Various Artists |
 | We're A Happy Family - A Tribute To Ramones | Various |
 | We're A Happy Family - A Tribute To Ramones | Various |
 | Weezer (Green Album) | Weezer |

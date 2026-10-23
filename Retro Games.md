@@ -145,6 +145,7 @@
 | Temco's Deception | yes | yes | PS1 |
 | Tetris DX | no | no | Game Boy |
 | The Legend of Zelda Link's Awakening | no | no | Nintendo Switch |
+| The Legend of Zelda: Breath of the Wild | No | No | Nintendo Switch |
 | The Legend of Zelda: Echos of Wisdom | yes | yes | Nintendo Switch |
 | The Legend of Zelda: Tears of the Kingdom | yes | yes | Nintendo Switch |
 | The Lord of the Rings Aragorn's Quest | yes | yes | Wii |

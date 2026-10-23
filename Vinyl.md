@@ -5,6 +5,7 @@
 | 20 Golden Greats | Buddy Holly |
 | 50 Years of Blonde on Blonde | Old Crow Medicine Show |
 | A Night at the Opera | Queen |
+| Absolution | Muse |
 | And Out Come the Wolves | Rancid |
 | Animal Boy | The Ramones |
 | Archive of Folk Music | Woody Guthrie |
@@ -32,6 +33,8 @@
 | Coming Up for Air Santa Cruz 85 | Jerry Garcia |
 | Conker's Bad Fur Day Soundtrack | Robin Beanland |
 | Court and Spark | Joni Mitchell |
+| Dancing on the Wall | Muna |
+| Demon Knight (Music from and Inspired by the Motion Picture) | Various Artists |
 | Dookie | Green Day |
 | Double Fantasy | John Lennon |
 | Dreams on Toast | The Darkness |
@@ -141,6 +144,7 @@
 | The Story of The Clash | The Clash |
 | The War On Errorism | NOFX |
 | Three Cheers for Sweet Revenge | My Chemical Romance |
+| Three Cheers for Sweet Revenge (2025 Remix/Remaster) | My Chemical Romance |
 | Too Tough to Die | The Ramones |
 | Tuppence | Screaming Bloody Marys |
 | UnLeded | Dread Zeppelin |
