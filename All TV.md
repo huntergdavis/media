@@ -165,6 +165,7 @@
 | Rumpole of the Bailey Season 1 | DVD |
 | Rumpole of the Bailey Season 3 | DVD |
 | Ruroni Kenshin Legend of Kyoto: Innocense and Experience (ep 53-57) | DVD |
+| Saturday Night Live Bad Boys | DVD |
 | Saturday Night Live: The Best of Steve Martin | DVD |
 | Schoolhouse Rock science Rock | VHS |
 | Schoolhouse Rock! | DVD |
@@ -203,6 +204,8 @@
 | The Legend of Zelda Full Series | VHS |
 | The Magic School Bus The Complete Series | DVD |
 | The Marlow Murder Club Season 1 | DVD |
+| The Middle Season 1 | DVD |
+| The Middle Season 2 | DVD |
 | The Mighty Boosh Live | DVD |
 | The Muppet Show with Emotion John | VHS |
 | The Muppet show with Mark Hamil | VHS |

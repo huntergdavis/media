@@ -743,6 +743,7 @@
 | Miss Peregrine's home for Pecular Children | DVD |
 | Miss Pettigrew Lives for a Day | DVD |
 | Mixed Nuts | DVD |
+| Modern Times (Charlie Chaplin) | DVD |
 | Moll Flanders | DVD |
 | Monster's Inc | DVD |
 | Monty Python and the Holy Grail | DVD |
@@ -933,6 +934,7 @@
 | Road House | DVD |
 | Road Trip | DVD |
 | Robin Hood (disney) | DVD |
+| Robocop (Original) | DVD |
 | Robots | DVD |
 | Rocky | DVD |
 | Rogue One a Star Wars Story | Blu-Ray |
@@ -1206,10 +1208,12 @@
 | The Glass Bottom Boat | DVD |
 | The Godfather | DVD |
 | The Gods Must Be Crazy | DVD |
+| The Gold Rush (Charlie Chaplin) | DVD |
 | The Good Shepherd | HD-DVD |
 | The Good The Bad and The Ugly | DVD |
 | The Goonies | DVD |
 | The Goonies | VHS |
+| The Great Dictator (Charlie Chaplin) | DVD |
 | The Great Gatsby | DVD |
 | The Great Los Angeles EARTHQUAKE | DVD |
 | The Great Mouse Detective | DVD |
