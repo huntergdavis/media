@@ -323,6 +323,7 @@
 | Dredd | 4K Blu-Ray |
 | Drive Angry | Blu-Ray |
 | DuckTales the movie treasure of the Lost Lamp | VHS |
+| Dude Where's My Car | DVD |
 | Dune | DVD |
 | Dune (1980s) | HD-DVD |
 | Dune (Sci-Fi) | DVD |
@@ -344,6 +345,7 @@
 | Enchanted | DVD |
 | Enchanted April | DVD |
 | Enchanted Kingdom | DVD |
+| End of Days | DVD |
 | Entrapment | VHS |
 | Envy | DVD |
 | Equilibrium | DVD |
@@ -408,6 +410,7 @@
 | French Kiss | DVD |
 | Friday | DVD |
 | Friday After Next | DVD |
+| Fried Green Tomatoes | DVD |
 | From up on Poppy Hill | DVD |
 | Frost Nixon | Blu-Ray |
 | Full Metal Jacket | DVD |
@@ -472,6 +475,7 @@
 | Hangmen | DVD |
 | Hansel and Gretel Witch Hunters | DVD |
 | Happy Birthday Mr Bean | DVD |
+| Happy Gilmore | DVD |
 | Harold & Kumar Go To White Castle | DVD |
 | Harold and Kumar 1 and 2 | DVD |
 | Harold and Kumar go to Guantanamo Bay | DVD |
@@ -1095,6 +1099,7 @@
 | Superman Returns | HD-DVD |
 | SuperTroopers 2 | DVD |
 | Surf's Up | DVD |
+| Surrogates | DVD |
 | Swan Lake | VHS |
 | Sweeny Todd | DVD |
 | Swimfan | DVD |
@@ -1231,6 +1236,7 @@
 | The Hitchhikers Guide to the Galaxy | DVD |
 | The Hobbit (Rankin Bass) | DVD |
 | The Hobbit: An Unexpected Journey Extended Edition | Blu-Ray |
+| The Hobbit: Battle of the five Armies | DVD |
 | The Hobbit: The Desolation of Smaug | DVD |
 | The Holiday | Blu-Ray |
 | The Hot Chick | DVD |

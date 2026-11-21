@@ -28,6 +28,7 @@
 | Muse: Manic Depression | DVD |
 | Nirvana MTV Unplugged in New York | DVD |
 | Paramore: The Final Riot | Blu-Ray |
+| Party Time Kareoke Christmas Sing Along 2 | DVD |
 | Permanent Record: Violent Femmes Live | DVD |
 | Pink Floyd The Wall | DVD |
 | Punk Rock Summer Camp | DVD |
@@ -40,6 +41,7 @@
 | Rock and Roll High School | DVD |
 | Seattle Grand Poetry Slam | DVD |
 | Shania Twain The Platinum Collection | DVD |
+| Shut up and Sing! (Dixie Chicks Blockbuster Exclusive) | DVD |
 | Stone Temple Pilots: Live in the Windy City | DVD |
 | Super Mario History Soundtrack | CD |
 | Sweatin to the oldies 4 | VHS |
