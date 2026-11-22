@@ -58,6 +58,7 @@
 | Amputechture | The Mars Volta |
 | Anastasia (Music From The Motion Picture) | David Newman |
 | Anthem Of The Sun | The Grateful Dead |
+| Anthology | Ray Charles |
 | Anthology 1 | The Beatles |
 | Anthology 2 | The Beatles |
 | Appeal To Reason | Rise Against |
@@ -111,6 +112,7 @@
 | Brave And Crazy | Melissa Etheridge |
 | Bringing Down The Horse | The Wallflowers |
 | Britney | Britney Spears |
+| Broadway the Hard Way | Frank Zappa |
 | Brokedown Palace Music From The Original Motion Picture Soundtrack | Various |
 | Brooks Collection | Garth Brooks |
 | Buffy The Vampire Slayer (The Album) | Various |
@@ -389,6 +391,7 @@
 | Musical Mischief! | Baby Looney Tunes |
 | My Fair Lady Original Cast | Herman Levin |
 | My So-Called Life - Music From And Inspired By | Various |
+| Natural History: The Very Best of Talk Talk | Talk Talk |
 | NBC Celebrity Christmas | Various |
 | Never enough | Melissa Etheridge |
 | Never Enough | Melissa Etheridge |
@@ -444,6 +447,7 @@
 | Our Time In Eden | 10,000 Maniacs |
 | Pancho, Lefty And Rudolph | Merle Haggard And Willie Nelson |
 | Party Tyme Karaoke - Super Hits 3 | Unknown Artist |
+| Past Masters Volume 1 | The Beatles |
 | PDX Pop Now! 2005 | Various |
 | PDX Pop Now! Volume 23 | Various Artists |
 | Pebbles Vol. 1 Original 60s Punk and Psych Classics | Various |
@@ -674,6 +678,7 @@
 | Tron Legacy R3C0NF1GUR3D | Daft Punk |
 | Tubthumper | Chumbawamba |
 | Un-Led-Ed | Dread Zeppelin |
+| Unity: The official Athens 2004 Olympic Games Album | Various Artists |
 | Unplugged | Eric Clapton |
 | Uptown MTV Unplugged | Various |
 | Urban Hymns | The Verve |
