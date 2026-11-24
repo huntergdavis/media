@@ -58,6 +58,7 @@
 | Dragon Ball Z Season 4 | DVD |
 | Dragon Ball Z Season 8 | DVD |
 | Ducktails Volume 1 Episodes 1-27 | DVD |
+| Dune Collection (Dune, Children of Dune Miniseries) | DVD |
 | Earth 2 The complete Series | DVD |
 | ER Season 1 | DVD |
 | ER Season 4 | DVD |
@@ -104,6 +105,7 @@
 | Inspector Morse Set Ten | DVD |
 | It's Always Sunny In Philadelphia A Very Sunny Christmas | DVD |
 | It's Always Sunny in Philadelphia Seasons 1 and 2 | DVD |
+| iZombie Season 1 | DVD |
 | Jeremiah: The Complete First Season | DVD |
 | La Bande Apicsou (Ducktales) | DVD |
 | La Femme Nikita Season 1 | DVD |
@@ -153,6 +155,7 @@
 | Psych Season 3 | DVD |
 | Psych Season 4 | DVD |
 | Punked Season 1 | DVD |
+| Punky Brewster (8 Episodes) | DVD |
 | Pushing Daisey's Season 1 | DVD |
 | Queen's Blade The Exiled Virgin 1 | DVD |
 | Queen's Blade The Exiled Virgin 2 | DVD |
@@ -178,6 +181,7 @@
 | Scrubs: The Complete 6th Season | DVD |
 | Scrubs: The Complete 8th Season | DVD |
 | Seattle Mariners Classic Commercials | DVD |
+| Silk Stocking Season 1 | DVD |
 | Smallville Season 5 | HD-DVD |
 | Son of the Beach Season 1 | DVD |
 | Sons of Anarchy Season 1 | DVD |
@@ -186,10 +190,12 @@
 | Spawn: The Ultimate Collection | DVD |
 | Stan Lee's Mighty 7 Beginnings | DVD |
 | Stan Lee's Mutants Monsters and Marvels | DVD |
+| Star Trek Fan Collective Borg | DVD |
 | Star Trek Voyager: Season 1 | DVD |
 | Star Trek Voyager: Season 4 | DVD |
 | Star Trek: Deep Space Nine The Chosen Collection (All Seasons) | DVD |
 | Stephen King's The Stand | VHS |
+| Teen Titans Season 5 | DVD |
 | That 70s Show Season 3 | DVD |
 | That 70s Show Season 4 | DVD |
 | That 70s Show Season 5 | DVD |
@@ -235,5 +241,6 @@
 | Warehouse 13: Season 1 | DVD |
 | Whitest Kids You Know Season 1 and 2 | DVD |
 | Will Ferrell SNL Collection | DVD |
+| Women's Murder Club Season 1 | DVD |
 | Workaholics Season 1 and 2 | Blu-Ray |
 | Yes, Prime Minister: Complete Series | DVD |

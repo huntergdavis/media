@@ -67,6 +67,8 @@
 | American Dreamz | DVD |
 | American Grafitti | DVD |
 | American History X | Blu-Ray |
+| An American Tail (+ Feivel Goes West) | DVD |
+| An American Werewolf in London | DVD |
 | An American Werewolf in Paris | DVD |
 | Anaconda | DVD |
 | Anastasia | Blu-ray |
@@ -232,6 +234,7 @@
 | Club Dread | DVD |
 | Clueless Whatever Edition | DVD |
 | Cocaine Bear | Blu-Ray |
+| Coco | Blu-Ray |
 | Cold Comfort Farm | DVD |
 | Collateral | Blu-Ray |
 | Commando | DVD |
@@ -338,6 +341,7 @@
 | Ella Enchanted | DVD |
 | Elvira Mistress of the Night | VHS |
 | Elvira's Movie Macabre Double Feature - Blue Sunshine, Monstroid | DVD |
+| Elvira: Mistress of the Dark | DVD |
 | Elysium | DVD |
 | Emma and Jane Eyre | DVD |
 | Empire Records | VHS |
@@ -499,6 +503,7 @@
 | Herbie 4-Movie Collection (The Love bug, rides again, goes to monte carlo, goes bannanas) | DVD |
 | Herbie Fully Loaded (Lohan) | DVD |
 | Hercules | Blu-Ray |
+| Hercules (Disney) | DVD |
 | Hero (Jet Li) | DVD |
 | High Fidelity | DVD |
 | High Note | Blu-Ray |
@@ -719,6 +724,7 @@
 | Martin Lawrence you so crazy | DVD |
 | Master and Commander the Far Side of the World | DVD |
 | Material Girls | DVD |
+| Matilda | DVD |
 | Maverick and Wild Wild West | DVD |
 | Max Max The Road Warrior and Beyond Thunderdome | DVD |
 | Max Payne Unrated | DVD |
@@ -828,6 +834,8 @@
 | Orange County | DVD |
 | Original Sin | DVD |
 | Our Idiot Brother | Blu-Ray |
+| Our Man Flint | DVD |
+| Out Cold | DVD |
 | Outlander | Blu-Ray |
 | Over Washington | VHS |
 | Overboard (Goldie Hawn) | DVD |
@@ -898,6 +906,7 @@
 | Python | DVD |
 | Queen of the Damned | DVD |
 | Quest for Camalot | VHS |
+| Quest for Camelot | DVD |
 | Race for your Life Charlie Brown, Bon Voyage Charlie Brown | DVD |
 | Racing Stripes | DVD |
 | Raiders of the Lost ark | VHS |
@@ -1015,6 +1024,7 @@
 | Snow White and the Seven Dwarfs | DVD |
 | Snowpiercer | DVD |
 | So I Married an Axe Murderer | DVD |
+| Solo a Star Wars Story | DVD |
 | Some Like it Hot | DVD |
 | Son In Law | DVD |
 | Son of Batman | DVD |
@@ -1196,6 +1206,7 @@
 | The Doors (An Oliver Stone Film) | DVD |
 | The Dressmaker | DVD |
 | The Dukes of Hazzard | DVD |
+| The Emperor's New Groove | DVD |
 | The Englishmen who went up a hill but came down a mountain | DVD |
 | The Evil Dead | Blu-Ray |
 | The Ex | DVD |
@@ -1296,6 +1307,7 @@
 | The Matrix | DVD |
 | The Matrix 1,2,3 and Animatrix | DVD |
 | The Matrix 4-Film Deja Vou Collection (Matrix 1-3 and Ressurection) | Blu-Ray |
+| The Medallion | DVD |
 | The Men Who Stare At Goats | DVD |
 | The mighty Ducks | DVD |
 | The Mist | DVD |
@@ -1314,6 +1326,7 @@
 | The Musketeer | DVD |
 | The Naked Gun | DVD |
 | The Net | VHS |
+| The Net | DVD |
 | The Night Before | DVD |
 | The Nines | DVD |
 | The Number 23 | DVD |
@@ -1371,6 +1384,7 @@
 | The Surburbans | DVD |
 | The Sweetest Thing | DVD |
 | The Sword in the Stone | DVD |
+| The Tale of Despereaux | DVD |
 | The Terminator | DVD |
 | The Thing | DVD |
 | The Thomas Crown Affair | DVD |
@@ -1424,6 +1438,7 @@
 | Touristas Unrated | DVD |
 | Toy Story 2 | DVD |
 | Toy Story 3 | DVD |
+| Toy Story 4 | Blu-Ray |
 | Toy Story: 10th Anniversary Edition | DVD |
 | Trailer Park Boys: Countdown to Liquor Day | DVD |
 | Trailer Park Boys: Say Goodnight to the Bad Guys | DVD |
